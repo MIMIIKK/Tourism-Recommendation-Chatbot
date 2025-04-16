@@ -1,0 +1,407 @@
+activity_id,name,description,destination_id,category,environmental_impact_score,local_community_benefit_score,resource_consumption_score,seasonal_availability
+1,Adventure Activity 1,This is a adventure activity in destination 1,1,Adventure,5.4,4.9,1.4,Year-round
+2,Volunteer Activity 2,This is a volunteer activity in destination 1,1,Volunteer,4.0,9.2,2.8,Spring/Fall
+3,Culinary Activity 3,This is a culinary activity in destination 2,2,Culinary,3.5,7.7,8.7,Spring/Fall
+4,Culinary Activity 4,This is a culinary activity in destination 2,2,Culinary,4.4,4.7,2.7,Winter only
+5,Culinary Activity 5,This is a culinary activity in destination 2,2,Culinary,3.8,4.5,8.3,Seasonal
+6,Culinary Activity 6,This is a culinary activity in destination 2,2,Culinary,3.3,7.5,2.0,Seasonal
+7,Culinary Activity 7,This is a culinary activity in destination 2,2,Culinary,5.3,8.3,8.3,Spring/Fall
+8,Educational Activity 8,This is a educational activity in destination 2,2,Educational,3.9,5.0,1.7,Year-round
+9,Volunteer Activity 9,This is a volunteer activity in destination 3,3,Volunteer,1.2,6.1,2.9,Summer only
+10,Cultural Activity 10,This is a cultural activity in destination 3,3,Cultural,4.6,8.6,7.1,Winter only
+11,Relaxation Activity 11,This is a relaxation activity in destination 4,4,Relaxation,5.9,4.7,7.9,Year-round
+12,Cultural Activity 12,This is a cultural activity in destination 4,4,Cultural,5.5,7.0,1.7,Year-round
+13,Culinary Activity 13,This is a culinary activity in destination 4,4,Culinary,3.7,5.2,3.3,Spring/Fall
+14,Culinary Activity 14,This is a culinary activity in destination 4,4,Culinary,4.7,4.3,3.2,Seasonal
+15,Adventure Activity 15,This is a adventure activity in destination 4,4,Adventure,6.5,6.9,3.8,Winter only
+16,Relaxation Activity 16,This is a relaxation activity in destination 5,5,Relaxation,5.6,7.6,9.7,Year-round
+17,Relaxation Activity 17,This is a relaxation activity in destination 5,5,Relaxation,3.5,4.9,6.8,Spring/Fall
+18,Nature Activity 18,This is a nature activity in destination 5,5,Nature,4.9,7.4,5.8,Spring/Fall
+19,Volunteer Activity 19,This is a volunteer activity in destination 6,6,Volunteer,2.6,9.6,6.8,Spring/Fall
+20,Educational Activity 20,This is a educational activity in destination 6,6,Educational,3.5,7.4,6.4,Year-round
+21,Volunteer Activity 21,This is a volunteer activity in destination 6,6,Volunteer,3.4,8.4,4.8,Seasonal
+22,Volunteer Activity 22,This is a volunteer activity in destination 7,7,Volunteer,3.3,6.8,8.0,Summer only
+23,Cultural Activity 23,This is a cultural activity in destination 7,7,Cultural,5.2,7.1,9.9,Spring/Fall
+24,Relaxation Activity 24,This is a relaxation activity in destination 8,8,Relaxation,4.4,6.6,8.1,Winter only
+25,Culinary Activity 25,This is a culinary activity in destination 8,8,Culinary,5.8,6.8,6.5,Summer only
+26,Culinary Activity 26,This is a culinary activity in destination 8,8,Culinary,6.0,5.7,4.0,Summer only
+27,Adventure Activity 27,This is a adventure activity in destination 9,9,Adventure,5.9,3.5,7.7,Winter only
+28,Cultural Activity 28,This is a cultural activity in destination 9,9,Cultural,3.3,8.4,4.8,Seasonal
+29,Educational Activity 29,This is a educational activity in destination 9,9,Educational,4.5,7.1,6.8,Spring/Fall
+30,Culinary Activity 30,This is a culinary activity in destination 9,9,Culinary,5.2,5.0,9.3,Seasonal
+31,Nature Activity 31,This is a nature activity in destination 9,9,Nature,3.2,6.7,2.6,Spring/Fall
+32,Volunteer Activity 32,This is a volunteer activity in destination 10,10,Volunteer,4.1,7.1,2.1,Summer only
+33,Nature Activity 33,This is a nature activity in destination 10,10,Nature,3.9,8.6,4.5,Seasonal
+34,Volunteer Activity 34,This is a volunteer activity in destination 10,10,Volunteer,3.7,6.8,4.2,Winter only
+35,Culinary Activity 35,This is a culinary activity in destination 11,11,Culinary,3.6,6.1,6.2,Year-round
+36,Educational Activity 36,This is a educational activity in destination 11,11,Educational,3.8,6.2,7.1,Year-round
+37,Nature Activity 37,This is a nature activity in destination 11,11,Nature,4.1,9.2,2.7,Summer only
+38,Culinary Activity 38,This is a culinary activity in destination 11,11,Culinary,6.4,7.9,3.2,Summer only
+39,Relaxation Activity 39,This is a relaxation activity in destination 11,11,Relaxation,7.0,7.5,10.0,Seasonal
+40,Educational Activity 40,This is a educational activity in destination 12,12,Educational,5.4,4.7,3.2,Spring/Fall
+41,Culinary Activity 41,This is a culinary activity in destination 12,12,Culinary,3.1,6.8,9.2,Year-round
+42,Cultural Activity 42,This is a cultural activity in destination 12,12,Cultural,6.9,5.7,2.2,Seasonal
+43,Cultural Activity 43,This is a cultural activity in destination 12,12,Cultural,4.8,8.8,9.6,Spring/Fall
+44,Culinary Activity 44,This is a culinary activity in destination 12,12,Culinary,6.8,7.2,4.5,Summer only
+45,Adventure Activity 45,This is a adventure activity in destination 12,12,Adventure,4.7,5.3,3.3,Winter only
+46,Culinary Activity 46,This is a culinary activity in destination 13,13,Culinary,6.4,8.0,5.8,Year-round
+47,Cultural Activity 47,This is a cultural activity in destination 13,13,Cultural,5.6,8.4,4.4,Spring/Fall
+48,Volunteer Activity 48,This is a volunteer activity in destination 13,13,Volunteer,4.6,8.3,7.7,Winter only
+49,Culinary Activity 49,This is a culinary activity in destination 13,13,Culinary,6.6,8.4,6.6,Seasonal
+50,Adventure Activity 50,This is a adventure activity in destination 13,13,Adventure,7.1,3.5,5.4,Summer only
+51,Volunteer Activity 51,This is a volunteer activity in destination 14,14,Volunteer,4.8,6.5,3.0,Winter only
+52,Adventure Activity 52,This is a adventure activity in destination 14,14,Adventure,7.5,7.7,8.5,Spring/Fall
+53,Relaxation Activity 53,This is a relaxation activity in destination 14,14,Relaxation,6.5,7.6,8.2,Year-round
+54,Volunteer Activity 54,This is a volunteer activity in destination 14,14,Volunteer,3.5,6.0,5.7,Seasonal
+55,Educational Activity 55,This is a educational activity in destination 14,14,Educational,3.9,4.7,4.6,Seasonal
+56,Culinary Activity 56,This is a culinary activity in destination 14,14,Culinary,6.9,7.5,5.0,Year-round
+57,Adventure Activity 57,This is a adventure activity in destination 15,15,Adventure,6.4,3.3,8.1,Spring/Fall
+58,Culinary Activity 58,This is a culinary activity in destination 15,15,Culinary,4.0,8.9,7.1,Seasonal
+59,Relaxation Activity 59,This is a relaxation activity in destination 15,15,Relaxation,5.8,8.7,2.2,Spring/Fall
+60,Volunteer Activity 60,This is a volunteer activity in destination 15,15,Volunteer,4.6,9.1,6.1,Seasonal
+61,Nature Activity 61,This is a nature activity in destination 15,15,Nature,4.4,8.4,4.9,Summer only
+62,Volunteer Activity 62,This is a volunteer activity in destination 15,15,Volunteer,3.3,9.1,1.6,Spring/Fall
+63,Volunteer Activity 63,This is a volunteer activity in destination 16,16,Volunteer,2.2,6.9,6.0,Winter only
+64,Adventure Activity 64,This is a adventure activity in destination 16,16,Adventure,5.5,4.0,9.8,Year-round
+65,Educational Activity 65,This is a educational activity in destination 16,16,Educational,4.0,4.0,5.1,Summer only
+66,Cultural Activity 66,This is a cultural activity in destination 16,16,Cultural,6.0,5.2,3.7,Summer only
+67,Relaxation Activity 67,This is a relaxation activity in destination 17,17,Relaxation,4.2,8.1,7.4,Year-round
+68,Cultural Activity 68,This is a cultural activity in destination 17,17,Cultural,4.4,5.1,2.8,Spring/Fall
+69,Culinary Activity 69,This is a culinary activity in destination 18,18,Culinary,6.2,6.4,9.9,Spring/Fall
+70,Educational Activity 70,This is a educational activity in destination 18,18,Educational,3.4,8.5,9.0,Spring/Fall
+71,Volunteer Activity 71,This is a volunteer activity in destination 18,18,Volunteer,1.5,9.1,6.8,Spring/Fall
+72,Nature Activity 72,This is a nature activity in destination 19,19,Nature,4.6,9.4,4.0,Seasonal
+73,Nature Activity 73,This is a nature activity in destination 19,19,Nature,1.8,9.8,8.5,Year-round
+74,Nature Activity 74,This is a nature activity in destination 19,19,Nature,2.3,8.9,6.3,Spring/Fall
+75,Nature Activity 75,This is a nature activity in destination 19,19,Nature,4.2,8.9,7.2,Seasonal
+76,Nature Activity 76,This is a nature activity in destination 19,19,Nature,3.1,9.7,9.7,Year-round
+77,Volunteer Activity 77,This is a volunteer activity in destination 19,19,Volunteer,3.9,7.8,9.3,Spring/Fall
+78,Adventure Activity 78,This is a adventure activity in destination 20,20,Adventure,8.0,7.0,4.6,Winter only
+79,Nature Activity 79,This is a nature activity in destination 20,20,Nature,3.7,9.0,6.5,Spring/Fall
+80,Culinary Activity 80,This is a culinary activity in destination 20,20,Culinary,5.1,7.8,4.1,Year-round
+81,Cultural Activity 81,This is a cultural activity in destination 21,21,Cultural,7.0,5.2,7.4,Spring/Fall
+82,Relaxation Activity 82,This is a relaxation activity in destination 21,21,Relaxation,3.4,8.8,6.6,Winter only
+83,Adventure Activity 83,This is a adventure activity in destination 21,21,Adventure,5.1,5.8,1.8,Year-round
+84,Relaxation Activity 84,This is a relaxation activity in destination 22,22,Relaxation,6.3,4.2,1.2,Winter only
+85,Nature Activity 85,This is a nature activity in destination 22,22,Nature,1.7,6.8,7.7,Year-round
+86,Nature Activity 86,This is a nature activity in destination 22,22,Nature,3.9,6.5,9.5,Summer only
+87,Educational Activity 87,This is a educational activity in destination 22,22,Educational,4.3,5.2,9.3,Spring/Fall
+88,Volunteer Activity 88,This is a volunteer activity in destination 23,23,Volunteer,3.5,6.7,3.1,Summer only
+89,Nature Activity 89,This is a nature activity in destination 23,23,Nature,1.9,6.7,6.3,Winter only
+90,Educational Activity 90,This is a educational activity in destination 23,23,Educational,3.7,6.2,6.2,Seasonal
+91,Educational Activity 91,This is a educational activity in destination 24,24,Educational,5.1,7.4,9.8,Winter only
+92,Educational Activity 92,This is a educational activity in destination 24,24,Educational,5.9,6.0,4.5,Spring/Fall
+93,Adventure Activity 93,This is a adventure activity in destination 25,25,Adventure,7.6,3.2,5.7,Seasonal
+94,Relaxation Activity 94,This is a relaxation activity in destination 25,25,Relaxation,6.3,8.4,2.9,Seasonal
+95,Nature Activity 95,This is a nature activity in destination 25,25,Nature,1.7,10.0,5.0,Year-round
+96,Nature Activity 96,This is a nature activity in destination 25,25,Nature,1.2,9.0,6.1,Winter only
+97,Culinary Activity 97,This is a culinary activity in destination 26,26,Culinary,3.2,5.7,8.6,Year-round
+98,Relaxation Activity 98,This is a relaxation activity in destination 26,26,Relaxation,4.5,7.9,5.3,Spring/Fall
+99,Cultural Activity 99,This is a cultural activity in destination 26,26,Cultural,4.0,6.8,3.0,Spring/Fall
+100,Volunteer Activity 100,This is a volunteer activity in destination 27,27,Volunteer,4.0,7.0,4.0,Summer only
+101,Cultural Activity 101,This is a cultural activity in destination 27,27,Cultural,4.6,7.5,8.7,Winter only
+102,Relaxation Activity 102,This is a relaxation activity in destination 27,27,Relaxation,4.4,8.3,2.9,Seasonal
+103,Relaxation Activity 103,This is a relaxation activity in destination 27,27,Relaxation,6.7,5.9,2.5,Year-round
+104,Culinary Activity 104,This is a culinary activity in destination 27,27,Culinary,3.7,6.9,10.0,Summer only
+105,Volunteer Activity 105,This is a volunteer activity in destination 28,28,Volunteer,3.2,9.0,4.7,Year-round
+106,Cultural Activity 106,This is a cultural activity in destination 28,28,Cultural,3.9,4.4,3.6,Winter only
+107,Adventure Activity 107,This is a adventure activity in destination 28,28,Adventure,6.4,6.2,7.5,Winter only
+108,Cultural Activity 108,This is a cultural activity in destination 28,28,Cultural,3.2,8.9,7.6,Winter only
+109,Educational Activity 109,This is a educational activity in destination 29,29,Educational,4.0,6.4,2.4,Year-round
+110,Culinary Activity 110,This is a culinary activity in destination 29,29,Culinary,4.9,6.8,1.2,Summer only
+111,Nature Activity 111,This is a nature activity in destination 29,29,Nature,3.9,6.1,4.1,Spring/Fall
+112,Adventure Activity 112,This is a adventure activity in destination 29,29,Adventure,5.0,7.1,6.2,Year-round
+113,Nature Activity 113,This is a nature activity in destination 30,30,Nature,4.9,6.5,5.4,Spring/Fall
+114,Volunteer Activity 114,This is a volunteer activity in destination 30,30,Volunteer,2.1,8.3,4.7,Summer only
+115,Relaxation Activity 115,This is a relaxation activity in destination 30,30,Relaxation,3.3,5.7,9.6,Winter only
+116,Cultural Activity 116,This is a cultural activity in destination 30,30,Cultural,4.5,6.4,2.7,Year-round
+117,Volunteer Activity 117,This is a volunteer activity in destination 30,30,Volunteer,1.7,8.7,3.3,Summer only
+118,Educational Activity 118,This is a educational activity in destination 30,30,Educational,3.9,4.5,9.8,Year-round
+119,Volunteer Activity 119,This is a volunteer activity in destination 31,31,Volunteer,4.1,9.1,5.8,Summer only
+120,Volunteer Activity 120,This is a volunteer activity in destination 31,31,Volunteer,2.0,8.3,8.0,Year-round
+121,Nature Activity 121,This is a nature activity in destination 31,31,Nature,3.4,9.6,5.2,Winter only
+122,Relaxation Activity 122,This is a relaxation activity in destination 32,32,Relaxation,6.5,4.4,7.8,Year-round
+123,Cultural Activity 123,This is a cultural activity in destination 32,32,Cultural,5.8,5.1,3.5,Spring/Fall
+124,Relaxation Activity 124,This is a relaxation activity in destination 33,33,Relaxation,6.8,6.7,4.4,Summer only
+125,Cultural Activity 125,This is a cultural activity in destination 33,33,Cultural,3.7,7.0,5.4,Summer only
+126,Cultural Activity 126,This is a cultural activity in destination 33,33,Cultural,5.6,6.4,3.1,Summer only
+127,Culinary Activity 127,This is a culinary activity in destination 33,33,Culinary,6.0,8.5,9.8,Year-round
+128,Culinary Activity 128,This is a culinary activity in destination 34,34,Culinary,5.2,5.0,2.0,Year-round
+129,Educational Activity 129,This is a educational activity in destination 34,34,Educational,3.2,6.7,9.3,Seasonal
+130,Adventure Activity 130,This is a adventure activity in destination 34,34,Adventure,6.1,4.9,3.3,Spring/Fall
+131,Relaxation Activity 131,This is a relaxation activity in destination 34,34,Relaxation,6.6,7.0,6.3,Year-round
+132,Relaxation Activity 132,This is a relaxation activity in destination 35,35,Relaxation,5.0,6.7,5.7,Year-round
+133,Culinary Activity 133,This is a culinary activity in destination 35,35,Culinary,4.2,5.8,5.9,Spring/Fall
+134,Cultural Activity 134,This is a cultural activity in destination 35,35,Cultural,6.4,7.8,9.0,Winter only
+135,Adventure Activity 135,This is a adventure activity in destination 35,35,Adventure,4.8,5.9,1.1,Year-round
+136,Adventure Activity 136,This is a adventure activity in destination 35,35,Adventure,4.7,7.4,6.4,Seasonal
+137,Culinary Activity 137,This is a culinary activity in destination 36,36,Culinary,6.1,8.3,5.1,Winter only
+138,Cultural Activity 138,This is a cultural activity in destination 36,36,Cultural,5.5,8.7,4.1,Year-round
+139,Volunteer Activity 139,This is a volunteer activity in destination 36,36,Volunteer,2.9,7.2,6.6,Summer only
+140,Adventure Activity 140,This is a adventure activity in destination 36,36,Adventure,6.5,3.1,9.6,Spring/Fall
+141,Adventure Activity 141,This is a adventure activity in destination 37,37,Adventure,6.6,7.6,9.4,Winter only
+142,Educational Activity 142,This is a educational activity in destination 37,37,Educational,4.5,4.5,1.5,Spring/Fall
+143,Nature Activity 143,This is a nature activity in destination 38,38,Nature,3.4,9.2,9.2,Summer only
+144,Volunteer Activity 144,This is a volunteer activity in destination 38,38,Volunteer,2.8,9.7,3.1,Year-round
+145,Educational Activity 145,This is a educational activity in destination 38,38,Educational,6.9,8.8,2.3,Spring/Fall
+146,Adventure Activity 146,This is a adventure activity in destination 38,38,Adventure,4.5,5.3,7.9,Spring/Fall
+147,Culinary Activity 147,This is a culinary activity in destination 38,38,Culinary,5.9,4.6,7.1,Winter only
+148,Educational Activity 148,This is a educational activity in destination 38,38,Educational,5.3,5.3,7.2,Seasonal
+149,Nature Activity 149,This is a nature activity in destination 39,39,Nature,1.4,7.5,4.5,Winter only
+150,Adventure Activity 150,This is a adventure activity in destination 39,39,Adventure,4.5,4.9,1.9,Winter only
+151,Adventure Activity 151,This is a adventure activity in destination 40,40,Adventure,6.4,3.8,6.0,Spring/Fall
+152,Nature Activity 152,This is a nature activity in destination 40,40,Nature,2.4,7.5,1.8,Seasonal
+153,Cultural Activity 153,This is a cultural activity in destination 41,41,Cultural,6.0,6.3,8.2,Year-round
+154,Adventure Activity 154,This is a adventure activity in destination 41,41,Adventure,8.0,4.0,4.2,Spring/Fall
+155,Nature Activity 155,This is a nature activity in destination 41,41,Nature,2.2,6.9,2.1,Year-round
+156,Adventure Activity 156,This is a adventure activity in destination 41,41,Adventure,6.0,3.0,4.5,Year-round
+157,Volunteer Activity 157,This is a volunteer activity in destination 42,42,Volunteer,4.2,6.7,9.3,Seasonal
+158,Relaxation Activity 158,This is a relaxation activity in destination 42,42,Relaxation,6.2,7.1,6.7,Spring/Fall
+159,Adventure Activity 159,This is a adventure activity in destination 42,42,Adventure,4.7,3.5,1.0,Winter only
+160,Culinary Activity 160,This is a culinary activity in destination 42,42,Culinary,5.7,6.0,1.4,Spring/Fall
+161,Relaxation Activity 161,This is a relaxation activity in destination 42,42,Relaxation,4.8,6.7,3.0,Year-round
+162,Relaxation Activity 162,This is a relaxation activity in destination 43,43,Relaxation,5.7,8.4,3.0,Year-round
+163,Adventure Activity 163,This is a adventure activity in destination 43,43,Adventure,4.3,5.9,5.4,Winter only
+164,Culinary Activity 164,This is a culinary activity in destination 43,43,Culinary,6.1,7.3,2.8,Summer only
+165,Adventure Activity 165,This is a adventure activity in destination 43,43,Adventure,5.0,6.4,10.0,Winter only
+166,Educational Activity 166,This is a educational activity in destination 44,44,Educational,5.8,7.7,2.7,Spring/Fall
+167,Volunteer Activity 167,This is a volunteer activity in destination 44,44,Volunteer,1.0,6.2,9.7,Seasonal
+168,Volunteer Activity 168,This is a volunteer activity in destination 44,44,Volunteer,3.9,6.7,7.3,Year-round
+169,Educational Activity 169,This is a educational activity in destination 44,44,Educational,6.7,6.7,9.8,Winter only
+170,Adventure Activity 170,This is a adventure activity in destination 44,44,Adventure,5.3,6.0,1.0,Year-round
+171,Educational Activity 171,This is a educational activity in destination 45,45,Educational,4.7,7.1,3.0,Summer only
+172,Relaxation Activity 172,This is a relaxation activity in destination 45,45,Relaxation,5.5,6.7,7.7,Spring/Fall
+173,Volunteer Activity 173,This is a volunteer activity in destination 46,46,Volunteer,4.4,7.0,8.1,Year-round
+174,Cultural Activity 174,This is a cultural activity in destination 46,46,Cultural,5.5,4.1,9.8,Seasonal
+175,Volunteer Activity 175,This is a volunteer activity in destination 46,46,Volunteer,4.4,9.9,4.5,Seasonal
+176,Educational Activity 176,This is a educational activity in destination 46,46,Educational,5.3,4.6,7.4,Spring/Fall
+177,Relaxation Activity 177,This is a relaxation activity in destination 47,47,Relaxation,5.1,7.5,7.4,Summer only
+178,Relaxation Activity 178,This is a relaxation activity in destination 47,47,Relaxation,3.5,8.6,1.5,Year-round
+179,Culinary Activity 179,This is a culinary activity in destination 47,47,Culinary,3.0,7.0,9.6,Spring/Fall
+180,Volunteer Activity 180,This is a volunteer activity in destination 47,47,Volunteer,2.5,7.0,7.6,Year-round
+181,Cultural Activity 181,This is a cultural activity in destination 48,48,Cultural,3.6,7.0,2.1,Summer only
+182,Volunteer Activity 182,This is a volunteer activity in destination 48,48,Volunteer,1.8,8.7,6.6,Year-round
+183,Adventure Activity 183,This is a adventure activity in destination 48,48,Adventure,5.7,6.0,9.3,Summer only
+184,Adventure Activity 184,This is a adventure activity in destination 48,48,Adventure,5.5,3.6,4.5,Year-round
+185,Relaxation Activity 185,This is a relaxation activity in destination 48,48,Relaxation,3.2,5.4,8.0,Summer only
+186,Nature Activity 186,This is a nature activity in destination 49,49,Nature,2.3,7.7,3.8,Year-round
+187,Relaxation Activity 187,This is a relaxation activity in destination 49,49,Relaxation,4.4,8.8,3.9,Year-round
+188,Volunteer Activity 188,This is a volunteer activity in destination 49,49,Volunteer,1.7,8.9,9.9,Spring/Fall
+189,Volunteer Activity 189,This is a volunteer activity in destination 50,50,Volunteer,3.1,7.4,7.6,Summer only
+190,Educational Activity 190,This is a educational activity in destination 50,50,Educational,5.1,8.5,1.8,Winter only
+191,Nature Activity 191,This is a nature activity in destination 50,50,Nature,1.4,9.5,6.5,Winter only
+192,Volunteer Activity 192,This is a volunteer activity in destination 50,50,Volunteer,4.2,6.7,2.7,Summer only
+193,Educational Activity 193,This is a educational activity in destination 50,50,Educational,6.1,4.6,7.5,Spring/Fall
+194,Adventure Activity 194,This is a adventure activity in destination 50,50,Adventure,4.4,5.5,8.3,Winter only
+195,Educational Activity 195,This is a educational activity in destination 51,51,Educational,5.1,7.8,9.8,Seasonal
+196,Adventure Activity 196,This is a adventure activity in destination 51,51,Adventure,5.4,6.1,4.5,Seasonal
+197,Educational Activity 197,This is a educational activity in destination 51,51,Educational,5.2,5.3,9.9,Seasonal
+198,Relaxation Activity 198,This is a relaxation activity in destination 51,51,Relaxation,6.0,5.6,2.8,Seasonal
+199,Volunteer Activity 199,This is a volunteer activity in destination 51,51,Volunteer,2.5,9.2,5.5,Year-round
+200,Volunteer Activity 200,This is a volunteer activity in destination 51,51,Volunteer,3.3,6.3,5.5,Year-round
+201,Nature Activity 201,This is a nature activity in destination 52,52,Nature,1.1,8.9,8.6,Seasonal
+202,Cultural Activity 202,This is a cultural activity in destination 52,52,Cultural,5.2,5.2,1.5,Spring/Fall
+203,Cultural Activity 203,This is a cultural activity in destination 52,52,Cultural,5.1,4.4,5.5,Summer only
+204,Cultural Activity 204,This is a cultural activity in destination 52,52,Cultural,6.5,5.1,4.0,Winter only
+205,Relaxation Activity 205,This is a relaxation activity in destination 52,52,Relaxation,3.6,4.7,8.6,Summer only
+206,Cultural Activity 206,This is a cultural activity in destination 53,53,Cultural,3.4,7.2,8.4,Spring/Fall
+207,Adventure Activity 207,This is a adventure activity in destination 53,53,Adventure,6.2,3.9,6.2,Summer only
+208,Educational Activity 208,This is a educational activity in destination 53,53,Educational,3.7,6.8,8.2,Spring/Fall
+209,Nature Activity 209,This is a nature activity in destination 53,53,Nature,2.3,8.5,3.0,Year-round
+210,Adventure Activity 210,This is a adventure activity in destination 53,53,Adventure,7.0,4.4,1.8,Spring/Fall
+211,Educational Activity 211,This is a educational activity in destination 53,53,Educational,4.6,6.6,9.5,Summer only
+212,Culinary Activity 212,This is a culinary activity in destination 54,54,Culinary,6.2,4.4,3.6,Winter only
+213,Culinary Activity 213,This is a culinary activity in destination 54,54,Culinary,3.8,7.0,9.1,Seasonal
+214,Cultural Activity 214,This is a cultural activity in destination 54,54,Cultural,3.6,4.2,1.3,Winter only
+215,Culinary Activity 215,This is a culinary activity in destination 55,55,Culinary,3.1,8.2,5.0,Year-round
+216,Relaxation Activity 216,This is a relaxation activity in destination 55,55,Relaxation,5.9,6.8,1.4,Year-round
+217,Volunteer Activity 217,This is a volunteer activity in destination 55,55,Volunteer,1.4,9.1,6.2,Seasonal
+218,Culinary Activity 218,This is a culinary activity in destination 55,55,Culinary,4.7,6.2,10.0,Seasonal
+219,Adventure Activity 219,This is a adventure activity in destination 56,56,Adventure,4.8,5.4,7.8,Winter only
+220,Educational Activity 220,This is a educational activity in destination 56,56,Educational,6.2,6.3,6.7,Spring/Fall
+221,Volunteer Activity 221,This is a volunteer activity in destination 56,56,Volunteer,2.9,7.3,1.9,Seasonal
+222,Educational Activity 222,This is a educational activity in destination 56,56,Educational,6.4,7.8,7.9,Year-round
+223,Relaxation Activity 223,This is a relaxation activity in destination 57,57,Relaxation,3.1,6.8,5.1,Summer only
+224,Adventure Activity 224,This is a adventure activity in destination 57,57,Adventure,6.7,4.0,1.4,Summer only
+225,Adventure Activity 225,This is a adventure activity in destination 57,57,Adventure,5.8,3.8,1.6,Summer only
+226,Relaxation Activity 226,This is a relaxation activity in destination 57,57,Relaxation,5.0,5.0,2.6,Summer only
+227,Nature Activity 227,This is a nature activity in destination 57,57,Nature,2.4,6.7,6.9,Year-round
+228,Culinary Activity 228,This is a culinary activity in destination 57,57,Culinary,6.0,5.2,4.8,Year-round
+229,Culinary Activity 229,This is a culinary activity in destination 58,58,Culinary,3.1,8.1,7.8,Seasonal
+230,Nature Activity 230,This is a nature activity in destination 58,58,Nature,2.2,6.8,3.3,Summer only
+231,Volunteer Activity 231,This is a volunteer activity in destination 58,58,Volunteer,3.3,9.0,9.3,Seasonal
+232,Educational Activity 232,This is a educational activity in destination 58,58,Educational,5.6,5.4,3.2,Spring/Fall
+233,Volunteer Activity 233,This is a volunteer activity in destination 58,58,Volunteer,1.5,7.8,2.7,Seasonal
+234,Adventure Activity 234,This is a adventure activity in destination 58,58,Adventure,6.2,4.7,7.9,Seasonal
+235,Relaxation Activity 235,This is a relaxation activity in destination 59,59,Relaxation,4.2,4.9,7.5,Seasonal
+236,Cultural Activity 236,This is a cultural activity in destination 59,59,Cultural,5.1,8.2,3.0,Spring/Fall
+237,Volunteer Activity 237,This is a volunteer activity in destination 59,59,Volunteer,1.7,6.5,6.8,Winter only
+238,Adventure Activity 238,This is a adventure activity in destination 60,60,Adventure,7.4,7.2,6.7,Spring/Fall
+239,Adventure Activity 239,This is a adventure activity in destination 60,60,Adventure,7.7,5.4,7.8,Summer only
+240,Volunteer Activity 240,This is a volunteer activity in destination 60,60,Volunteer,2.0,8.1,3.8,Winter only
+241,Culinary Activity 241,This is a culinary activity in destination 60,60,Culinary,6.6,8.6,8.3,Spring/Fall
+242,Nature Activity 242,This is a nature activity in destination 61,61,Nature,4.5,6.2,6.8,Seasonal
+243,Volunteer Activity 243,This is a volunteer activity in destination 61,61,Volunteer,1.2,6.9,4.0,Winter only
+244,Relaxation Activity 244,This is a relaxation activity in destination 61,61,Relaxation,5.2,8.8,5.7,Year-round
+245,Adventure Activity 245,This is a adventure activity in destination 61,61,Adventure,5.1,6.0,7.7,Winter only
+246,Culinary Activity 246,This is a culinary activity in destination 62,62,Culinary,6.0,6.2,2.2,Spring/Fall
+247,Educational Activity 247,This is a educational activity in destination 62,62,Educational,4.0,7.1,6.7,Seasonal
+248,Relaxation Activity 248,This is a relaxation activity in destination 63,63,Relaxation,3.9,4.2,5.6,Spring/Fall
+249,Nature Activity 249,This is a nature activity in destination 63,63,Nature,2.9,9.6,3.4,Winter only
+250,Culinary Activity 250,This is a culinary activity in destination 63,63,Culinary,5.0,6.4,2.8,Winter only
+251,Adventure Activity 251,This is a adventure activity in destination 63,63,Adventure,6.8,4.8,2.1,Seasonal
+252,Cultural Activity 252,This is a cultural activity in destination 63,63,Cultural,4.2,5.6,3.5,Winter only
+253,Cultural Activity 253,This is a cultural activity in destination 64,64,Cultural,6.5,7.7,3.8,Spring/Fall
+254,Volunteer Activity 254,This is a volunteer activity in destination 64,64,Volunteer,4.0,9.3,2.7,Winter only
+255,Educational Activity 255,This is a educational activity in destination 64,64,Educational,5.6,7.4,5.1,Spring/Fall
+256,Nature Activity 256,This is a nature activity in destination 64,64,Nature,1.5,7.8,3.4,Winter only
+257,Cultural Activity 257,This is a cultural activity in destination 65,65,Cultural,3.5,4.1,1.1,Winter only
+258,Nature Activity 258,This is a nature activity in destination 65,65,Nature,3.4,8.3,9.3,Winter only
+259,Culinary Activity 259,This is a culinary activity in destination 65,65,Culinary,4.4,7.9,9.7,Winter only
+260,Adventure Activity 260,This is a adventure activity in destination 66,66,Adventure,5.3,6.6,4.6,Year-round
+261,Cultural Activity 261,This is a cultural activity in destination 66,66,Cultural,4.2,4.3,2.4,Winter only
+262,Adventure Activity 262,This is a adventure activity in destination 67,67,Adventure,5.1,6.0,2.5,Summer only
+263,Adventure Activity 263,This is a adventure activity in destination 67,67,Adventure,4.5,5.8,3.3,Spring/Fall
+264,Culinary Activity 264,This is a culinary activity in destination 68,68,Culinary,3.5,4.6,3.6,Summer only
+265,Educational Activity 265,This is a educational activity in destination 68,68,Educational,4.0,8.5,1.9,Summer only
+266,Nature Activity 266,This is a nature activity in destination 69,69,Nature,3.9,9.2,5.0,Summer only
+267,Culinary Activity 267,This is a culinary activity in destination 69,69,Culinary,6.3,7.6,6.6,Year-round
+268,Culinary Activity 268,This is a culinary activity in destination 69,69,Culinary,4.6,8.7,6.8,Winter only
+269,Cultural Activity 269,This is a cultural activity in destination 69,69,Cultural,4.5,6.9,6.6,Spring/Fall
+270,Cultural Activity 270,This is a cultural activity in destination 69,69,Cultural,5.7,5.9,6.3,Summer only
+271,Volunteer Activity 271,This is a volunteer activity in destination 69,69,Volunteer,3.8,8.1,5.3,Summer only
+272,Volunteer Activity 272,This is a volunteer activity in destination 70,70,Volunteer,1.0,8.6,8.5,Summer only
+273,Nature Activity 273,This is a nature activity in destination 70,70,Nature,2.5,6.8,2.9,Summer only
+274,Volunteer Activity 274,This is a volunteer activity in destination 70,70,Volunteer,3.4,7.0,2.6,Spring/Fall
+275,Nature Activity 275,This is a nature activity in destination 71,71,Nature,2.7,8.1,8.9,Spring/Fall
+276,Adventure Activity 276,This is a adventure activity in destination 71,71,Adventure,7.5,7.5,1.5,Winter only
+277,Cultural Activity 277,This is a cultural activity in destination 71,71,Cultural,4.1,8.3,2.4,Winter only
+278,Nature Activity 278,This is a nature activity in destination 71,71,Nature,1.9,6.9,4.9,Summer only
+279,Culinary Activity 279,This is a culinary activity in destination 72,72,Culinary,4.5,8.6,1.8,Year-round
+280,Relaxation Activity 280,This is a relaxation activity in destination 72,72,Relaxation,4.3,5.6,4.8,Summer only
+281,Adventure Activity 281,This is a adventure activity in destination 72,72,Adventure,5.0,4.7,3.9,Seasonal
+282,Volunteer Activity 282,This is a volunteer activity in destination 72,72,Volunteer,4.1,9.7,3.4,Winter only
+283,Volunteer Activity 283,This is a volunteer activity in destination 72,72,Volunteer,1.6,6.3,8.5,Spring/Fall
+284,Adventure Activity 284,This is a adventure activity in destination 72,72,Adventure,5.7,3.8,9.0,Winter only
+285,Educational Activity 285,This is a educational activity in destination 73,73,Educational,5.2,6.4,2.2,Year-round
+286,Volunteer Activity 286,This is a volunteer activity in destination 73,73,Volunteer,3.4,9.4,8.6,Spring/Fall
+287,Educational Activity 287,This is a educational activity in destination 73,73,Educational,6.9,6.4,3.7,Summer only
+288,Adventure Activity 288,This is a adventure activity in destination 73,73,Adventure,6.9,5.5,6.4,Winter only
+289,Relaxation Activity 289,This is a relaxation activity in destination 73,73,Relaxation,4.5,7.9,8.0,Year-round
+290,Cultural Activity 290,This is a cultural activity in destination 74,74,Cultural,4.7,9.0,6.4,Seasonal
+291,Relaxation Activity 291,This is a relaxation activity in destination 74,74,Relaxation,4.8,8.6,5.4,Winter only
+292,Cultural Activity 292,This is a cultural activity in destination 74,74,Cultural,4.3,8.7,3.6,Spring/Fall
+293,Nature Activity 293,This is a nature activity in destination 74,74,Nature,1.2,9.9,9.2,Seasonal
+294,Volunteer Activity 294,This is a volunteer activity in destination 74,74,Volunteer,1.5,9.5,4.1,Seasonal
+295,Adventure Activity 295,This is a adventure activity in destination 74,74,Adventure,6.4,4.2,4.8,Seasonal
+296,Volunteer Activity 296,This is a volunteer activity in destination 75,75,Volunteer,1.6,6.2,3.3,Winter only
+297,Volunteer Activity 297,This is a volunteer activity in destination 75,75,Volunteer,2.0,9.3,8.0,Year-round
+298,Adventure Activity 298,This is a adventure activity in destination 75,75,Adventure,7.2,5.9,6.2,Summer only
+299,Adventure Activity 299,This is a adventure activity in destination 75,75,Adventure,4.5,5.0,6.4,Winter only
+300,Volunteer Activity 300,This is a volunteer activity in destination 76,76,Volunteer,2.3,6.6,6.0,Year-round
+301,Adventure Activity 301,This is a adventure activity in destination 76,76,Adventure,7.7,7.8,4.3,Spring/Fall
+302,Adventure Activity 302,This is a adventure activity in destination 76,76,Adventure,4.9,5.5,7.6,Spring/Fall
+303,Cultural Activity 303,This is a cultural activity in destination 76,76,Cultural,6.7,8.4,3.7,Seasonal
+304,Relaxation Activity 304,This is a relaxation activity in destination 77,77,Relaxation,5.9,5.3,7.3,Seasonal
+305,Nature Activity 305,This is a nature activity in destination 77,77,Nature,2.1,6.4,8.1,Seasonal
+306,Volunteer Activity 306,This is a volunteer activity in destination 78,78,Volunteer,2.6,8.9,5.7,Summer only
+307,Cultural Activity 307,This is a cultural activity in destination 78,78,Cultural,4.0,6.6,3.0,Winter only
+308,Culinary Activity 308,This is a culinary activity in destination 78,78,Culinary,5.1,4.1,7.9,Winter only
+309,Culinary Activity 309,This is a culinary activity in destination 78,78,Culinary,5.3,6.2,6.5,Summer only
+310,Volunteer Activity 310,This is a volunteer activity in destination 79,79,Volunteer,4.7,6.7,5.0,Spring/Fall
+311,Volunteer Activity 311,This is a volunteer activity in destination 79,79,Volunteer,3.3,9.5,8.2,Winter only
+312,Educational Activity 312,This is a educational activity in destination 79,79,Educational,4.6,6.1,5.8,Winter only
+313,Volunteer Activity 313,This is a volunteer activity in destination 79,79,Volunteer,2.1,8.6,1.6,Year-round
+314,Cultural Activity 314,This is a cultural activity in destination 79,79,Cultural,6.5,4.6,2.7,Spring/Fall
+315,Nature Activity 315,This is a nature activity in destination 79,79,Nature,1.9,6.5,3.7,Year-round
+316,Volunteer Activity 316,This is a volunteer activity in destination 80,80,Volunteer,2.2,6.9,1.3,Seasonal
+317,Cultural Activity 317,This is a cultural activity in destination 80,80,Cultural,5.7,5.7,7.0,Year-round
+318,Volunteer Activity 318,This is a volunteer activity in destination 80,80,Volunteer,4.3,8.0,9.3,Winter only
+319,Volunteer Activity 319,This is a volunteer activity in destination 81,81,Volunteer,4.0,7.5,1.6,Seasonal
+320,Culinary Activity 320,This is a culinary activity in destination 81,81,Culinary,6.0,4.5,5.4,Winter only
+321,Relaxation Activity 321,This is a relaxation activity in destination 81,81,Relaxation,3.4,4.1,5.9,Winter only
+322,Educational Activity 322,This is a educational activity in destination 82,82,Educational,3.1,7.3,3.1,Seasonal
+323,Educational Activity 323,This is a educational activity in destination 82,82,Educational,6.0,7.2,9.5,Winter only
+324,Relaxation Activity 324,This is a relaxation activity in destination 82,82,Relaxation,4.2,8.4,7.5,Summer only
+325,Nature Activity 325,This is a nature activity in destination 82,82,Nature,4.1,6.1,3.0,Spring/Fall
+326,Educational Activity 326,This is a educational activity in destination 82,82,Educational,5.3,7.5,4.5,Seasonal
+327,Educational Activity 327,This is a educational activity in destination 82,82,Educational,5.1,8.3,2.5,Spring/Fall
+328,Adventure Activity 328,This is a adventure activity in destination 83,83,Adventure,4.9,5.5,4.4,Seasonal
+329,Educational Activity 329,This is a educational activity in destination 83,83,Educational,5.9,4.5,2.5,Winter only
+330,Adventure Activity 330,This is a adventure activity in destination 84,84,Adventure,4.1,3.7,2.0,Seasonal
+331,Cultural Activity 331,This is a cultural activity in destination 84,84,Cultural,3.7,5.9,8.7,Seasonal
+332,Educational Activity 332,This is a educational activity in destination 84,84,Educational,4.0,8.2,4.9,Winter only
+333,Nature Activity 333,This is a nature activity in destination 84,84,Nature,2.2,6.1,7.7,Summer only
+334,Volunteer Activity 334,This is a volunteer activity in destination 84,84,Volunteer,3.6,6.2,2.1,Summer only
+335,Nature Activity 335,This is a nature activity in destination 84,84,Nature,2.2,9.0,6.1,Spring/Fall
+336,Educational Activity 336,This is a educational activity in destination 85,85,Educational,6.7,4.8,4.6,Summer only
+337,Culinary Activity 337,This is a culinary activity in destination 85,85,Culinary,6.1,4.8,6.3,Seasonal
+338,Educational Activity 338,This is a educational activity in destination 86,86,Educational,3.0,8.0,9.8,Winter only
+339,Nature Activity 339,This is a nature activity in destination 86,86,Nature,1.1,7.8,7.2,Seasonal
+340,Educational Activity 340,This is a educational activity in destination 86,86,Educational,3.9,7.8,6.0,Winter only
+341,Culinary Activity 341,This is a culinary activity in destination 86,86,Culinary,4.4,8.8,5.4,Year-round
+342,Culinary Activity 342,This is a culinary activity in destination 86,86,Culinary,6.4,6.4,3.8,Spring/Fall
+343,Educational Activity 343,This is a educational activity in destination 87,87,Educational,4.8,5.5,5.2,Year-round
+344,Culinary Activity 344,This is a culinary activity in destination 87,87,Culinary,6.1,8.2,5.7,Seasonal
+345,Culinary Activity 345,This is a culinary activity in destination 87,87,Culinary,6.5,7.0,7.9,Seasonal
+346,Volunteer Activity 346,This is a volunteer activity in destination 87,87,Volunteer,2.3,6.7,3.0,Seasonal
+347,Nature Activity 347,This is a nature activity in destination 88,88,Nature,3.7,6.6,6.6,Seasonal
+348,Nature Activity 348,This is a nature activity in destination 88,88,Nature,4.1,6.8,5.7,Winter only
+349,Educational Activity 349,This is a educational activity in destination 88,88,Educational,5.7,8.0,5.3,Seasonal
+350,Educational Activity 350,This is a educational activity in destination 88,88,Educational,3.7,7.3,4.9,Seasonal
+351,Culinary Activity 351,This is a culinary activity in destination 89,89,Culinary,3.0,4.6,9.7,Summer only
+352,Volunteer Activity 352,This is a volunteer activity in destination 89,89,Volunteer,3.0,8.5,4.4,Year-round
+353,Nature Activity 353,This is a nature activity in destination 89,89,Nature,3.7,8.3,4.1,Summer only
+354,Relaxation Activity 354,This is a relaxation activity in destination 89,89,Relaxation,3.4,5.0,6.7,Year-round
+355,Adventure Activity 355,This is a adventure activity in destination 90,90,Adventure,7.9,5.2,6.4,Winter only
+356,Cultural Activity 356,This is a cultural activity in destination 90,90,Cultural,5.7,7.1,6.1,Summer only
+357,Relaxation Activity 357,This is a relaxation activity in destination 91,91,Relaxation,6.5,4.9,6.4,Winter only
+358,Educational Activity 358,This is a educational activity in destination 91,91,Educational,5.8,6.8,1.7,Spring/Fall
+359,Volunteer Activity 359,This is a volunteer activity in destination 91,91,Volunteer,3.7,7.5,9.9,Year-round
+360,Culinary Activity 360,This is a culinary activity in destination 92,92,Culinary,6.6,5.1,1.1,Spring/Fall
+361,Relaxation Activity 361,This is a relaxation activity in destination 92,92,Relaxation,4.0,5.4,4.1,Year-round
+362,Educational Activity 362,This is a educational activity in destination 92,92,Educational,6.1,8.4,6.6,Winter only
+363,Volunteer Activity 363,This is a volunteer activity in destination 92,92,Volunteer,2.8,8.1,2.8,Winter only
+364,Educational Activity 364,This is a educational activity in destination 92,92,Educational,3.0,6.7,4.0,Seasonal
+365,Cultural Activity 365,This is a cultural activity in destination 93,93,Cultural,6.7,5.5,7.7,Year-round
+366,Relaxation Activity 366,This is a relaxation activity in destination 93,93,Relaxation,4.2,6.8,8.5,Year-round
+367,Cultural Activity 367,This is a cultural activity in destination 93,93,Cultural,6.1,8.5,7.0,Spring/Fall
+368,Relaxation Activity 368,This is a relaxation activity in destination 93,93,Relaxation,3.6,5.8,1.5,Year-round
+369,Adventure Activity 369,This is a adventure activity in destination 93,93,Adventure,6.8,3.7,5.5,Seasonal
+370,Educational Activity 370,This is a educational activity in destination 93,93,Educational,4.6,4.9,9.4,Seasonal
+371,Volunteer Activity 371,This is a volunteer activity in destination 94,94,Volunteer,1.5,8.0,7.7,Seasonal
+372,Cultural Activity 372,This is a cultural activity in destination 94,94,Cultural,3.6,7.0,9.6,Winter only
+373,Nature Activity 373,This is a nature activity in destination 94,94,Nature,4.7,6.1,1.6,Year-round
+374,Cultural Activity 374,This is a cultural activity in destination 94,94,Cultural,7.0,6.9,8.1,Winter only
+375,Cultural Activity 375,This is a cultural activity in destination 94,94,Cultural,3.5,6.7,6.8,Summer only
+376,Relaxation Activity 376,This is a relaxation activity in destination 94,94,Relaxation,4.2,6.7,2.7,Winter only
+377,Nature Activity 377,This is a nature activity in destination 95,95,Nature,1.0,8.6,1.3,Winter only
+378,Volunteer Activity 378,This is a volunteer activity in destination 95,95,Volunteer,1.5,8.3,1.1,Spring/Fall
+379,Volunteer Activity 379,This is a volunteer activity in destination 95,95,Volunteer,3.7,9.0,1.9,Summer only
+380,Nature Activity 380,This is a nature activity in destination 95,95,Nature,2.5,8.5,1.8,Seasonal
+381,Educational Activity 381,This is a educational activity in destination 95,95,Educational,5.6,8.8,3.3,Summer only
+382,Volunteer Activity 382,This is a volunteer activity in destination 95,95,Volunteer,3.3,9.5,4.3,Seasonal
+383,Educational Activity 383,This is a educational activity in destination 96,96,Educational,6.2,5.9,7.2,Seasonal
+384,Culinary Activity 384,This is a culinary activity in destination 96,96,Culinary,5.8,5.0,4.7,Spring/Fall
+385,Relaxation Activity 385,This is a relaxation activity in destination 96,96,Relaxation,3.7,7.5,4.4,Spring/Fall
+386,Cultural Activity 386,This is a cultural activity in destination 96,96,Cultural,4.0,8.1,2.0,Winter only
+387,Culinary Activity 387,This is a culinary activity in destination 96,96,Culinary,5.0,5.8,9.8,Winter only
+388,Relaxation Activity 388,This is a relaxation activity in destination 96,96,Relaxation,5.7,8.0,4.8,Winter only
+389,Culinary Activity 389,This is a culinary activity in destination 97,97,Culinary,4.5,5.7,7.1,Seasonal
+390,Culinary Activity 390,This is a culinary activity in destination 97,97,Culinary,5.7,5.7,7.0,Seasonal
+391,Cultural Activity 391,This is a cultural activity in destination 97,97,Cultural,4.5,7.3,8.6,Winter only
+392,Culinary Activity 392,This is a culinary activity in destination 97,97,Culinary,5.9,5.9,2.8,Seasonal
+393,Culinary Activity 393,This is a culinary activity in destination 98,98,Culinary,6.2,5.4,4.1,Seasonal
+394,Adventure Activity 394,This is a adventure activity in destination 98,98,Adventure,4.5,7.1,9.1,Winter only
+395,Adventure Activity 395,This is a adventure activity in destination 98,98,Adventure,4.7,4.5,1.7,Year-round
+396,Adventure Activity 396,This is a adventure activity in destination 98,98,Adventure,4.6,3.5,3.2,Winter only
+397,Volunteer Activity 397,This is a volunteer activity in destination 98,98,Volunteer,2.0,7.2,4.4,Spring/Fall
+398,Cultural Activity 398,This is a cultural activity in destination 99,99,Cultural,3.7,6.2,8.0,Summer only
+399,Nature Activity 399,This is a nature activity in destination 99,99,Nature,2.8,7.3,7.8,Winter only
+400,Cultural Activity 400,This is a cultural activity in destination 99,99,Cultural,6.3,8.7,1.7,Winter only
+401,Educational Activity 401,This is a educational activity in destination 99,99,Educational,3.2,6.2,8.4,Spring/Fall
+402,Culinary Activity 402,This is a culinary activity in destination 99,99,Culinary,3.9,7.4,3.5,Year-round
+403,Nature Activity 403,This is a nature activity in destination 99,99,Nature,4.9,10.0,8.7,Summer only
+404,Culinary Activity 404,This is a culinary activity in destination 100,100,Culinary,6.8,4.9,9.1,Seasonal
+405,Nature Activity 405,This is a nature activity in destination 100,100,Nature,4.0,7.8,5.4,Spring/Fall
+406,Cultural Activity 406,This is a cultural activity in destination 100,100,Cultural,4.6,4.3,1.4,Seasonal

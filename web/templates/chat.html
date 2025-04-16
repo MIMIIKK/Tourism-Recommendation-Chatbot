@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat with Sustainable Tourism Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Sustainable Tourism Assistant</h1>
+            <p><a href="/">Back to Home</a></p>
+        </header>
+        
+        <main>
+            <div class="chat-container">
+                <div id="chat-messages" class="chat-messages">
+                    <!-- Messages will be added here -->
+                </div>
+                
+                <div class="chat-input">
+                    <form id="message-form">
+                        <input type="text" id="user-message" placeholder="Ask about sustainable destinations...">
+                        <button type="submit">Send</button>
+                    </form>
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>Sustainable Tourism Recommender System - Artificial Intelligence</p>
+        </footer>
+    </div>
+    
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

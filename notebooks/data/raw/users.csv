@@ -1,0 +1,1001 @@
+user_id,age_group,interests,travel_history,sustainability_preference,budget_level,preferred_activities,travel_style
+1,18-24,"Wildlife,Food,Photography,Culture,Relaxation","34,40,24,25",8.1,5,"Volunteering,Surfing,Historical Sites",Solo
+2,45-54,"Food,History","7,77,2,39,79,83,9,47,30",6.3,2,"Surfing,Museums,Hiking,Volunteering,Wildlife Watching",Family
+3,45-54,"Beach,Mountains,Nature,History","82,96,64,15,16,23,43",7.2,1,"Museums,Cultural Tours,Swimming",Solo
+4,65+,"Wildlife,Relaxation,Beach,Food","28,74",9.1,4,"Historical Sites,Cultural Tours,Volunteering,Hiking",Eco-conscious
+5,18-24,"History,Adventure,Food,Mountains,Relaxation","35,6,90,24,14,51,46",5.4,4,"Volunteering,Museums,Cultural Tours,Surfing,Kayaking",Luxury
+6,55-64,"Wildlife,History,Nature,Food,Beach",84,8.3,3,"Local Cuisine,Cultural Tours,Eco Tours,Swimming,Surfing",Cultural
+7,25-34,"Culture,Photography,Relaxation,Mountains","82,59,73",4.0,1,"Historical Sites,Eco Tours,Cultural Tours,Wildlife Watching,Cycling",Budget
+8,45-54,"History,Adventure,Mountains,Culture,Beach","81,21,47,26,16",5.3,2,"Swimming,Cycling,Surfing",Family
+9,65+,"Beach,Adventure","53,22,17,72",8.7,3,"Museums,Eco Tours,Cycling",Cultural
+10,55-64,"Nature,Photography,Adventure","13,97,51,1,79,80,92,64,93",4.9,5,"Wildlife Watching,Volunteering,Eco Tours,Cycling",Luxury
+11,45-54,"Mountains,History,Culture,Relaxation,Food","36,47,20,31,11,17,14,83",7.1,4,"Eco Tours,Wildlife Watching,Kayaking,Hiking,Swimming",Luxury
+12,65+,"Food,Photography,Nature,Adventure","97,60,17",4.8,4,"Local Cuisine,Historical Sites,Hiking",Luxury
+13,45-54,"Adventure,Food,Beach,Culture,Relaxation","14,33,22,35",8.4,3,"Volunteering,Swimming,Surfing,Wildlife Watching,Historical Sites",Adventure
+14,55-64,"Nature,Adventure","20,32,22,69,88,98,10",4.5,2,"Kayaking,Hiking,Historical Sites,Cultural Tours",Luxury
+15,18-24,"Relaxation,Photography,History","22,61,25,88,51,10",5.2,1,"Hiking,Wildlife Watching",Luxury
+16,45-54,"Culture,Mountains,Relaxation,Food","15,76,75,81,62,48,11",3.2,2,"Cycling,Swimming,Historical Sites",Cultural
+17,25-34,"Wildlife,Mountains,Culture,Nature","41,62,35",8.6,4,"Cycling,Volunteering",Eco-conscious
+18,18-24,"Wildlife,Photography,Nature","99,9,86,24,54,51,78,92",4.7,2,"Cycling,Hiking",Family
+19,65+,"Food,Wildlife,Adventure,Beach","73,45,92,3",8.0,4,"Hiking,Eco Tours,Historical Sites,Museums",Cultural
+20,55-64,"Beach,Relaxation,Nature,History,Adventure","68,62,13,20,37,14,49,5,31,59",6.4,3,"Eco Tours,Wildlife Watching,Hiking,Swimming,Local Cuisine",Budget
+21,55-64,"Adventure,Nature","7,11,57,67,71,50,60,17",6.3,2,"Cycling,Historical Sites,Local Cuisine",Adventure
+22,55-64,"Beach,Food,Wildlife","25,82,90,40,48,30,14",4.6,1,"Kayaking,Hiking,Cycling,Museums",Solo
+23,18-24,"Relaxation,Adventure,Nature",41,6.0,4,"Wildlife Watching,Cycling,Eco Tours,Cultural Tours,Museums",Budget
+24,35-44,"Relaxation,Culture,Nature,History","31,59,15,34,2,54,13,20,55,29",4.1,5,"Wildlife Watching,Kayaking,Volunteering,Historical Sites,Surfing",Family
+25,18-24,"Relaxation,Nature,Photography,Culture,History","69,15,90,36,25,60",8.2,1,"Hiking,Eco Tours,Cultural Tours,Historical Sites",Cultural
+26,25-34,"Mountains,History,Wildlife,Nature,Photography","61,89,74,22,4",6.0,4,"Volunteering,Museums",Family
+27,45-54,"Photography,Relaxation,Wildlife,Culture,Mountains","73,77,89,52,40,30,90,57,91",8.9,2,"Historical Sites,Cycling,Wildlife Watching",Cultural
+28,45-54,"Photography,Beach,Mountains,Relaxation","67,37,96,21,33,18,44",9.5,3,"Cultural Tours,Eco Tours,Kayaking",Eco-conscious
+29,55-64,"Adventure,Photography,Nature,Culture","96,28,41,77",5.8,4,"Kayaking,Surfing,Eco Tours,Museums",Adventure
+30,55-64,"Adventure,History","97,4,46,11,99,85,51,48,67",7.6,2,"Kayaking,Swimming,Volunteering,Cycling,Historical Sites",Eco-conscious
+31,25-34,"Adventure,Culture","78,48",7.1,5,"Kayaking,Eco Tours",Budget
+32,35-44,"Wildlife,Culture,History,Adventure","49,27,36,20,51,83,44",7.1,1,"Historical Sites,Hiking,Volunteering",Eco-conscious
+33,35-44,"Nature,Photography,Relaxation","52,50,96,6,44,16,26",7.2,3,"Cultural Tours,Surfing",Solo
+34,45-54,"History,Mountains,Culture","32,42,20,80",9.6,4,"Local Cuisine,Cycling",Eco-conscious
+35,25-34,"Wildlife,Nature","92,69,80",9.2,4,"Kayaking,Cycling,Surfing",Eco-conscious
+36,45-54,"Adventure,Relaxation,Culture,Beach","71,33,49,23,65,37",9.3,2,"Surfing,Eco Tours,Kayaking,Cycling,Hiking",Eco-conscious
+37,65+,"Adventure,Mountains,Beach","63,72,98,61",5.2,2,"Museums,Swimming,Surfing",Family
+38,65+,"Wildlife,History,Culture,Food,Adventure","75,54,25,60,70,64,61,42,46,6",8.5,3,"Wildlife Watching,Eco Tours,Cycling,Surfing,Cultural Tours",Eco-conscious
+39,18-24,"Food,Beach,Relaxation","22,27,92,2,23,11,87",7.7,5,"Historical Sites,Kayaking,Hiking,Cycling,Volunteering",Luxury
+40,25-34,"Mountains,Relaxation,History","1,6",5.0,2,"Cultural Tours,Kayaking,Local Cuisine,Eco Tours,Hiking",Solo
+41,35-44,"History,Food,Nature,Photography","32,98,20,39,49",5.2,2,"Cultural Tours,Historical Sites,Hiking,Surfing,Wildlife Watching",Luxury
+42,45-54,"Nature,Photography,Culture","14,77,85,19",9.2,4,"Wildlife Watching,Kayaking,Museums,Volunteering",Eco-conscious
+43,65+,"Relaxation,Adventure,Food,Beach,Culture","19,64,49,70,2",7.8,3,"Surfing,Cycling,Volunteering,Hiking",Budget
+44,35-44,"Nature,Wildlife,Food","9,10,25,11,30,43,90,55",8.6,2,"Wildlife Watching,Kayaking,Eco Tours,Museums,Surfing",Eco-conscious
+45,25-34,"Relaxation,Nature,Adventure,Wildlife,Photography",43,6.9,2,"Kayaking,Local Cuisine",Adventure
+46,55-64,"Relaxation,Adventure,History","32,84,59",3.3,5,"Wildlife Watching,Volunteering",Adventure
+47,55-64,"Relaxation,Food","28,24,48",8.0,1,"Eco Tours,Wildlife Watching",Cultural
+48,18-24,"Adventure,Photography,History,Wildlife,Mountains","99,34,78,69,18,61,19,62,71,39",8.5,5,"Museums,Kayaking,Historical Sites",Budget
+49,45-54,"Culture,Mountains,Beach","7,67,11,88,28",3.1,2,"Museums,Swimming,Hiking,Kayaking,Volunteering",Budget
+50,35-44,"Mountains,Adventure,Food,Beach","4,7,95,27,88,83,57,26,53",8.2,2,"Historical Sites,Cycling,Local Cuisine",Eco-conscious
+51,45-54,"Beach,Adventure,Relaxation","36,22,38,88",6.9,3,"Cycling,Historical Sites",Luxury
+52,65+,"Relaxation,History",76,4.1,4,"Cultural Tours,Historical Sites,Cycling,Museums",Cultural
+53,18-24,"Adventure,Relaxation,Mountains,Culture","10,67,49,89,77,40,26,88",6.9,3,"Cycling,Wildlife Watching,Museums,Historical Sites,Volunteering",Luxury
+54,18-24,"Photography,Culture","75,33,29,97,50,21,81,44,43,31",4.5,2,"Cycling,Historical Sites,Cultural Tours",Cultural
+55,25-34,"Wildlife,Culture","38,91",6.8,3,"Cycling,Local Cuisine,Kayaking",Luxury
+56,18-24,"Food,Culture,Mountains","90,42,82,92,83",7.1,2,"Local Cuisine,Kayaking",Luxury
+57,65+,"Culture,Photography,History,Food","31,82,96",5.4,5,"Surfing,Local Cuisine,Kayaking",Cultural
+58,45-54,"Food,Culture,Wildlife,Relaxation","88,5,18,7,95,100,24,21,29,87",5.6,4,"Museums,Swimming,Surfing,Volunteering",Solo
+59,45-54,"Food,Adventure","10,41,8,38",5.1,5,"Wildlife Watching,Volunteering",Family
+60,18-24,"Food,Culture,History","2,67,63,91,93,61,11,72",8.1,3,"Volunteering,Museums,Eco Tours,Hiking,Local Cuisine",Solo
+61,35-44,"Photography,Wildlife,Relaxation,Mountains,Food","78,14,72,62",4.2,5,"Museums,Surfing,Local Cuisine",Family
+62,18-24,"Photography,Nature,Beach,Food,Wildlife","38,82,13,78,23,43,92,79,15",3.7,1,"Museums,Kayaking",Adventure
+63,18-24,"Photography,Relaxation,Wildlife,Culture,Adventure","2,26,97",6.2,3,"Volunteering,Local Cuisine,Swimming",Family
+64,45-54,"History,Mountains,Relaxation,Food,Photography","53,5,10,35,92,68,95,72",7.9,2,"Museums,Local Cuisine",Solo
+65,35-44,"Relaxation,Photography","81,93,31",4.6,5,"Cultural Tours,Cycling,Surfing,Swimming",Luxury
+66,25-34,"Photography,Adventure,Relaxation,Culture,Food",87,8.7,1,"Historical Sites,Eco Tours,Swimming,Hiking,Surfing",Adventure
+67,45-54,"Beach,Photography,Relaxation,Culture","53,30,10,76,22,66,20,80,47,39",6.1,3,"Eco Tours,Historical Sites",Luxury
+68,35-44,"Beach,Relaxation","92,2,37,12,28",4.7,1,"Volunteering,Cultural Tours,Swimming,Surfing",Budget
+69,35-44,"Nature,Beach,Photography","50,10,91",7.0,4,"Museums,Surfing,Local Cuisine",Eco-conscious
+70,18-24,"Nature,Beach,Culture,Relaxation","78,9,66,24",8.7,2,"Museums,Local Cuisine",Eco-conscious
+71,65+,"Mountains,Relaxation","70,71,26,35",4.2,3,"Local Cuisine,Surfing",Adventure
+72,35-44,"Photography,Mountains","25,18,2,11",5.7,4,"Swimming,Wildlife Watching,Hiking,Volunteering",Cultural
+73,65+,"Wildlife,History,Culture,Food","55,43,50,68,29,19,34,37,4,72",6.1,4,"Hiking,Kayaking",Solo
+74,45-54,"Photography,Beach,Adventure","44,70,4,51,61",5.9,3,"Hiking,Cycling",Luxury
+75,45-54,"Mountains,History,Relaxation,Culture","60,46,30,71,58,23,94,26,50,100",7.2,3,"Cultural Tours,Hiking,Wildlife Watching,Swimming",Cultural
+76,65+,"History,Adventure,Photography,Culture","53,4,95,30,99,13,21",7.1,4,"Local Cuisine,Wildlife Watching",Eco-conscious
+77,18-24,"Nature,Photography,Beach,Wildlife,Culture","45,75,40,85,71,10,89,31,100,62",4.5,2,"Historical Sites,Museums,Kayaking,Surfing",Solo
+78,35-44,"History,Wildlife,Mountains,Food","41,36,44,3,68,27,51,55",7.6,5,"Kayaking,Museums,Eco Tours,Local Cuisine",Family
+79,18-24,"Beach,Wildlife,Food,Relaxation","18,71,52,33,56,4,80,91",9.3,5,"Local Cuisine,Eco Tours,Historical Sites,Kayaking",Eco-conscious
+80,45-54,"Adventure,Photography","63,41,23,87,18,53",6.3,5,"Volunteering,Historical Sites,Hiking,Kayaking,Museums",Solo
+81,35-44,"Beach,Wildlife","82,76,14",8.0,5,"Swimming,Wildlife Watching,Cultural Tours",Luxury
+82,35-44,"Beach,Food,Adventure","10,47,81",6.0,1,"Local Cuisine,Volunteering,Cycling,Surfing",Luxury
+83,45-54,"Food,History,Wildlife","24,44,84,8,80,13,5",7.2,2,"Local Cuisine,Historical Sites,Cultural Tours",Cultural
+84,18-24,"Photography,History,Adventure,Relaxation,Nature",61,5.8,1,"Museums,Historical Sites,Cycling,Hiking",Family
+85,35-44,"History,Beach,Food","51,99,48,31",4.4,3,"Eco Tours,Local Cuisine,Swimming,Wildlife Watching,Historical Sites",Solo
+86,55-64,"Mountains,Nature,Adventure","40,30,87,28,50",7.4,4,"Historical Sites,Volunteering,Eco Tours,Hiking",Adventure
+87,18-24,"Nature,Adventure,Wildlife,Relaxation,Beach",32,7.0,1,"Cycling,Wildlife Watching,Kayaking,Swimming,Historical Sites",Solo
+88,35-44,"Food,Wildlife,History","48,79,8,65,21,59",4.8,4,"Eco Tours,Museums,Cultural Tours,Volunteering,Cycling",Budget
+89,55-64,"Mountains,Wildlife,Beach,Food",12,3.4,3,"Surfing,Volunteering,Wildlife Watching,Kayaking",Budget
+90,18-24,"Beach,Wildlife,Culture,Photography,History","18,73,45,56",7.2,3,"Surfing,Historical Sites",Adventure
+91,18-24,"Nature,Relaxation","32,80,33,21,68",9.0,3,"Swimming,Surfing",Eco-conscious
+92,55-64,"History,Photography","58,38,81,87,65,44,30",6.7,3,"Eco Tours,Museums",Solo
+93,18-24,"Wildlife,Photography,Beach,Relaxation,Food",78,7.5,4,"Hiking,Kayaking",Budget
+94,35-44,"Mountains,Relaxation,Adventure,Food,Photography","93,78,75,50,76,82,60,35,77,48",4.1,5,"Swimming,Historical Sites",Adventure
+95,55-64,"Adventure,Beach","30,58,87",8.7,4,"Cultural Tours,Surfing,Volunteering,Cycling,Local Cuisine",Adventure
+96,35-44,"Culture,Beach,History,Nature,Adventure","10,19,24,81,40,58",5.2,5,"Cycling,Wildlife Watching,Hiking,Volunteering",Family
+97,18-24,"Relaxation,Food","16,8,13,83,93,59,98,49,9,90",8.3,4,"Kayaking,Volunteering,Wildlife Watching,Surfing,Cycling",Eco-conscious
+98,65+,"Nature,Photography,Adventure,Relaxation","5,80,89,78,30",7.8,2,"Historical Sites,Eco Tours,Surfing,Cycling",Eco-conscious
+99,45-54,"Nature,Adventure","11,39,95,72,45,17,29,19,75",8.9,4,"Kayaking,Historical Sites",Budget
+100,55-64,"Relaxation,Nature,Wildlife,History,Beach","15,39,93,86",5.8,2,"Local Cuisine,Wildlife Watching,Cycling,Eco Tours,Historical Sites",Cultural
+101,55-64,"Adventure,Mountains","44,68,78,53,40,20",5.1,1,"Historical Sites,Surfing,Cycling",Family
+102,45-54,"Wildlife,Relaxation","16,94,70",6.8,3,"Kayaking,Wildlife Watching,Surfing",Budget
+103,65+,"Mountains,Wildlife,Culture,Adventure","16,22,49",7.9,3,"Cultural Tours,Swimming,Museums",Family
+104,65+,"Photography,Culture","70,8,22",5.2,5,"Hiking,Local Cuisine,Kayaking",Adventure
+105,55-64,"Adventure,Culture","95,32,40,54,96,72,91,30",5.5,5,"Kayaking,Volunteering",Family
+106,18-24,"Wildlife,Photography,Beach","11,76,6,34,5,20",8.5,5,"Eco Tours,Museums,Volunteering,Hiking",Budget
+107,45-54,"Nature,Wildlife,Food,Adventure","35,80,4",7.7,5,"Museums,Local Cuisine",Adventure
+108,35-44,"Food,Nature,Culture,Mountains,Beach","64,30",8.8,4,"Cycling,Eco Tours,Hiking,Surfing,Volunteering",Eco-conscious
+109,35-44,"History,Photography,Food","59,26,71,38,99,56,31,58,89",6.6,1,"Cycling,Cultural Tours",Budget
+110,18-24,"Nature,Wildlife,History,Relaxation","29,93,49,63,55,28,9,95,78,76",7.1,3,"Surfing,Local Cuisine,Swimming",Budget
+111,65+,"Food,Photography,Adventure,Relaxation","29,47",7.9,2,"Cultural Tours,Local Cuisine,Surfing",Cultural
+112,55-64,"Photography,History,Food,Nature",,6.3,3,"Cycling,Cultural Tours,Surfing,Museums",Budget
+113,25-34,"Adventure,Beach,Photography","90,77,81,85,47,15,25,11,75,59",8.7,1,"Cycling,Hiking,Swimming,Kayaking,Historical Sites",Eco-conscious
+114,18-24,"History,Mountains,Adventure,Relaxation,Culture","85,9,24,87,41,4,56",3.0,1,"Wildlife Watching,Local Cuisine",Budget
+115,25-34,"Wildlife,Nature","10,80,42,40,66",6.7,1,"Cycling,Swimming",Budget
+116,18-24,"Photography,Adventure,Relaxation","25,80,29,59,82,56,95,91,13,47",7.9,1,"Wildlife Watching,Eco Tours",Eco-conscious
+117,25-34,"Adventure,Beach,Nature","85,23,51,79,52,19,63,50,14",7.0,4,"Historical Sites,Local Cuisine,Kayaking",Solo
+118,25-34,"Adventure,Beach,Nature,Photography","96,25,40,67,61,56",3.9,3,"Local Cuisine,Swimming",Solo
+119,18-24,"Adventure,Culture,Food,Relaxation,Photography",11,6.6,1,"Hiking,Volunteering,Local Cuisine,Eco Tours,Historical Sites",Cultural
+120,45-54,"Photography,Culture,Beach,Mountains","48,40,4,92,46,64,33,98,22",7.5,5,"Kayaking,Local Cuisine",Eco-conscious
+121,18-24,"History,Beach,Mountains,Food,Adventure","50,83,70,20,88,78",4.7,2,"Wildlife Watching,Cultural Tours,Local Cuisine",Cultural
+122,65+,"Adventure,History,Photography","64,25,63,58,97,85,6,29,51",7.4,5,"Kayaking,Swimming,Volunteering",Eco-conscious
+123,35-44,"Culture,Beach,Mountains,Relaxation","73,77,29,49,62,36,8,27,54",7.0,4,"Cultural Tours,Cycling,Wildlife Watching,Swimming",Luxury
+124,35-44,"Relaxation,Mountains","41,2,26,74,6,47,5",4.6,5,"Museums,Historical Sites,Wildlife Watching,Hiking,Kayaking",Family
+125,65+,"Relaxation,Wildlife,Adventure,Food,History","84,62,97,59",7.7,4,"Eco Tours,Cycling",Luxury
+126,55-64,"Adventure,Nature","96,70,47,95,65,90,1,71,59,52",5.4,2,"Wildlife Watching,Museums",Solo
+127,55-64,"Relaxation,Beach,Mountains,Photography","70,23,26,30,46,35,98,13,9,48",4.2,3,"Surfing,Eco Tours,Museums",Luxury
+128,45-54,"Wildlife,History,Beach","7,11,14,80,49,2,13,56",4.5,4,"Museums,Wildlife Watching,Cycling,Local Cuisine",Budget
+129,35-44,"Relaxation,History","93,88,22,29,96,27,90,92,8,5",3.6,1,"Kayaking,Eco Tours,Local Cuisine",Solo
+130,55-64,"Culture,Adventure","75,74,66,23,29",9.5,1,"Cultural Tours,Cycling,Museums",Eco-conscious
+131,55-64,"Culture,Nature,History","38,14,70,23,45,76,95,60,22",4.2,3,"Museums,Eco Tours",Solo
+132,25-34,"Wildlife,Culture,Relaxation,Beach,Food","1,43,5,95,55",4.5,5,"Cultural Tours,Museums,Historical Sites,Eco Tours,Local Cuisine",Cultural
+133,45-54,"Photography,Wildlife,Mountains",,7.3,3,"Cultural Tours,Volunteering,Surfing,Local Cuisine",Luxury
+134,25-34,"Relaxation,Wildlife",66,4.9,4,"Volunteering,Museums,Cultural Tours,Surfing,Hiking",Luxury
+135,25-34,"Food,Beach","49,58,76,85,93,40,91,98,22,19",8.0,1,"Museums,Hiking,Eco Tours",Budget
+136,25-34,"Adventure,Wildlife,Beach,Culture","55,26,9",8.0,4,"Historical Sites,Local Cuisine,Cycling,Surfing,Cultural Tours",Solo
+137,18-24,"Wildlife,Mountains,Adventure","11,34,32,16,92,70,69,45",4.4,2,"Hiking,Swimming,Local Cuisine",Solo
+138,25-34,"History,Food,Adventure,Culture","17,2,75,9,4,99,100,48",6.4,4,"Cultural Tours,Surfing,Kayaking,Volunteering,Historical Sites",Family
+139,35-44,"Wildlife,Nature,Relaxation","6,26",7.8,2,"Kayaking,Volunteering,Local Cuisine",Cultural
+140,65+,"Adventure,Food","82,70",9.3,4,"Surfing,Cycling",Eco-conscious
+141,45-54,"Food,Mountains,Relaxation","26,58,95",6.5,1,"Hiking,Wildlife Watching,Local Cuisine,Surfing,Swimming",Solo
+142,45-54,"Relaxation,Food",,5.2,1,"Historical Sites,Eco Tours,Hiking,Cultural Tours",Adventure
+143,65+,"Nature,Food,Culture","40,36,62,91,39,11,33,20",7.5,3,"Cultural Tours,Hiking,Eco Tours,Local Cuisine,Swimming",Eco-conscious
+144,45-54,"Adventure,Food,Beach","69,24,18,23,60,34,49",6.3,4,"Historical Sites,Kayaking,Volunteering,Museums",Budget
+145,25-34,"Photography,Food,Relaxation","78,71,50,97,62,91,48,63",8.9,1,"Historical Sites,Local Cuisine",Eco-conscious
+146,55-64,"Beach,Nature,Relaxation","2,73",3.1,5,"Kayaking,Hiking,Surfing",Cultural
+147,45-54,"Adventure,Wildlife,Photography,Mountains","67,34,16,62,24,80",3.2,2,"Surfing,Swimming,Historical Sites,Cultural Tours,Hiking",Budget
+148,65+,"Photography,Relaxation,Mountains,Wildlife,Beach","66,51,99,33,69,46,55,68,65",9.0,1,"Museums,Swimming,Volunteering",Eco-conscious
+149,25-34,"Nature,Mountains,Relaxation,Adventure","17,68,94,86,15,12",7.4,5,"Eco Tours,Museums,Hiking,Swimming,Wildlife Watching",Solo
+150,18-24,"Photography,Wildlife,History",,9.2,3,"Eco Tours,Cycling,Hiking,Historical Sites",Eco-conscious
+151,65+,"Beach,History,Mountains,Photography","22,10,34,49,14,99",6.4,3,"Eco Tours,Museums,Historical Sites,Wildlife Watching",Family
+152,45-54,"Culture,Wildlife,Food,Beach,Adventure","9,26,49,17,80,3",5.2,4,"Museums,Eco Tours,Cycling,Wildlife Watching",Solo
+153,35-44,"History,Photography,Food,Mountains,Relaxation","63,69,87,44,14,27,17,28",6.8,5,"Hiking,Wildlife Watching,Swimming,Kayaking",Family
+154,65+,"Relaxation,Beach,Mountains,History",51,7.1,2,"Surfing,Historical Sites,Museums",Family
+155,55-64,"Photography,Nature","47,16,35,53,66,13",7.5,4,"Cultural Tours,Museums",Eco-conscious
+156,25-34,"Adventure,Culture,Mountains,Wildlife,Relaxation","93,28,94",3.8,3,"Historical Sites,Cycling,Local Cuisine",Budget
+157,45-54,"Beach,Culture","77,28",5.5,5,"Cultural Tours,Local Cuisine,Wildlife Watching",Budget
+158,35-44,"Photography,Adventure,Mountains,Beach,Nature","58,17,55,47,50,22,89",3.4,5,"Volunteering,Hiking,Eco Tours,Swimming,Kayaking",Adventure
+159,35-44,"Relaxation,Wildlife,History","52,61,89,65,99,13,79,74",3.1,4,"Kayaking,Eco Tours",Cultural
+160,45-54,"Beach,Relaxation,Culture,Adventure,Nature","96,79,72,100,77,89,32",6.5,4,"Local Cuisine,Surfing",Budget
+161,45-54,"Adventure,History,Mountains,Beach,Photography","89,61,50",6.5,2,"Volunteering,Cultural Tours,Kayaking,Wildlife Watching,Local Cuisine",Solo
+162,65+,"Mountains,Culture","94,76,96,8,83,69",5.5,2,"Cycling,Swimming,Museums",Luxury
+163,55-64,"History,Culture",8,7.1,3,"Volunteering,Cycling",Adventure
+164,65+,"Relaxation,Mountains,Nature,Beach,Culture","6,73,62,5,87,72,74,22,55,7",7.4,4,"Cultural Tours,Museums,Volunteering,Eco Tours,Swimming",Luxury
+165,65+,"Mountains,Culture","45,39,16,69,11,82,100,87,51",3.8,3,"Eco Tours,Cycling",Solo
+166,25-34,"Beach,History","31,77",6.9,4,"Hiking,Swimming,Museums,Cultural Tours,Historical Sites",Adventure
+167,55-64,"Photography,Food,Adventure","6,14,74,24",4.8,1,"Volunteering,Hiking,Historical Sites",Family
+168,55-64,"Beach,Mountains","78,59,38,88,9,80,21,62",3.8,2,"Cultural Tours,Museums",Cultural
+169,55-64,"Food,Nature,Wildlife,Mountains,Photography","38,5,98,74,53,57",3.4,2,"Museums,Cycling",Adventure
+170,18-24,"Food,Adventure","23,100,60,36,54,38",7.4,1,"Wildlife Watching,Kayaking,Historical Sites,Cycling",Eco-conscious
+171,25-34,"Photography,Food,Wildlife","18,56,65,19,15,71,16",9.6,3,"Surfing,Historical Sites,Kayaking",Eco-conscious
+172,35-44,"Food,Nature,Beach,Relaxation","1,92,70,84,97,20",7.3,5,"Wildlife Watching,Cycling",Luxury
+173,65+,"Food,Photography,Beach,Adventure","100,53,6",7.6,3,"Cultural Tours,Surfing,Kayaking,Historical Sites,Hiking",Adventure
+174,25-34,"Culture,Nature,Wildlife",65,6.4,4,"Volunteering,Swimming,Cultural Tours",Luxury
+175,55-64,"Photography,Wildlife,Culture,History,Adventure","99,23",4.2,1,"Museums,Swimming,Historical Sites",Budget
+176,18-24,"Adventure,Beach,History,Food,Culture","66,16,78,73",4.4,3,"Swimming,Wildlife Watching",Cultural
+177,18-24,"Wildlife,Nature","13,16,29,15,91,12,94,74,1",7.9,4,"Historical Sites,Local Cuisine,Cultural Tours,Kayaking,Eco Tours",Luxury
+178,25-34,"History,Culture,Nature,Mountains,Adventure","71,46,97,19,86",9.0,2,"Eco Tours,Local Cuisine,Cultural Tours",Cultural
+179,18-24,"Beach,Food,History,Photography","94,58,11",3.4,1,"Kayaking,Hiking",Cultural
+180,35-44,"Relaxation,History,Food,Beach,Adventure",31,3.3,2,"Eco Tours,Cultural Tours,Historical Sites,Local Cuisine,Hiking",Solo
+181,35-44,"Adventure,Photography",25,3.9,4,"Eco Tours,Cultural Tours",Solo
+182,18-24,"History,Wildlife,Photography,Relaxation",,4.0,4,"Historical Sites,Local Cuisine,Swimming",Cultural
+183,25-34,"Relaxation,History,Nature,Mountains","96,64,15,92,28,24,58",8.6,5,"Cycling,Cultural Tours,Volunteering,Kayaking",Budget
+184,35-44,"History,Beach,Nature,Food,Wildlife","22,4,83,81,16,46",7.8,3,"Museums,Local Cuisine,Historical Sites,Cultural Tours,Swimming",Family
+185,35-44,"History,Relaxation,Photography","100,34,21,71,78,47,1,73",7.9,2,"Volunteering,Cultural Tours",Cultural
+186,18-24,"Relaxation,Photography,Wildlife","48,100,55,39,76,11",5.5,3,"Eco Tours,Swimming,Kayaking,Wildlife Watching",Family
+187,25-34,"Mountains,Culture,Relaxation","94,35,95,32,68,60,44,50",7.0,4,"Cycling,Surfing,Historical Sites",Adventure
+188,35-44,"Mountains,Relaxation","59,41,94,79,32,10",7.6,4,"Surfing,Hiking",Eco-conscious
+189,65+,"History,Culture,Beach","73,79",8.3,2,"Historical Sites,Cycling,Eco Tours,Volunteering,Museums",Eco-conscious
+190,55-64,"History,Food,Photography,Nature","84,54,60",7.0,3,"Kayaking,Wildlife Watching,Historical Sites,Local Cuisine",Solo
+191,65+,"Photography,Beach","94,89,90,25,87,20,57,39",7.0,4,"Historical Sites,Kayaking,Museums,Wildlife Watching",Cultural
+192,65+,"Adventure,Mountains","84,89,9",7.5,5,"Wildlife Watching,Local Cuisine,Cycling,Volunteering",Solo
+193,45-54,"Beach,Nature,History,Photography,Culture","95,81,61,91,52,23",3.1,5,"Hiking,Historical Sites,Swimming,Museums,Local Cuisine",Solo
+194,65+,"Photography,Food,Wildlife,Mountains,Relaxation","24,10,26,49,25,12,61",5.5,3,"Local Cuisine,Kayaking,Museums,Hiking,Wildlife Watching",Luxury
+195,45-54,"Nature,Adventure,Mountains,Photography","15,2,39,89,58,21,83",5.1,5,"Surfing,Cycling,Kayaking",Cultural
+196,18-24,"Nature,Relaxation","65,10,62",3.2,5,"Museums,Historical Sites",Budget
+197,55-64,"History,Culture,Mountains,Photography,Wildlife","84,52,83",7.8,3,"Museums,Surfing,Wildlife Watching",Solo
+198,25-34,"Relaxation,Mountains",82,4.4,4,"Local Cuisine,Eco Tours,Museums,Cultural Tours,Volunteering",Luxury
+199,55-64,"Photography,Mountains","7,80,49,35,82,34,32,11,70",4.4,1,"Local Cuisine,Swimming,Cultural Tours",Luxury
+200,45-54,"History,Adventure,Wildlife,Beach,Nature","29,27,46,37,84,25",9.8,3,"Museums,Surfing,Wildlife Watching,Kayaking",Eco-conscious
+201,25-34,"Beach,Mountains,Wildlife,Nature","54,41,11,67",4.3,5,"Swimming,Cycling,Museums",Cultural
+202,25-34,"Relaxation,Wildlife","92,63,38,74,15,84,82,59,95,90",3.9,5,"Surfing,Wildlife Watching,Cycling,Cultural Tours,Swimming",Budget
+203,45-54,"Photography,History,Beach,Food,Relaxation","72,39,1,70",5.6,4,"Kayaking,Local Cuisine",Cultural
+204,55-64,"Wildlife,Food,History,Beach,Photography","15,59,63",6.9,2,"Museums,Local Cuisine",Luxury
+205,65+,"Culture,History,Photography,Relaxation","47,34",8.8,4,"Kayaking,Local Cuisine,Volunteering,Surfing",Solo
+206,25-34,"Relaxation,Wildlife,Food","86,79,3,63,21,8",6.4,3,"Wildlife Watching,Local Cuisine",Family
+207,35-44,"Mountains,Adventure,Culture,Beach",28,8.6,3,"Historical Sites,Museums,Local Cuisine,Kayaking,Cultural Tours",Eco-conscious
+208,18-24,"Wildlife,Relaxation,Food,Nature,Adventure","42,83,67,86",7.5,1,"Volunteering,Kayaking",Adventure
+209,55-64,"Culture,Relaxation,Nature",,6.4,5,"Historical Sites,Museums,Wildlife Watching",Cultural
+210,35-44,"Adventure,Photography,Wildlife,Relaxation","86,32",7.1,1,"Cycling,Wildlife Watching,Museums",Eco-conscious
+211,35-44,"Photography,History","46,27,65,66",8.8,1,"Local Cuisine,Swimming,Eco Tours,Cultural Tours",Eco-conscious
+212,55-64,"Nature,Relaxation,Adventure,Wildlife","36,21,83,30,73,65,50,87,39,18",5.2,4,"Surfing,Volunteering,Wildlife Watching,Eco Tours",Family
+213,35-44,"History,Culture","35,77,68,60,67,56,100,40,6",6.7,2,"Swimming,Cultural Tours,Kayaking",Adventure
+214,45-54,"Wildlife,Relaxation,Nature","66,86,42,96,23,19,32,71,33,52",5.1,1,"Museums,Eco Tours,Cycling,Wildlife Watching,Cultural Tours",Adventure
+215,45-54,"Adventure,Mountains,Food","56,30,87,74,59,99,97,14,26,25",6.8,5,"Hiking,Cycling",Budget
+216,45-54,"Food,Wildlife,Mountains,History,Nature",55,5.3,1,"Surfing,Wildlife Watching,Cycling",Family
+217,55-64,"Mountains,Wildlife",,6.1,2,"Swimming,Volunteering,Kayaking,Wildlife Watching,Local Cuisine",Family
+218,35-44,"Mountains,History","69,57,10,88,6,85,38,54,30,93",8.6,4,"Cycling,Eco Tours,Museums",Cultural
+219,18-24,"Wildlife,Nature",90,7.1,4,"Historical Sites,Hiking,Cycling,Surfing,Swimming",Eco-conscious
+220,18-24,"Culture,Nature,Adventure,Relaxation,Food","58,82,90,13,61,2,65",8.0,1,"Swimming,Wildlife Watching,Volunteering",Budget
+221,55-64,"Adventure,Culture,Beach","83,16,40,64,60,56,21,6,47",9.1,4,"Local Cuisine,Cycling,Wildlife Watching,Eco Tours,Swimming",Eco-conscious
+222,18-24,"Beach,History,Photography,Adventure,Relaxation","42,60,29,54",6.5,4,"Swimming,Wildlife Watching,Museums,Eco Tours",Solo
+223,18-24,"Food,Culture","5,96,90,81,2,91,100,87,47,56",6.0,1,"Volunteering,Cycling",Budget
+224,35-44,"Relaxation,History,Mountains,Nature","56,67,73,96,45,50,63,31",3.2,2,"Local Cuisine,Wildlife Watching",Cultural
+225,45-54,"Photography,Wildlife,Nature,Food,Relaxation","40,60,91,66,64,99,2",9.0,5,"Cultural Tours,Cycling,Hiking,Surfing,Local Cuisine",Cultural
+226,25-34,"History,Adventure","23,36,61,49,2,80,15",5.9,5,"Cultural Tours,Hiking",Family
+227,45-54,"Adventure,Relaxation,History","89,100,8,5,96",7.4,3,"Kayaking,Historical Sites,Cycling",Family
+228,35-44,"Mountains,History,Beach","21,99,75,67,84,46,16,40,3",5.2,4,"Historical Sites,Surfing",Luxury
+229,65+,"Beach,Culture,History",,4.1,5,"Local Cuisine,Kayaking,Cycling",Adventure
+230,35-44,"Photography,Adventure,Nature,Food,Wildlife","48,30,69,19",3.7,1,"Hiking,Volunteering",Adventure
+231,45-54,"Wildlife,Beach,Adventure,Photography,History","51,50,58,14,3",4.8,4,"Hiking,Surfing,Kayaking,Volunteering,Wildlife Watching",Cultural
+232,18-24,"Beach,Nature,Photography,Culture",,5.7,4,"Surfing,Cultural Tours,Local Cuisine",Solo
+233,18-24,"Wildlife,Mountains,Nature,Adventure",,5.3,3,"Museums,Eco Tours,Hiking",Cultural
+234,45-54,"Food,History,Mountains",34,6.6,1,"Museums,Swimming",Adventure
+235,55-64,"Culture,Nature,Adventure,Relaxation,Mountains","35,30,25,6,19,73,61",8.9,4,"Museums,Local Cuisine,Kayaking",Eco-conscious
+236,55-64,"Beach,Wildlife,Mountains,Adventure","66,70,21,18,77,33,58,22",6.4,4,"Volunteering,Cycling",Family
+237,55-64,"Culture,Mountains",,7.9,3,"Cycling,Surfing,Cultural Tours,Historical Sites,Museums",Adventure
+238,55-64,"Beach,Food,Culture,Relaxation","57,38,7,60,100,50,27",6.4,1,"Volunteering,Historical Sites,Swimming,Surfing",Budget
+239,25-34,"Culture,Wildlife,Adventure,Relaxation","21,82,16,92,52,46,19,57,1,75",8.3,2,"Historical Sites,Wildlife Watching,Local Cuisine,Cycling",Solo
+240,25-34,"Mountains,Culture,Wildlife","68,31,14,45,64,51,12,63",6.6,3,"Historical Sites,Hiking,Surfing,Cycling,Local Cuisine",Solo
+241,18-24,"Food,Beach","76,38,6,54",5.1,1,"Wildlife Watching,Hiking,Museums",Family
+242,55-64,"Nature,Beach",,7.3,2,"Surfing,Eco Tours",Eco-conscious
+243,35-44,"Wildlife,Mountains,Relaxation,History","14,74,64,90,59,58,78",6.2,3,"Kayaking,Surfing",Luxury
+244,35-44,"Wildlife,Photography","80,19,20,89,73,17,51,97,47,2",3.0,3,"Volunteering,Wildlife Watching,Eco Tours",Budget
+245,55-64,"Nature,Culture,Relaxation","62,98,47",6.9,3,"Surfing,Cultural Tours,Kayaking",Solo
+246,55-64,"Beach,History","30,57,11,66,17,90,26,27,43",6.1,4,"Local Cuisine,Volunteering,Swimming,Kayaking,Historical Sites",Solo
+247,25-34,"Relaxation,Wildlife,History,Nature,Food","2,25,87,83",5.2,4,"Wildlife Watching,Volunteering,Historical Sites",Adventure
+248,45-54,"Nature,Photography","35,95,10,14,33,31,76",5.6,1,"Surfing,Wildlife Watching",Solo
+249,25-34,"Culture,Nature,Photography","92,37,42,23,81,89,43",8.2,1,"Hiking,Surfing,Eco Tours",Adventure
+250,45-54,"Wildlife,Mountains,Nature,Photography","25,4,27,78,5,3,39",5.6,5,"Kayaking,Eco Tours",Adventure
+251,35-44,"Beach,Nature,Photography,Food","14,87,66,52,24",5.1,5,"Swimming,Local Cuisine,Cycling",Adventure
+252,18-24,"Photography,Adventure,Culture","18,3,45",3.5,3,"Museums,Volunteering",Cultural
+253,18-24,"Beach,History,Wildlife","3,80,92,62,30,14,15",6.5,5,"Cycling,Kayaking,Museums",Family
+254,25-34,"History,Culture","32,92,48,95,78,45,26,61",4.5,3,"Local Cuisine,Historical Sites,Cycling",Family
+255,18-24,"Culture,Food,Wildlife","12,40,55,16,84,65,59,58,30,42",6.3,2,"Volunteering,Wildlife Watching",Budget
+256,25-34,"Mountains,Culture,Relaxation,Beach,Nature","10,99,98,96,3,32,37,82,43,72",4.7,2,"Eco Tours,Cultural Tours,Hiking",Solo
+257,25-34,"Photography,Mountains","93,21,10,25,62,73",8.7,3,"Local Cuisine,Cultural Tours,Kayaking",Adventure
+258,45-54,"Nature,Relaxation,Food","48,44,12,38",8.5,3,"Wildlife Watching,Volunteering,Museums,Eco Tours",Eco-conscious
+259,35-44,"Food,Nature","91,29,75",6.4,2,"Cultural Tours,Wildlife Watching,Surfing,Museums",Budget
+260,55-64,"History,Adventure,Wildlife,Food,Mountains","76,86,5,39,19,89,2,42,72",10.0,5,"Wildlife Watching,Local Cuisine,Volunteering",Eco-conscious
+261,18-24,"Relaxation,Mountains,Adventure,Beach",89,9.8,4,"Hiking,Historical Sites",Eco-conscious
+262,65+,"Culture,Adventure","6,3,97,54,63,88,14,78,69,91",4.2,3,"Swimming,Kayaking",Family
+263,45-54,"Food,Nature,Wildlife,History,Relaxation","100,38,37",9.6,5,"Wildlife Watching,Museums,Historical Sites",Eco-conscious
+264,25-34,"Beach,History,Wildlife,Culture,Nature","95,31,92,33,90,10",4.5,5,"Hiking,Kayaking",Luxury
+265,18-24,"History,Nature,Food,Adventure,Culture","77,66,37,85,100,63,79,41",7.1,5,"Local Cuisine,Museums,Cultural Tours,Surfing",Luxury
+266,55-64,"Culture,Food,Nature","11,52,44,80,50",3.6,2,"Local Cuisine,Cycling,Wildlife Watching,Swimming,Cultural Tours",Solo
+267,35-44,"Relaxation,Food,Wildlife,Photography","68,100,90,2,11",7.2,3,"Kayaking,Eco Tours,Volunteering,Cycling",Solo
+268,55-64,"Mountains,History","87,45,82,9,73",5.3,1,"Wildlife Watching,Historical Sites",Adventure
+269,25-34,"Photography,Culture,History,Wildlife","31,55,45",6.1,1,"Swimming,Eco Tours,Volunteering,Hiking,Museums",Family
+270,55-64,"Photography,History","84,2,13,33",5.8,4,"Local Cuisine,Historical Sites,Kayaking,Volunteering,Cycling",Budget
+271,55-64,"Mountains,Wildlife,Relaxation","48,74,82,7,52,95,25,87,80,56",4.5,1,"Cycling,Kayaking",Cultural
+272,35-44,"Wildlife,Beach,Nature","64,31,52,73,37,85,65",7.8,4,"Surfing,Swimming",Solo
+273,45-54,"Culture,Wildlife,History,Nature","10,84,67,78",7.3,4,"Historical Sites,Museums",Luxury
+274,25-34,"Food,Culture","37,59,51,34,63,2,71",6.9,3,"Surfing,Museums",Luxury
+275,45-54,"Wildlife,Adventure","47,51,45,24,4,69",4.5,2,"Surfing,Museums,Volunteering,Local Cuisine",Solo
+276,45-54,"Mountains,Relaxation","37,31",7.4,5,"Volunteering,Kayaking,Historical Sites",Family
+277,65+,"Wildlife,Culture,Food","82,58,15,57,97,100,45,12",5.8,2,"Cycling,Local Cuisine,Volunteering",Luxury
+278,55-64,"Culture,Nature","55,92,35",6.4,3,"Cycling,Wildlife Watching,Surfing,Cultural Tours",Luxury
+279,65+,"Photography,Beach,Adventure,Culture,Food",91,3.8,5,"Historical Sites,Cycling",Budget
+280,55-64,"Adventure,Photography","34,17,35,8,39",7.2,1,"Cultural Tours,Surfing,Hiking,Kayaking",Family
+281,35-44,"Mountains,Nature,Food","51,77",3.2,3,"Museums,Cycling,Hiking,Volunteering,Eco Tours",Adventure
+282,35-44,"Adventure,Relaxation",47,5.8,2,"Wildlife Watching,Cycling,Eco Tours",Family
+283,55-64,"Nature,Wildlife,Mountains,Photography,Culture","100,45,91,40",6.1,2,"Eco Tours,Volunteering,Historical Sites",Budget
+284,45-54,"Beach,Photography","24,80,33,8",3.2,5,"Hiking,Local Cuisine",Budget
+285,35-44,"Relaxation,Beach,Nature,History","67,34,33,82,48,23",7.3,5,"Volunteering,Swimming,Surfing",Eco-conscious
+286,55-64,"Photography,Relaxation,Adventure","21,40,10,9,26,23",6.9,3,"Wildlife Watching,Eco Tours,Cycling,Museums,Historical Sites",Cultural
+287,55-64,"Food,Wildlife,Culture,Photography","97,36",6.3,5,"Surfing,Museums,Local Cuisine,Wildlife Watching",Family
+288,35-44,"Culture,Nature","57,93,64,28,65,96,78,40",7.6,4,"Wildlife Watching,Swimming,Historical Sites,Hiking,Cultural Tours",Adventure
+289,45-54,"Beach,Wildlife,Photography,Mountains,Nature","21,14,51,7,27,67,70,52,5,16",7.7,4,"Kayaking,Surfing,Cultural Tours",Solo
+290,55-64,"Nature,Beach,Adventure,History",1,8.3,3,"Wildlife Watching,Surfing,Cultural Tours,Volunteering",Adventure
+291,65+,"Mountains,Culture",55,8.3,3,"Wildlife Watching,Museums,Kayaking,Surfing,Swimming",Eco-conscious
+292,25-34,"Food,Photography",,5.8,5,"Hiking,Museums",Budget
+293,65+,"Relaxation,Culture,Photography,Beach",,6.2,2,"Cycling,Eco Tours",Family
+294,65+,"Adventure,History,Culture,Nature,Relaxation",20,6.4,5,"Eco Tours,Surfing,Hiking",Family
+295,55-64,"Culture,Beach,Adventure,Relaxation","39,51,17,7,2",7.5,4,"Cultural Tours,Local Cuisine,Volunteering,Surfing,Eco Tours",Cultural
+296,45-54,"Relaxation,Mountains,Food,History","38,72,65,27,83,89,25,90,13",6.5,5,"Volunteering,Museums,Cultural Tours",Family
+297,18-24,"Mountains,History,Photography,Wildlife,Food","84,68,3,72,79",6.9,2,"Surfing,Eco Tours,Swimming,Volunteering,Hiking",Luxury
+298,35-44,"Beach,Nature,Adventure,Wildlife,Food","35,69,8,65,54,82,55,49,83,100",6.1,3,"Kayaking,Eco Tours,Local Cuisine",Family
+299,65+,"Mountains,Food,History,Photography,Relaxation",74,6.5,4,"Local Cuisine,Wildlife Watching,Hiking",Cultural
+300,35-44,"Food,Culture",,6.1,5,"Cultural Tours,Surfing,Historical Sites,Eco Tours",Budget
+301,25-34,"Mountains,Culture",70,4.5,2,"Cycling,Hiking,Eco Tours,Surfing,Local Cuisine",Adventure
+302,25-34,"Mountains,Nature",18,9.5,2,"Cycling,Hiking,Eco Tours,Swimming",Eco-conscious
+303,35-44,"Food,Wildlife","57,53,21,90,49",8.0,5,"Swimming,Kayaking,Eco Tours,Wildlife Watching",Luxury
+304,45-54,"Culture,Relaxation,Beach","85,16,37",6.5,3,"Hiking,Wildlife Watching,Swimming,Historical Sites,Surfing",Family
+305,55-64,"Photography,Relaxation,Adventure",,7.1,5,"Cultural Tours,Local Cuisine,Wildlife Watching,Kayaking,Swimming",Luxury
+306,18-24,"Culture,Nature","49,5,35",7.2,3,"Museums,Eco Tours",Budget
+307,35-44,"Relaxation,Nature,Photography,Beach,Adventure","65,22,36,28,51",7.3,2,"Museums,Swimming,Hiking,Wildlife Watching",Family
+308,35-44,"Mountains,Relaxation",,5.2,5,"Local Cuisine,Cultural Tours",Adventure
+309,45-54,"Wildlife,Beach,Relaxation,Culture","25,98,68,96,34,14,42",8.0,2,"Museums,Local Cuisine,Eco Tours,Kayaking,Cycling",Solo
+310,18-24,"Food,Adventure","48,17,74,90,55,81",5.1,1,"Cultural Tours,Surfing,Volunteering,Local Cuisine",Cultural
+311,55-64,"Wildlife,History,Beach","47,38,93",8.4,3,"Wildlife Watching,Museums",Eco-conscious
+312,45-54,"Mountains,Photography,Food,Culture","43,36",7.0,5,"Swimming,Eco Tours,Kayaking,Historical Sites,Surfing",Luxury
+313,65+,"Relaxation,Photography","5,73,22,6,67,20,72",5.6,3,"Local Cuisine,Historical Sites,Cycling,Surfing,Wildlife Watching",Cultural
+314,45-54,"Wildlife,Mountains,Adventure,Relaxation","18,71,22,1,24,96,47,15",8.7,2,"Hiking,Cultural Tours,Local Cuisine,Swimming,Surfing",Solo
+315,18-24,"Culture,Beach,Food,Nature","73,19,86,83,35,45,52",5.6,5,"Historical Sites,Swimming,Cycling,Volunteering",Budget
+316,35-44,"Culture,History,Mountains,Nature,Wildlife","49,81,73,51",6.5,1,"Hiking,Surfing,Cycling",Family
+317,55-64,"Mountains,Nature,Photography","32,79,57,42,40,18,91",9.0,2,"Local Cuisine,Hiking,Historical Sites,Cycling,Kayaking",Cultural
+318,45-54,"Mountains,Photography,Beach","38,60,86,84",5.2,2,"Swimming,Kayaking",Cultural
+319,25-34,"Adventure,Mountains","52,66",3.9,2,"Surfing,Cycling",Solo
+320,25-34,"Beach,Mountains,Photography,History,Relaxation","57,43,53",8.2,2,"Historical Sites,Local Cuisine,Cycling,Eco Tours",Eco-conscious
+321,18-24,"History,Wildlife,Adventure,Beach,Relaxation","68,42,37,28,45,58,72,78,43,77",7.4,4,"Kayaking,Historical Sites,Cycling,Museums,Wildlife Watching",Cultural
+322,45-54,"Wildlife,Culture,Beach","38,42",3.5,5,"Cultural Tours,Kayaking,Historical Sites,Local Cuisine,Wildlife Watching",Adventure
+323,35-44,"Culture,Photography,Food","94,61,41,70,43,79,87,28",9.8,3,"Surfing,Swimming,Museums,Cycling",Eco-conscious
+324,18-24,"Mountains,Nature,History","11,7,24,59,26,17,98,90,35",7.2,1,"Museums,Cycling,Volunteering,Local Cuisine,Cultural Tours",Cultural
+325,25-34,"Nature,Mountains,Photography,History,Relaxation","96,72",4.8,4,"Swimming,Cycling,Museums,Cultural Tours",Solo
+326,65+,"Nature,Photography,Beach","33,64,58,63",7.1,4,"Wildlife Watching,Volunteering,Local Cuisine",Adventure
+327,25-34,"Wildlife,Beach,Food","71,30,56,43,36",8.0,3,"Historical Sites,Hiking",Eco-conscious
+328,25-34,"Adventure,Food,History","22,86,65,99,53,50,26,9",7.3,5,"Cultural Tours,Swimming",Solo
+329,55-64,"Wildlife,Adventure,Culture,Relaxation,Food","84,50,60,15",5.2,2,"Swimming,Surfing,Local Cuisine,Hiking",Luxury
+330,18-24,"Mountains,History,Relaxation,Adventure",,4.3,5,"Eco Tours,Volunteering,Swimming",Cultural
+331,35-44,"History,Mountains,Wildlife,Adventure","65,93,5,16,90",5.5,3,"Cycling,Volunteering",Solo
+332,18-24,"Beach,Nature,Relaxation,Culture,Mountains","46,84,11,76,83,58,12,63,2",3.2,2,"Local Cuisine,Cultural Tours,Eco Tours,Volunteering",Adventure
+333,55-64,"Nature,Wildlife",,9.7,2,"Surfing,Volunteering,Eco Tours,Swimming",Eco-conscious
+334,45-54,"Adventure,Wildlife","33,29,71,27,14,53",7.6,4,"Cycling,Swimming,Eco Tours,Wildlife Watching,Surfing",Cultural
+335,55-64,"Culture,Relaxation,Mountains,Beach,Food",,5.7,5,"Surfing,Museums,Hiking,Kayaking",Luxury
+336,55-64,"Relaxation,Nature,Food,History,Mountains","25,23,68,95,34,7,49,38",7.8,3,"Local Cuisine,Volunteering,Wildlife Watching,Kayaking,Surfing",Adventure
+337,65+,"Mountains,History,Food,Culture",,5.7,5,"Local Cuisine,Hiking",Budget
+338,45-54,"History,Relaxation,Adventure","24,98,1,59,97",4.8,4,"Cultural Tours,Local Cuisine,Hiking,Surfing,Historical Sites",Cultural
+339,65+,"History,Nature,Photography","23,70,11,86",3.3,5,"Cultural Tours,Surfing,Historical Sites,Museums,Volunteering",Cultural
+340,55-64,"Nature,Relaxation,Adventure,Wildlife,Beach","15,50,10,97",6.0,5,"Historical Sites,Surfing,Eco Tours",Adventure
+341,35-44,"Nature,Beach,Mountains,History","34,28,54,37,18",6.1,5,"Eco Tours,Local Cuisine,Hiking,Swimming",Solo
+342,35-44,"Nature,Culture,Mountains,Relaxation","40,86,89,92,16,68,8",6.5,5,"Local Cuisine,Cultural Tours,Cycling,Eco Tours",Family
+343,35-44,"Wildlife,Culture,History","12,17,21,64,70,67,36,40",7.6,2,"Volunteering,Surfing,Kayaking,Swimming",Budget
+344,35-44,"Nature,Food,Adventure",,6.1,2,"Hiking,Surfing",Cultural
+345,55-64,"Relaxation,Adventure,Wildlife,Culture","61,98,48,43",6.2,1,"Historical Sites,Cultural Tours,Wildlife Watching,Eco Tours,Kayaking",Adventure
+346,65+,"Adventure,Mountains","38,23,73,83,58,45,25",6.3,1,"Museums,Volunteering,Local Cuisine",Cultural
+347,65+,"History,Nature","44,82",7.4,5,"Eco Tours,Wildlife Watching,Cycling",Eco-conscious
+348,18-24,"Nature,Relaxation,Wildlife,Adventure,History","67,15,5,57,29,84,90,39,88",3.8,5,"Local Cuisine,Kayaking,Museums",Budget
+349,45-54,"Mountains,History","31,84,90,42,88,65,18",3.5,5,"Local Cuisine,Eco Tours,Volunteering,Cultural Tours,Wildlife Watching",Cultural
+350,55-64,"Beach,Photography,Relaxation,Culture","92,48,66,82,83",6.4,5,"Surfing,Cultural Tours,Hiking,Historical Sites",Solo
+351,65+,"Food,History",,4.1,3,"Eco Tours,Cycling",Family
+352,65+,"History,Mountains,Adventure,Photography,Wildlife","62,3,59,5,90,41,61,98,94,31",4.2,3,"Cultural Tours,Hiking,Surfing,Eco Tours,Swimming",Adventure
+353,18-24,"Beach,Culture,History,Mountains,Food","38,76,31,84,52",3.9,2,"Kayaking,Hiking,Local Cuisine",Adventure
+354,18-24,"Food,Relaxation,Adventure","29,55,95,2,99",7.2,4,"Kayaking,Surfing,Hiking,Cycling,Volunteering",Cultural
+355,35-44,"History,Beach,Food,Adventure",32,5.3,5,"Eco Tours,Historical Sites,Local Cuisine,Cultural Tours",Adventure
+356,45-54,"Beach,Photography","6,36,74,52,10,60",5.0,2,"Hiking,Volunteering",Budget
+357,35-44,"Adventure,History","70,81,63,78,22,3,25,82,97",3.7,5,"Wildlife Watching,Local Cuisine",Budget
+358,65+,"Mountains,Food,Photography","73,18,9,96,51",4.5,1,"Volunteering,Hiking,Kayaking,Local Cuisine",Cultural
+359,35-44,"Wildlife,Culture,Adventure,Beach,Nature","62,69,58,14,25,87,41,61",6.0,4,"Historical Sites,Wildlife Watching,Eco Tours,Kayaking",Luxury
+360,65+,"Food,Beach,Mountains","7,76",7.7,4,"Surfing,Cycling,Hiking,Cultural Tours,Eco Tours",Cultural
+361,25-34,"Adventure,Photography","94,84,31,26,64,20,100,38,99,51",7.7,4,"Historical Sites,Hiking,Surfing,Eco Tours,Swimming",Eco-conscious
+362,55-64,"Photography,Food,Wildlife","49,79,39",8.1,4,"Wildlife Watching,Volunteering,Cultural Tours,Local Cuisine",Eco-conscious
+363,35-44,"Relaxation,Culture","50,33",8.5,5,"Cultural Tours,Swimming,Kayaking,Hiking,Historical Sites",Solo
+364,55-64,"Culture,Adventure","38,81",9.9,3,"Hiking,Wildlife Watching",Eco-conscious
+365,65+,"Nature,Photography","53,85,12,95,45,31,56",3.3,2,"Surfing,Hiking,Eco Tours,Cultural Tours",Solo
+366,55-64,"Food,Wildlife,Relaxation,Mountains","75,87",3.6,2,"Historical Sites,Cycling",Cultural
+367,35-44,"Food,Photography","1,27,9,77,28",3.4,5,"Hiking,Wildlife Watching,Kayaking,Cycling,Volunteering",Adventure
+368,65+,"Food,History",28,7.6,1,"Historical Sites,Wildlife Watching,Museums",Eco-conscious
+369,18-24,"Beach,Mountains","49,20,97,6,85",4.9,5,"Cultural Tours,Museums",Family
+370,45-54,"Food,Photography,Culture","98,86,26,84,37,34,30,38,41,33",7.7,2,"Swimming,Wildlife Watching,Hiking,Kayaking,Cycling",Luxury
+371,45-54,"Beach,History","6,11",4.6,2,"Hiking,Volunteering,Cultural Tours",Family
+372,45-54,"Photography,History,Food","100,28,88,3,42,36,72,25,80,76",8.8,4,"Local Cuisine,Museums,Wildlife Watching,Eco Tours,Kayaking",Solo
+373,65+,"Culture,Adventure","28,39,37",8.2,1,"Hiking,Cycling,Local Cuisine,Historical Sites,Cultural Tours",Eco-conscious
+374,65+,"Mountains,Wildlife,Nature,Relaxation",,5.7,2,"Kayaking,Surfing,Hiking,Eco Tours,Historical Sites",Adventure
+375,55-64,"History,Culture","45,90,99,12",5.2,3,"Cycling,Eco Tours,Local Cuisine,Historical Sites,Wildlife Watching",Luxury
+376,45-54,"History,Adventure","69,39,21,41,23,30",5.7,1,"Cycling,Museums,Eco Tours,Swimming,Volunteering",Cultural
+377,65+,"Relaxation,Photography,Wildlife","86,63,76",8.7,4,"Cultural Tours,Hiking,Wildlife Watching",Eco-conscious
+378,35-44,"Nature,Wildlife,Culture,Relaxation","61,53,30",5.8,5,"Eco Tours,Kayaking,Surfing,Local Cuisine",Solo
+379,65+,"Photography,Adventure,Culture","41,15,53,26,100,99,47",7.7,5,"Wildlife Watching,Surfing,Historical Sites,Eco Tours",Family
+380,35-44,"Beach,Mountains,Photography,Adventure","57,10,9,52,59,78,90,84",7.4,4,"Swimming,Local Cuisine,Surfing",Cultural
+381,65+,"Mountains,Photography,Beach","53,52,40,92,19,35,39,37,61",6.9,1,"Hiking,Local Cuisine,Historical Sites,Surfing",Luxury
+382,18-24,"Wildlife,Beach","95,70",8.0,4,"Cultural Tours,Cycling",Solo
+383,18-24,"Beach,Culture","27,28,65,45,48,32,77,42,43",4.3,2,"Local Cuisine,Historical Sites",Family
+384,55-64,"Photography,History,Beach,Adventure",,5.0,1,"Swimming,Local Cuisine,Volunteering,Museums,Cycling",Family
+385,55-64,"Nature,Beach,Photography,Food","2,56,36,28,11,85,80,76,75,47",5.9,5,"Cultural Tours,Hiking,Wildlife Watching,Cycling,Swimming",Budget
+386,35-44,"Beach,Photography,Wildlife,Relaxation","98,52,1,64,59,87,74,92,24,48",7.6,2,"Historical Sites,Museums,Swimming,Wildlife Watching",Cultural
+387,55-64,"Nature,Photography,Wildlife,Food,Relaxation","71,89,85,83,28",5.6,3,"Eco Tours,Wildlife Watching,Historical Sites,Volunteering,Museums",Family
+388,25-34,"History,Mountains,Relaxation,Beach,Nature","54,33,1",8.6,5,"Eco Tours,Surfing,Local Cuisine",Adventure
+389,65+,"History,Wildlife,Beach","69,99,24,14",4.5,1,"Surfing,Kayaking,Swimming,Local Cuisine",Cultural
+390,35-44,"Adventure,Relaxation,Photography,Nature,Culture","54,75,10,72",7.1,4,"Eco Tours,Local Cuisine,Historical Sites,Cycling",Solo
+391,45-54,"Beach,Nature,Adventure","48,59,34,6,25,100,52,13,55",7.1,3,"Hiking,Kayaking",Solo
+392,35-44,"Nature,Adventure","51,13,92,57",6.9,2,"Cycling,Wildlife Watching,Museums",Solo
+393,18-24,"Nature,Beach,Relaxation","33,75,7",9.6,5,"Surfing,Volunteering,Cycling,Kayaking,Museums",Eco-conscious
+394,45-54,"Culture,Photography,Mountains,Adventure,Nature","44,42,50",6.3,3,"Hiking,Local Cuisine",Family
+395,25-34,"Wildlife,Culture,Food,Beach,History",38,6.1,3,"Eco Tours,Cycling",Family
+396,35-44,"Wildlife,Photography,Nature","61,41,45,80,97,86,90,96,73",3.1,2,"Local Cuisine,Wildlife Watching,Surfing,Cycling",Adventure
+397,18-24,"Photography,Relaxation,Nature",,8.6,3,"Hiking,Cycling,Historical Sites",Adventure
+398,45-54,"Food,Relaxation,Photography,Mountains","42,46,43,99,1,74",8.5,5,"Kayaking,Hiking,Historical Sites,Volunteering",Solo
+399,45-54,"History,Mountains,Nature","30,51",5.3,5,"Cultural Tours,Hiking,Cycling",Solo
+400,45-54,"History,Photography,Wildlife,Relaxation,Mountains","5,49,94",3.3,3,"Wildlife Watching,Cultural Tours",Adventure
+401,35-44,"Beach,Mountains","79,93,24",4.3,4,"Hiking,Kayaking,Swimming",Budget
+402,55-64,"Mountains,Wildlife,Beach,Culture","12,72,48,30,53,94,83,35,24,15",4.7,1,"Kayaking,Swimming,Local Cuisine,Cultural Tours",Budget
+403,25-34,"Wildlife,Food,Photography","73,50,92,47,99,70,94",7.7,3,"Swimming,Cycling",Cultural
+404,35-44,"Nature,Culture",2,7.5,1,"Volunteering,Cycling",Cultural
+405,35-44,"Food,Mountains","87,37,70,25,77,74,71,1,100,62",6.3,1,"Kayaking,Hiking,Surfing",Cultural
+406,65+,"History,Wildlife,Nature,Relaxation,Adventure",,3.4,4,"Cultural Tours,Kayaking,Historical Sites,Local Cuisine",Solo
+407,65+,"Adventure,History,Photography,Wildlife","6,16",7.3,3,"Eco Tours,Swimming,Kayaking,Wildlife Watching",Budget
+408,35-44,"Beach,Adventure,History","67,86,6,22,78,13",5.4,2,"Swimming,Museums,Eco Tours,Local Cuisine,Surfing",Solo
+409,45-54,"Beach,Photography","64,9,91,89,84,40,54,57,93",7.8,4,"Historical Sites,Surfing,Volunteering,Cycling",Cultural
+410,25-34,"Nature,Beach","85,79,98,76,20,29,24",7.2,4,"Wildlife Watching,Kayaking",Solo
+411,25-34,"Mountains,Relaxation,Culture","52,62,40,2,18,4,67,22,57",5.9,4,"Museums,Wildlife Watching,Eco Tours,Surfing",Adventure
+412,25-34,"Beach,Food","11,86,24,27",8.0,2,"Swimming,Volunteering,Hiking",Cultural
+413,55-64,"History,Culture,Photography","36,38,28,82,69,57",7.3,3,"Swimming,Volunteering,Museums,Kayaking",Eco-conscious
+414,25-34,"History,Culture","73,4,79,59",3.6,3,"Historical Sites,Kayaking,Local Cuisine,Volunteering,Cultural Tours",Solo
+415,45-54,"Relaxation,Beach,Adventure,Culture,History","37,59,23,26,70,88,94,45,97,67",5.5,3,"Cultural Tours,Hiking,Surfing,Local Cuisine",Adventure
+416,55-64,"Relaxation,Food,Mountains,Beach","87,92,46,90,30",7.1,2,"Hiking,Historical Sites,Wildlife Watching",Cultural
+417,18-24,"Photography,Nature,History,Beach","87,24,23,17",4.7,4,"Swimming,Historical Sites",Adventure
+418,25-34,"History,Adventure,Relaxation,Nature","65,69,41,63,22,91",5.8,2,"Local Cuisine,Cultural Tours,Museums,Cycling",Solo
+419,45-54,"Photography,Adventure,History","91,59,99",5.1,1,"Museums,Cultural Tours,Historical Sites,Local Cuisine,Kayaking",Cultural
+420,25-34,"Photography,Relaxation","44,75,9,36,78",7.0,5,"Eco Tours,Swimming,Surfing",Family
+421,25-34,"Food,Adventure,Wildlife,Nature,Relaxation","92,55,29,93,77,17,4",8.8,1,"Eco Tours,Cycling,Kayaking,Hiking,Local Cuisine",Eco-conscious
+422,35-44,"Wildlife,Mountains,Photography,Beach",4,9.0,5,"Surfing,Cycling",Eco-conscious
+423,18-24,"Culture,Relaxation,History,Photography","91,36,53",7.1,4,"Kayaking,Historical Sites,Cultural Tours,Eco Tours,Museums",Eco-conscious
+424,25-34,"Food,Culture,Mountains","93,72,62,23,61,63,84,70,14,94",6.4,3,"Kayaking,Local Cuisine,Hiking",Solo
+425,35-44,"Adventure,Mountains,Photography",,3.7,3,"Hiking,Kayaking,Surfing",Budget
+426,18-24,"History,Nature,Food","91,26,3,52,45,5,80,76",8.2,2,"Hiking,Kayaking",Cultural
+427,45-54,"Wildlife,Photography,Food,Beach,Nature","72,26,4,96,71",8.0,5,"Eco Tours,Cycling,Surfing,Museums,Local Cuisine",Budget
+428,45-54,"Food,Beach,Adventure,Mountains,History",31,4.9,2,"Cycling,Historical Sites,Hiking,Volunteering,Cultural Tours",Luxury
+429,25-34,"Adventure,Wildlife","11,64,56,79,82,89,3",5.0,3,"Cycling,Surfing,Historical Sites",Budget
+430,18-24,"Adventure,Beach,History,Nature,Mountains","65,99,27,77,33,40",4.5,3,"Hiking,Eco Tours,Local Cuisine",Luxury
+431,65+,"Photography,Food,History,Culture","27,39,100,59,3,64,69,8",9.9,3,"Kayaking,Surfing,Museums",Eco-conscious
+432,55-64,"Mountains,Relaxation","70,56",3.8,4,"Historical Sites,Cycling",Solo
+433,25-34,"Culture,Wildlife,Nature,Relaxation","24,90,99",4.0,2,"Eco Tours,Surfing,Wildlife Watching,Cycling",Adventure
+434,35-44,"Adventure,Food,Mountains","14,95",5.2,4,"Volunteering,Swimming",Solo
+435,18-24,"Mountains,Photography,Wildlife,Beach,Adventure","53,36,33,30,17,83,84,44,5,74",9.3,2,"Surfing,Cycling,Hiking,Historical Sites",Eco-conscious
+436,65+,"History,Adventure","47,29,96",3.5,3,"Volunteering,Cycling,Museums,Kayaking",Adventure
+437,45-54,"Relaxation,Beach,Wildlife,Nature,Photography","87,1,32,54,64,62,17,84,6,67",8.9,2,"Volunteering,Surfing,Cycling",Adventure
+438,35-44,"Food,Wildlife,Beach","82,12",5.3,3,"Swimming,Cycling,Wildlife Watching,Kayaking,Hiking",Solo
+439,25-34,"Nature,Mountains,Beach,History,Photography",85,7.2,4,"Wildlife Watching,Local Cuisine,Eco Tours",Family
+440,45-54,"Adventure,Wildlife",75,6.9,3,"Cultural Tours,Swimming,Local Cuisine",Family
+441,45-54,"Relaxation,History",93,4.9,2,"Local Cuisine,Cultural Tours",Adventure
+442,18-24,"History,Beach,Nature",87,6.5,2,"Surfing,Volunteering,Hiking,Cultural Tours",Luxury
+443,65+,"Photography,History,Food,Adventure,Culture","86,67,51,35,74,22",5.3,5,"Cycling,Kayaking,Swimming",Luxury
+444,25-34,"Food,Mountains,Relaxation","22,65,37",4.3,5,"Cultural Tours,Cycling,Historical Sites,Wildlife Watching,Local Cuisine",Adventure
+445,55-64,"Culture,Food,Beach,Photography","92,79,14",8.4,3,"Historical Sites,Wildlife Watching,Volunteering,Cycling",Solo
+446,65+,"Culture,Nature,Wildlife,Relaxation,History","62,40,93,73,3,20",5.5,3,"Historical Sites,Volunteering,Cultural Tours",Luxury
+447,18-24,"Nature,Wildlife,Food,Photography,Culture","64,44,71,32",8.7,2,"Swimming,Local Cuisine",Eco-conscious
+448,45-54,"Adventure,Culture,Photography","87,33,57,81,63",7.6,1,"Museums,Wildlife Watching,Local Cuisine",Family
+449,65+,"Mountains,History,Nature,Beach,Adventure","21,38,47",4.9,4,"Volunteering,Eco Tours",Adventure
+450,25-34,"Relaxation,Culture,Wildlife","68,66,60",6.7,1,"Kayaking,Hiking,Cycling,Cultural Tours",Luxury
+451,45-54,"Culture,Relaxation,Beach,Wildlife","88,59,11,33,12,67,92,77,27",6.7,1,"Cycling,Volunteering,Eco Tours,Swimming,Wildlife Watching",Solo
+452,55-64,"Culture,Photography,Mountains,Nature,Wildlife","69,8",3.6,5,"Museums,Swimming,Local Cuisine,Kayaking,Eco Tours",Adventure
+453,55-64,"Photography,Beach,Culture,Relaxation,Adventure","18,42,1,13,75,98,8",8.5,1,"Surfing,Hiking",Eco-conscious
+454,65+,"Nature,Culture,Adventure","33,86,94,35",8.4,4,"Kayaking,Cycling,Cultural Tours,Hiking,Surfing",Solo
+455,18-24,"Culture,Adventure,Photography,Food",14,8.2,2,"Eco Tours,Local Cuisine,Museums,Historical Sites",Cultural
+456,35-44,"Relaxation,History","24,60,20,84,74,71",5.0,1,"Wildlife Watching,Museums,Historical Sites,Cultural Tours,Hiking",Luxury
+457,45-54,"Relaxation,History,Mountains,Food,Wildlife","54,99,95,66,60,52",5.2,1,"Kayaking,Eco Tours,Museums,Cycling,Hiking",Cultural
+458,45-54,"Photography,Mountains,Food,History,Wildlife",93,8.5,2,"Wildlife Watching,Kayaking",Cultural
+459,55-64,"Photography,Adventure,Food","64,66",6.6,3,"Surfing,Local Cuisine",Family
+460,35-44,"Wildlife,Culture","85,79,57,36,61",5.4,5,"Wildlife Watching,Eco Tours,Museums",Cultural
+461,45-54,"Culture,History,Nature,Beach,Wildlife","14,68,26,64,57,82,43",5.3,4,"Wildlife Watching,Swimming",Solo
+462,35-44,"Photography,Mountains,Wildlife",86,6.1,2,"Local Cuisine,Wildlife Watching,Surfing",Luxury
+463,18-24,"Photography,Relaxation,Food,Nature","23,95,86,48,24,70,15",5.1,1,"Museums,Eco Tours,Kayaking,Surfing",Family
+464,55-64,"Food,Relaxation,Wildlife,Culture,History","30,34,14,26,12,10",6.6,1,"Historical Sites,Cultural Tours",Luxury
+465,35-44,"Culture,Nature,Beach,History","100,13,37,30,11,6",4.0,2,"Hiking,Local Cuisine,Cultural Tours,Cycling,Wildlife Watching",Family
+466,55-64,"Nature,Mountains","27,20,14,34,48,77,96,22,88",4.7,3,"Eco Tours,Volunteering,Kayaking,Hiking",Budget
+467,18-24,"Mountains,Culture","45,52,26,42,94,6",8.7,4,"Wildlife Watching,Swimming,Museums",Eco-conscious
+468,45-54,"Food,Relaxation","74,22,6,7,13,79",7.1,5,"Cycling,Hiking,Wildlife Watching,Cultural Tours,Local Cuisine",Family
+469,25-34,"Culture,Adventure,History,Photography,Beach","68,5,90,46",7.8,3,"Kayaking,Museums",Adventure
+470,35-44,"Adventure,Nature,Beach","7,99,20,17,71,49",3.6,3,"Swimming,Hiking,Surfing",Budget
+471,35-44,"Photography,Food,Nature,Mountains","27,93",7.5,4,"Local Cuisine,Volunteering,Cultural Tours",Cultural
+472,65+,"Mountains,History","51,85,5",5.8,4,"Cycling,Cultural Tours",Luxury
+473,25-34,"Nature,Adventure","25,74,52,39,68,5,46,61,90",5.8,3,"Volunteering,Surfing",Budget
+474,45-54,"Beach,Relaxation,Culture,History,Food","74,65,37,72,81,91,46,1,39",8.5,3,"Surfing,Swimming,Historical Sites,Cultural Tours,Cycling",Eco-conscious
+475,65+,"Adventure,Food,Relaxation,Wildlife","55,64,66",7.4,2,"Hiking,Volunteering,Eco Tours,Surfing,Local Cuisine",Budget
+476,65+,"Mountains,Nature,Culture,Food","37,51,29,23,66,56,40",3.6,5,"Historical Sites,Cycling",Solo
+477,45-54,"Food,Adventure",47,6.3,5,"Kayaking,Museums,Cycling,Volunteering",Family
+478,18-24,"History,Adventure,Wildlife,Relaxation,Nature",,3.4,5,"Kayaking,Hiking,Museums,Volunteering",Adventure
+479,35-44,"Relaxation,Photography","92,19",6.0,5,"Cycling,Volunteering,Cultural Tours,Hiking,Surfing",Luxury
+480,45-54,"Adventure,History,Beach,Culture","22,31,64,74,39,21,84,3",4.3,1,"Volunteering,Museums,Hiking,Swimming,Cultural Tours",Adventure
+481,55-64,"History,Wildlife,Photography","87,93,47,97,65,23,94,45,95",3.3,1,"Eco Tours,Swimming,Museums,Kayaking,Hiking",Solo
+482,18-24,"History,Mountains,Food","7,59,45,1",5.0,4,"Swimming,Eco Tours,Local Cuisine,Volunteering,Wildlife Watching",Budget
+483,25-34,"History,Adventure",,5.9,4,"Wildlife Watching,Historical Sites,Local Cuisine,Hiking",Adventure
+484,45-54,"Adventure,Culture,Beach,Wildlife,History","88,15,22,59,67",6.9,3,"Hiking,Historical Sites",Solo
+485,25-34,"Wildlife,Food","65,56,55,66,90,8,24",5.6,2,"Historical Sites,Swimming,Museums",Cultural
+486,18-24,"Culture,History,Mountains,Adventure,Photography","61,53,17,74,49",7.9,3,"Volunteering,Surfing,Museums,Wildlife Watching,Cultural Tours",Eco-conscious
+487,65+,"History,Photography,Nature","81,55,1,66,59,91,33,29,51",6.9,2,"Hiking,Museums",Cultural
+488,45-54,"Photography,Culture,Adventure","33,16,98,41,88",4.8,4,"Wildlife Watching,Local Cuisine,Swimming,Cycling",Budget
+489,45-54,"Culture,Wildlife,Photography","43,78,15,27,4,97,55,79,72",7.3,2,"Volunteering,Hiking,Swimming,Eco Tours,Local Cuisine",Luxury
+490,65+,"Wildlife,Culture,Food,Mountains,Relaxation","90,51",7.7,2,"Local Cuisine,Volunteering,Swimming",Adventure
+491,35-44,"Mountains,Culture,History,Beach","7,45,65",6.3,3,"Local Cuisine,Swimming,Cultural Tours,Historical Sites,Museums",Adventure
+492,18-24,"Relaxation,Wildlife,Culture,Nature,Adventure","100,30,84,47,90,61",7.6,1,"Cultural Tours,Wildlife Watching,Local Cuisine,Surfing,Eco Tours",Luxury
+493,65+,"Beach,Photography","22,27,73,7,28,81,38,72,52",7.9,4,"Cycling,Eco Tours,Hiking,Museums",Budget
+494,25-34,"Culture,Wildlife,History,Relaxation,Adventure","3,48",7.4,4,"Surfing,Museums,Hiking,Swimming",Eco-conscious
+495,65+,"Culture,Food,History,Wildlife","47,6,23,14,74",6.5,4,"Cultural Tours,Historical Sites,Kayaking",Cultural
+496,18-24,"Photography,Nature,Wildlife,Mountains,Relaxation","65,2,88,1",5.2,1,"Volunteering,Wildlife Watching,Local Cuisine,Cultural Tours,Museums",Family
+497,35-44,"Nature,Beach","38,100,52,12,37",6.7,4,"Eco Tours,Museums,Kayaking",Cultural
+498,25-34,"Culture,Relaxation,Food","85,39",4.3,2,"Kayaking,Swimming,Volunteering,Museums",Cultural
+499,35-44,"Mountains,Wildlife,Photography,Beach,Culture","80,96,5,81,97,1,78,48,49,60",6.7,3,"Wildlife Watching,Swimming,Eco Tours,Local Cuisine,Kayaking",Adventure
+500,25-34,"History,Beach,Photography","8,24,41,3,58",7.0,1,"Cycling,Historical Sites,Wildlife Watching,Museums,Local Cuisine",Family
+501,45-54,"Wildlife,Food,History","40,44",4.3,5,"Local Cuisine,Cultural Tours",Luxury
+502,45-54,"Relaxation,Mountains","70,1,31,34,44",5.4,1,"Local Cuisine,Surfing,Eco Tours,Swimming",Family
+503,18-24,"Food,History,Photography,Adventure,Wildlife","10,77,72,7,12,63,97",6.0,2,"Museums,Cycling,Local Cuisine,Wildlife Watching,Kayaking",Luxury
+504,65+,"History,Mountains,Culture","11,83,95,17",6.8,3,"Historical Sites,Swimming,Museums",Family
+505,35-44,"Adventure,History,Mountains,Relaxation,Nature","88,1",5.0,3,"Volunteering,Cultural Tours,Kayaking,Cycling",Family
+506,55-64,"Relaxation,Food","4,3,33,70,79,89,37,46",7.7,1,"Museums,Kayaking,Historical Sites,Local Cuisine,Surfing",Eco-conscious
+507,25-34,"Adventure,History","11,41,9,25,78,26,82,34,38",7.4,3,"Cycling,Eco Tours,Swimming,Cultural Tours",Cultural
+508,45-54,"Relaxation,Nature,Photography,Culture","88,83,89,14,31,53,93,80",3.5,1,"Hiking,Volunteering,Surfing,Cultural Tours,Eco Tours",Adventure
+509,65+,"Adventure,Mountains,Nature","61,31",7.1,2,"Volunteering,Cultural Tours,Wildlife Watching,Hiking,Local Cuisine",Cultural
+510,45-54,"Wildlife,Food,Adventure,Culture,Mountains",,8.5,5,"Swimming,Museums,Cycling",Eco-conscious
+511,35-44,"History,Food",,8.4,4,"Volunteering,Surfing",Budget
+512,65+,"Beach,Food,Nature","8,62,79,24,87,69",7.6,5,"Historical Sites,Eco Tours,Wildlife Watching,Museums,Kayaking",Cultural
+513,35-44,"Nature,Beach",83,3.7,2,"Volunteering,Cultural Tours,Cycling,Museums,Hiking",Adventure
+514,35-44,"Photography,History","5,34",6.1,4,"Hiking,Kayaking",Family
+515,45-54,"Beach,Food,Wildlife,Photography","41,20,83,32",9.5,5,"Museums,Eco Tours,Wildlife Watching,Cycling,Local Cuisine",Eco-conscious
+516,55-64,"History,Food,Mountains,Beach,Relaxation","88,73,71,3,52,53,14,65,5",6.4,3,"Eco Tours,Historical Sites,Kayaking",Cultural
+517,45-54,"Nature,Mountains,Food,Photography",77,6.6,5,"Volunteering,Museums,Historical Sites,Kayaking",Family
+518,25-34,"Nature,Beach",,8.5,2,"Hiking,Volunteering,Museums,Cultural Tours",Adventure
+519,65+,"Adventure,Nature,Mountains","74,55,35,22,30,92,91,62,7,23",5.6,1,"Museums,Eco Tours,Kayaking",Family
+520,18-24,"Nature,Relaxation,Mountains",,7.9,3,"Museums,Volunteering,Cultural Tours,Eco Tours",Eco-conscious
+521,25-34,"Nature,Photography,Beach,Food,Wildlife",,6.3,1,"Wildlife Watching,Volunteering",Adventure
+522,35-44,"Adventure,Mountains",80,7.0,3,"Local Cuisine,Cycling,Volunteering,Eco Tours,Wildlife Watching",Budget
+523,55-64,"History,Wildlife,Adventure,Mountains,Beach","72,94,54,4,11,81,75,34,84",7.8,2,"Local Cuisine,Eco Tours,Cultural Tours",Luxury
+524,25-34,"Nature,Adventure,History,Photography",13,7.8,1,"Historical Sites,Surfing,Wildlife Watching,Hiking",Family
+525,18-24,"Photography,Culture,Food,Beach,History","87,84,32,54,20,79",4.7,4,"Swimming,Local Cuisine,Museums,Wildlife Watching",Cultural
+526,35-44,"Relaxation,Beach,Food","25,14,31,99",7.4,1,"Local Cuisine,Eco Tours,Volunteering,Kayaking,Surfing",Budget
+527,45-54,"Beach,Mountains,Culture",82,7.6,1,"Surfing,Wildlife Watching,Cultural Tours,Hiking",Cultural
+528,25-34,"Beach,Wildlife",,7.7,3,"Hiking,Eco Tours",Cultural
+529,35-44,"Food,Wildlife,Mountains","49,69,8,90,20,23,39",7.8,1,"Cycling,Cultural Tours,Historical Sites,Swimming",Adventure
+530,45-54,"Photography,Beach,Mountains",,6.4,4,"Surfing,Volunteering,Kayaking",Luxury
+531,25-34,"Nature,Adventure,Photography","40,66,21,95,19,98,87",5.6,3,"Cultural Tours,Hiking",Luxury
+532,45-54,"Culture,Beach,Photography","43,49,2,5,6,41,69,17,90,50",9.2,1,"Surfing,Kayaking",Eco-conscious
+533,35-44,"Beach,Mountains,Wildlife,Relaxation","88,32,59,64,5,83,16,19",7.5,1,"Volunteering,Wildlife Watching",Cultural
+534,25-34,"Relaxation,Beach,Adventure,Culture","18,62",7.3,3,"Historical Sites,Hiking,Surfing,Wildlife Watching",Adventure
+535,55-64,"Wildlife,Nature,History,Mountains","91,8,78,41,56,60,29",8.5,3,"Cultural Tours,Swimming,Museums,Hiking,Eco Tours",Solo
+536,55-64,"Relaxation,Nature,History,Beach,Mountains",,6.9,1,"Wildlife Watching,Historical Sites,Eco Tours",Luxury
+537,25-34,"Culture,Food,History,Beach","75,9,36,21,79,57,77",9.0,2,"Eco Tours,Volunteering",Solo
+538,45-54,"History,Nature,Photography",11,4.6,3,"Wildlife Watching,Volunteering,Historical Sites",Cultural
+539,18-24,"Adventure,Photography,History,Wildlife","55,61,1,87,77,69,63,83",4.3,4,"Cultural Tours,Eco Tours",Family
+540,45-54,"Food,Wildlife,Photography","55,49,25,91,26,1,85,34,13,48",6.7,1,"Swimming,Kayaking",Family
+541,18-24,"Mountains,Beach,Culture",30,6.3,2,"Cycling,Local Cuisine,Cultural Tours",Adventure
+542,55-64,"Relaxation,Nature,Mountains,Wildlife,Adventure","82,93,94,58,95",4.3,5,"Local Cuisine,Historical Sites",Solo
+543,55-64,"Relaxation,Wildlife,Nature,Adventure,Culture",,7.4,5,"Cultural Tours,Swimming,Kayaking,Surfing,Historical Sites",Budget
+544,45-54,"Adventure,Nature,Beach,Culture,History",,4.9,4,"Wildlife Watching,Local Cuisine,Cultural Tours,Museums,Eco Tours",Budget
+545,65+,"Relaxation,Food,Photography,Wildlife,Beach","34,22",7.4,4,"Hiking,Wildlife Watching,Surfing,Swimming,Historical Sites",Budget
+546,55-64,"Adventure,Wildlife,Photography,Nature","98,33,10,90,4,67,2,83,37,85",9.5,4,"Swimming,Eco Tours,Volunteering,Museums,Kayaking",Eco-conscious
+547,35-44,"Nature,Relaxation","97,55",3.3,5,"Historical Sites,Cultural Tours,Volunteering,Local Cuisine",Adventure
+548,18-24,"Mountains,Wildlife","20,12,71,44,7,86,77",6.0,4,"Local Cuisine,Volunteering,Historical Sites,Surfing,Kayaking",Solo
+549,55-64,"Mountains,Beach",2,9.0,3,"Volunteering,Kayaking,Local Cuisine,Cultural Tours",Eco-conscious
+550,18-24,"Relaxation,Food,Culture",,7.3,5,"Volunteering,Surfing,Hiking",Luxury
+551,55-64,"Food,Adventure,Wildlife,Culture","77,47,14,70,63,60,5,73,39",8.4,3,"Cultural Tours,Wildlife Watching,Museums,Kayaking,Swimming",Budget
+552,35-44,"Food,Relaxation","98,91,5",4.6,2,"Swimming,Cultural Tours,Hiking",Cultural
+553,18-24,"Relaxation,Nature,Photography,Adventure,Food","81,19,50,38,61,34,52,92",7.4,4,"Historical Sites,Swimming",Luxury
+554,35-44,"Relaxation,Beach,Adventure,Culture,History","15,26,64,35",9.7,2,"Wildlife Watching,Surfing,Kayaking",Eco-conscious
+555,25-34,"Mountains,Photography,Adventure,History,Culture","3,97,86,91,98",3.3,2,"Eco Tours,Historical Sites",Solo
+556,45-54,"Wildlife,Beach,Culture","41,18,71,84,68,36,19,81",6.8,1,"Cycling,Swimming,Surfing,Cultural Tours",Cultural
+557,35-44,"Adventure,Mountains","88,11,23,58,8,50,51,74",8.4,4,"Local Cuisine,Kayaking,Cycling,Wildlife Watching,Museums",Cultural
+558,55-64,"History,Nature,Culture","72,100,61",9.0,2,"Eco Tours,Historical Sites,Hiking,Cycling,Wildlife Watching",Eco-conscious
+559,45-54,"Adventure,History,Food,Beach,Wildlife","79,55,69,17,70,14,40,57,29,36",6.2,1,"Swimming,Cycling,Kayaking",Luxury
+560,55-64,"Relaxation,Nature,Adventure,Wildlife,History","84,100,98,93",7.2,5,"Museums,Historical Sites,Hiking",Eco-conscious
+561,35-44,"Beach,Photography,Food","96,39,80,3,13",7.8,3,"Museums,Surfing,Cycling,Volunteering",Eco-conscious
+562,55-64,"Adventure,Nature,Food,Beach,History",49,7.0,1,"Volunteering,Kayaking,Hiking,Historical Sites,Local Cuisine",Cultural
+563,65+,"Nature,Beach,Culture,Wildlife","64,81,42,21,10,20,71,94",6.0,4,"Cycling,Kayaking,Swimming",Budget
+564,55-64,"Adventure,Food","88,99,20,26,72,16,18",8.3,1,"Local Cuisine,Cycling,Swimming,Cultural Tours,Historical Sites",Budget
+565,25-34,"Wildlife,Beach","74,12,79,8,60,54,82,32,27",6.5,5,"Museums,Swimming,Volunteering,Historical Sites",Luxury
+566,25-34,"Relaxation,Food,Nature,Adventure","63,1,55,10,7,60,17,52,2,70",5.8,5,"Cycling,Wildlife Watching,Hiking,Kayaking",Luxury
+567,25-34,"Mountains,Wildlife,Beach,Food,Relaxation","15,89,37,3,22,100,9,41",4.9,5,"Kayaking,Surfing,Hiking",Cultural
+568,45-54,"Mountains,Nature,Photography,History","76,81,10,37,86,41",6.9,3,"Local Cuisine,Volunteering,Surfing,Museums,Wildlife Watching",Budget
+569,18-24,"Relaxation,Photography","100,19,37,46,65,54,15",4.8,2,"Cycling,Historical Sites,Surfing,Hiking",Luxury
+570,25-34,"Mountains,Adventure,Culture,Relaxation,Beach",,6.5,4,"Surfing,Wildlife Watching",Budget
+571,45-54,"Nature,Food","24,98,28,17,87,30,39,44",5.5,1,"Wildlife Watching,Swimming,Museums,Cycling,Surfing",Solo
+572,55-64,"Nature,Mountains,Food","88,68,31,77",4.8,5,"Volunteering,Cycling,Hiking,Swimming",Budget
+573,25-34,"Wildlife,Mountains","11,70,83,64,87",4.1,4,"Kayaking,Cycling",Adventure
+574,25-34,"Adventure,Mountains","81,23,70,87,80,89,83",4.9,4,"Swimming,Wildlife Watching,Hiking",Budget
+575,18-24,"Beach,Culture,History,Mountains,Nature",79,5.7,4,"Volunteering,Cycling",Luxury
+576,55-64,"Relaxation,Wildlife,Photography","62,91,81,89,4,40,64,32,71",6.1,2,"Historical Sites,Hiking,Volunteering,Local Cuisine",Budget
+577,55-64,"Photography,Mountains,History","31,42,50,81,77",6.6,3,"Wildlife Watching,Surfing,Swimming,Cycling,Cultural Tours",Budget
+578,25-34,"Wildlife,Adventure","59,68,6",3.6,4,"Cycling,Surfing",Adventure
+579,45-54,"Relaxation,Adventure,Nature,Food,Mountains","11,9,67,25,18,89,85,32",9.4,5,"Cultural Tours,Kayaking,Swimming,Cycling,Volunteering",Eco-conscious
+580,45-54,"Photography,Nature,Adventure",,3.1,1,"Wildlife Watching,Museums,Cultural Tours",Budget
+581,18-24,"Mountains,Culture","21,38,76,78,62",4.5,5,"Kayaking,Museums,Cycling,Wildlife Watching,Local Cuisine",Cultural
+582,65+,"Nature,Culture,Mountains,Adventure,History","62,42,48,47,89",8.7,3,"Volunteering,Kayaking",Adventure
+583,18-24,"Adventure,Food,Photography","54,6,52,61",8.2,1,"Hiking,Surfing,Cultural Tours,Wildlife Watching",Eco-conscious
+584,55-64,"Relaxation,Mountains","44,87,79,76",7.6,4,"Hiking,Cycling",Family
+585,35-44,"Beach,Photography","37,62,79,61,38,8,9",6.8,3,"Kayaking,Cultural Tours,Volunteering",Family
+586,65+,"Culture,History,Food,Adventure,Relaxation","52,24,60,82,66,33,93,32",9.7,1,"Historical Sites,Eco Tours,Volunteering,Hiking",Eco-conscious
+587,18-24,"Adventure,Photography,Wildlife,Relaxation,Food","8,21,15,61,82,2",5.3,2,"Museums,Local Cuisine,Wildlife Watching",Cultural
+588,45-54,"History,Photography,Wildlife","44,59,89,93,5",6.3,1,"Eco Tours,Local Cuisine,Kayaking",Adventure
+589,55-64,"Adventure,Relaxation,Mountains,Culture","6,86,33,42,41,7,18,27,77",5.7,3,"Kayaking,Wildlife Watching,Surfing,Cultural Tours",Family
+590,55-64,"Relaxation,Food,Beach,History,Adventure","61,81,63,45,98,22,67",5.8,2,"Wildlife Watching,Eco Tours",Luxury
+591,45-54,"Nature,Beach","31,77,98,84,19,76",7.3,4,"Kayaking,Local Cuisine,Historical Sites,Cycling,Eco Tours",Eco-conscious
+592,18-24,"Beach,Adventure,Photography",,7.8,2,"Cycling,Hiking,Kayaking,Museums,Local Cuisine",Cultural
+593,45-54,"Food,Nature,Relaxation","33,27,48,6",9.0,3,"Local Cuisine,Museums",Eco-conscious
+594,65+,"Mountains,Nature,History,Beach,Adventure","20,53,7,2",6.3,1,"Swimming,Volunteering,Historical Sites,Cycling,Local Cuisine",Family
+595,65+,"Culture,Wildlife,Beach","23,51,30,55,1,78,29",5.5,4,"Historical Sites,Cultural Tours",Family
+596,65+,"Culture,Relaxation","67,45",7.1,3,"Cycling,Museums,Volunteering,Local Cuisine,Surfing",Adventure
+597,45-54,"Adventure,History,Mountains,Beach","35,5,61,26,4,89,46",3.3,4,"Hiking,Wildlife Watching,Cycling",Cultural
+598,18-24,"Culture,Nature,Adventure,Photography","30,7,4,55,13,44,46",5.9,4,"Cycling,Volunteering",Luxury
+599,65+,"Culture,Photography,Wildlife,Beach,Nature",,8.2,4,"Hiking,Historical Sites",Eco-conscious
+600,65+,"Food,Photography,Wildlife,Culture",88,5.2,1,"Wildlife Watching,Hiking,Surfing",Budget
+601,18-24,"Beach,Relaxation,Food","82,71",3.6,4,"Eco Tours,Historical Sites,Local Cuisine,Museums",Solo
+602,55-64,"Culture,Food,Adventure,Mountains,Nature","80,84,53,33,79,21,89,69,3,23",8.0,4,"Cultural Tours,Volunteering,Surfing,Hiking",Solo
+603,45-54,"Nature,History","63,94,28",4.1,4,"Swimming,Local Cuisine,Kayaking,Cycling",Adventure
+604,65+,"History,Adventure,Relaxation","16,63,57,80,42,52,20",6.2,5,"Swimming,Kayaking,Local Cuisine,Hiking,Eco Tours",Family
+605,65+,"Nature,Relaxation,Adventure,Wildlife,Beach","5,75,54,4,3",6.7,3,"Hiking,Surfing,Eco Tours,Local Cuisine,Volunteering",Family
+606,45-54,"Adventure,History,Relaxation,Nature,Beach","66,38,44,42,98",4.5,3,"Wildlife Watching,Swimming,Eco Tours,Local Cuisine,Hiking",Adventure
+607,35-44,"Nature,Culture","88,2,26,93,1",7.4,3,"Cultural Tours,Hiking,Historical Sites,Wildlife Watching,Museums",Adventure
+608,65+,"Mountains,Nature,Beach,Food","41,51,93,64,62,72,47,4",4.1,2,"Historical Sites,Swimming,Museums,Eco Tours,Cycling",Family
+609,25-34,"Food,Photography,Mountains,Nature,History","40,82,37,9,67,36,44,80",5.3,1,"Cultural Tours,Museums,Eco Tours",Budget
+610,18-24,"History,Adventure","16,78,29",4.1,2,"Swimming,Cultural Tours,Volunteering,Cycling,Surfing",Luxury
+611,55-64,"Relaxation,History","87,61,86",7.7,1,"Cultural Tours,Local Cuisine,Kayaking",Adventure
+612,65+,"Beach,Mountains,Nature","74,34,75",5.3,2,"Historical Sites,Kayaking,Wildlife Watching",Adventure
+613,65+,"Beach,Nature",,7.7,1,"Surfing,Volunteering",Adventure
+614,45-54,"Wildlife,Food,Photography,History,Nature",65,8.9,3,"Local Cuisine,Historical Sites,Wildlife Watching,Cultural Tours",Adventure
+615,55-64,"Culture,Relaxation","83,45,79,24,48,38,90,27,53",8.0,1,"Cycling,Surfing,Wildlife Watching,Historical Sites",Eco-conscious
+616,55-64,"Wildlife,Mountains,Photography","30,33,11",3.7,1,"Hiking,Wildlife Watching,Historical Sites",Solo
+617,65+,"Wildlife,Mountains,Relaxation,Adventure,Culture",36,3.2,1,"Cultural Tours,Surfing",Cultural
+618,65+,"Relaxation,Food,History,Culture","77,24,89,45,85,2",3.2,2,"Local Cuisine,Kayaking,Eco Tours,Historical Sites",Solo
+619,45-54,"Relaxation,Wildlife,History,Culture,Nature","86,69,8,18,92",6.5,4,"Volunteering,Surfing,Kayaking,Local Cuisine,Museums",Cultural
+620,45-54,"Nature,Culture,Photography","16,8,77,4,93,20,83",5.1,2,"Wildlife Watching,Eco Tours,Cultural Tours",Solo
+621,55-64,"Wildlife,History",,5.5,2,"Cycling,Hiking,Historical Sites,Museums",Solo
+622,45-54,"Culture,Beach,Wildlife","46,68,8,18,31,20,88",4.3,1,"Museums,Local Cuisine,Cycling,Kayaking",Budget
+623,65+,"Beach,Wildlife,History,Relaxation,Culture","64,45,7,28,96,17,77",7.7,5,"Eco Tours,Historical Sites,Surfing,Cultural Tours,Volunteering",Eco-conscious
+624,55-64,"Food,Photography,Mountains","12,76,95,44,68,11",5.3,2,"Cycling,Hiking,Volunteering,Local Cuisine,Wildlife Watching",Cultural
+625,45-54,"History,Photography,Mountains,Adventure,Nature","52,17,47,5,68,62,75",7.2,2,"Historical Sites,Hiking",Budget
+626,25-34,"Photography,Adventure","19,55,89,52,82,34,38,58,92,20",6.9,1,"Volunteering,Hiking",Luxury
+627,18-24,"Nature,Photography,Relaxation","74,34,69,99,64,45",5.4,5,"Kayaking,Swimming",Cultural
+628,25-34,"Relaxation,Culture,Adventure,Wildlife,Nature","57,58,9,86,65",7.7,2,"Wildlife Watching,Local Cuisine",Adventure
+629,18-24,"Food,Nature,Wildlife,History,Adventure","23,41",3.4,2,"Swimming,Historical Sites,Hiking",Budget
+630,65+,"History,Wildlife,Culture,Food,Beach",,8.4,3,"Museums,Surfing,Volunteering,Historical Sites",Solo
+631,18-24,"Nature,History,Mountains,Photography",6,7.5,5,"Volunteering,Historical Sites,Wildlife Watching,Eco Tours",Eco-conscious
+632,65+,"Mountains,Photography,Culture,Nature,Food","79,32,66,17,14,2",4.9,5,"Cultural Tours,Surfing,Historical Sites",Family
+633,35-44,"Wildlife,History","1,10,83",4.0,4,"Wildlife Watching,Local Cuisine,Volunteering,Cultural Tours,Kayaking",Cultural
+634,55-64,"Culture,Beach","91,82",5.9,3,"Local Cuisine,Hiking",Luxury
+635,65+,"Nature,Food,Relaxation,Adventure,Beach","100,54,67,60,14,91,46",4.6,5,"Volunteering,Cultural Tours,Swimming",Luxury
+636,35-44,"Photography,Nature","65,34,58,16,49,45,32,71,23,84",7.7,1,"Cycling,Kayaking,Volunteering,Surfing,Swimming",Budget
+637,25-34,"Beach,Wildlife,Mountains","7,25,27",6.6,3,"Cycling,Cultural Tours",Cultural
+638,25-34,"Culture,Wildlife",88,6.7,5,"Museums,Swimming",Luxury
+639,35-44,"Relaxation,Nature,Adventure","24,25,59,60,5,48,46,22,15",3.5,3,"Cycling,Historical Sites,Wildlife Watching,Surfing,Museums",Adventure
+640,65+,"Mountains,Wildlife,Photography","43,34,1,89,3",6.7,5,"Volunteering,Cultural Tours,Museums",Luxury
+641,25-34,"Adventure,Relaxation",,8.1,5,"Hiking,Volunteering,Wildlife Watching",Eco-conscious
+642,18-24,"Mountains,Adventure","89,98,48",5.2,4,"Cycling,Wildlife Watching,Kayaking,Eco Tours,Historical Sites",Solo
+643,25-34,"Culture,Relaxation",96,5.8,5,"Eco Tours,Cultural Tours",Solo
+644,35-44,"Food,Relaxation,History,Mountains","98,26,71,37,67,40,28",6.2,3,"Cultural Tours,Hiking,Swimming,Cycling",Family
+645,18-24,"Photography,Wildlife,Beach,Adventure,Mountains","44,20,61,74,40",8.0,3,"Eco Tours,Hiking,Wildlife Watching,Swimming,Cycling",Budget
+646,35-44,"Nature,Adventure","68,80,81",7.1,5,"Eco Tours,Historical Sites",Solo
+647,55-64,"Beach,History,Wildlife,Mountains","99,38,78",7.9,4,"Historical Sites,Cultural Tours,Museums,Volunteering",Eco-conscious
+648,35-44,"History,Mountains,Photography,Wildlife","73,42,63,100,43",5.3,3,"Historical Sites,Swimming,Eco Tours",Solo
+649,55-64,"Mountains,Food","78,23,67,12",5.6,4,"Wildlife Watching,Volunteering,Cycling,Swimming,Surfing",Adventure
+650,45-54,"Beach,Photography,History,Nature,Relaxation","38,50,83,19,35,14,87,81,1",4.7,1,"Cycling,Volunteering,Hiking,Swimming,Cultural Tours",Luxury
+651,55-64,"Relaxation,Wildlife,Photography","10,83,76,47,52,73,37",6.2,2,"Kayaking,Swimming,Volunteering,Cycling",Adventure
+652,35-44,"Adventure,Culture,Nature","57,91,78,35,86,65,10,60,64,68",7.8,5,"Local Cuisine,Cultural Tours",Luxury
+653,35-44,"Mountains,History,Adventure,Nature,Culture","92,52,95,39,41",9.3,1,"Historical Sites,Cycling",Eco-conscious
+654,18-24,"Culture,Adventure,Wildlife","11,92",7.0,4,"Eco Tours,Local Cuisine,Swimming",Cultural
+655,55-64,"Wildlife,Nature,History,Photography","98,37,24,48,70",7.8,1,"Hiking,Cultural Tours,Cycling",Family
+656,35-44,"Adventure,Beach,Food,Wildlife,Culture","82,29,42,93",7.9,2,"Cycling,Swimming,Kayaking,Cultural Tours,Museums",Budget
+657,25-34,"Adventure,Culture","28,20",8.1,4,"Local Cuisine,Cultural Tours,Cycling,Hiking,Wildlife Watching",Budget
+658,25-34,"Adventure,Relaxation,Beach",29,8.0,5,"Historical Sites,Swimming,Kayaking,Museums,Eco Tours",Eco-conscious
+659,18-24,"Wildlife,Relaxation,Beach,Culture,Photography","41,46",3.3,5,"Local Cuisine,Swimming",Cultural
+660,25-34,"Beach,Mountains,Nature,Wildlife","6,73,72,28,66,67",4.4,4,"Local Cuisine,Swimming,Surfing",Adventure
+661,18-24,"History,Culture,Adventure","20,100,96,7,92",9.9,2,"Surfing,Local Cuisine",Eco-conscious
+662,35-44,"History,Photography,Nature,Adventure,Wildlife","94,10,21,73,79",7.5,3,"Surfing,Cultural Tours,Local Cuisine,Kayaking",Eco-conscious
+663,35-44,"Culture,Wildlife,Relaxation,Adventure","15,32,93,40,8,9,21,97",7.3,4,"Museums,Wildlife Watching",Family
+664,55-64,"Food,Culture","94,82,74,70,47,40,45",7.8,3,"Surfing,Kayaking",Luxury
+665,25-34,"Relaxation,Food,Culture,History","44,99,81,89,83",5.6,3,"Hiking,Cultural Tours",Cultural
+666,25-34,"Food,Beach,Relaxation","48,53,75,45",7.4,4,"Local Cuisine,Volunteering",Eco-conscious
+667,18-24,"Nature,Food,History,Beach,Culture",14,6.7,4,"Eco Tours,Historical Sites",Budget
+668,35-44,"Photography,History,Mountains,Wildlife,Nature","31,2,18",4.2,2,"Museums,Volunteering",Family
+669,25-34,"Culture,Wildlife,Food","94,7,92,77",5.5,5,"Swimming,Eco Tours",Luxury
+670,35-44,"Culture,Photography","70,29,35,10",8.3,1,"Wildlife Watching,Museums",Adventure
+671,65+,"Beach,Food","7,89,5,98,32,47,40,57,48",5.6,5,"Wildlife Watching,Historical Sites,Volunteering,Cultural Tours",Luxury
+672,65+,"Adventure,Culture","21,57,43,25,34,48",4.4,2,"Swimming,Volunteering,Historical Sites,Museums",Family
+673,45-54,"Food,Nature,History","25,62,20,23,24,9,66,48",6.7,3,"Volunteering,Historical Sites,Museums,Cycling",Adventure
+674,55-64,"Relaxation,Mountains,Adventure,Food,History","73,62,81,20,88,34",5.5,2,"Historical Sites,Cycling",Cultural
+675,35-44,"Beach,Food,Adventure","25,78,47,48",7.8,5,"Museums,Wildlife Watching",Eco-conscious
+676,45-54,"Photography,Nature,Adventure","75,76,41,18,12",8.4,3,"Cultural Tours,Swimming,Wildlife Watching,Hiking",Cultural
+677,25-34,"Wildlife,Adventure","87,70,5,7,67,1,76,91,41,64",5.6,1,"Wildlife Watching,Cycling,Hiking",Budget
+678,18-24,"Adventure,Relaxation,Photography,Culture","65,14,81,43",6.2,4,"Kayaking,Historical Sites",Cultural
+679,25-34,"Wildlife,Relaxation,Mountains",,8.2,4,"Local Cuisine,Eco Tours,Hiking",Adventure
+680,25-34,"History,Adventure,Photography,Food,Beach",,8.6,2,"Museums,Cultural Tours",Adventure
+681,18-24,"Wildlife,Mountains","32,63,46,47",6.9,4,"Wildlife Watching,Hiking,Kayaking,Cycling,Swimming",Family
+682,18-24,"Wildlife,Photography,Mountains,History,Relaxation","22,85,82,77,5,12,4,1,51",7.5,4,"Surfing,Eco Tours",Cultural
+683,25-34,"Adventure,Photography","61,41,92,32,2,40,99,90,88,65",7.0,4,"Historical Sites,Kayaking",Luxury
+684,18-24,"Wildlife,Beach","51,22,33,5,65,15,53,71,8,10",4.7,5,"Cultural Tours,Kayaking,Wildlife Watching",Luxury
+685,55-64,"Nature,Food,Relaxation,History,Mountains","35,67,70,69,10",5.7,2,"Cultural Tours,Wildlife Watching,Cycling,Museums",Family
+686,35-44,"Adventure,Mountains",,5.2,4,"Local Cuisine,Museums,Swimming,Eco Tours",Adventure
+687,65+,"Nature,Adventure","65,50,85,49,98,28,91",8.1,3,"Local Cuisine,Swimming,Cultural Tours,Historical Sites",Adventure
+688,65+,"Photography,Adventure,Mountains,Food,Beach","12,32,64,56",5.4,1,"Cycling,Kayaking,Eco Tours,Local Cuisine,Surfing",Family
+689,65+,"Adventure,Nature,Mountains","47,77,53,17,48,61,99",7.8,3,"Wildlife Watching,Local Cuisine",Eco-conscious
+690,25-34,"History,Food,Beach,Photography,Wildlife","68,10,73,90,84",4.2,2,"Eco Tours,Historical Sites,Kayaking",Cultural
+691,25-34,"Adventure,Nature,Beach,Photography","62,42,86,36,63,2,69,40",5.8,1,"Surfing,Eco Tours,Volunteering,Cycling,Historical Sites",Family
+692,45-54,"Food,History",,7.5,5,"Wildlife Watching,Kayaking,Swimming,Hiking,Volunteering",Adventure
+693,18-24,"History,Culture,Mountains,Adventure","44,35,75,32",6.5,1,"Cultural Tours,Museums,Local Cuisine,Wildlife Watching,Eco Tours",Family
+694,55-64,"Mountains,Wildlife,Beach,Culture","38,8,59,76,80",8.6,3,"Eco Tours,Cultural Tours,Wildlife Watching,Hiking,Kayaking",Eco-conscious
+695,45-54,"Culture,Beach","21,23,86",7.4,3,"Surfing,Wildlife Watching",Cultural
+696,45-54,"Beach,Wildlife,Mountains",,6.2,3,"Kayaking,Hiking,Cultural Tours,Historical Sites",Luxury
+697,35-44,"Relaxation,Photography,Beach,Culture",,8.1,4,"Cultural Tours,Historical Sites,Surfing,Hiking,Swimming",Solo
+698,45-54,"History,Relaxation,Photography","63,48,28,82,87",8.9,2,"Volunteering,Wildlife Watching,Swimming,Historical Sites",Eco-conscious
+699,55-64,"Photography,Adventure,Nature","23,90,82",4.6,1,"Local Cuisine,Volunteering,Cycling",Budget
+700,45-54,"Wildlife,Mountains,Adventure","85,10,9,43,32,11,97",7.0,5,"Surfing,Wildlife Watching,Local Cuisine,Kayaking,Eco Tours",Budget
+701,25-34,"Adventure,Relaxation,Culture,History","93,71",6.2,1,"Museums,Surfing,Historical Sites",Cultural
+702,55-64,"Beach,Culture",94,5.1,5,"Local Cuisine,Museums,Hiking",Luxury
+703,45-54,"Photography,Wildlife","29,44,92,6,31,55,64,12",3.3,4,"Wildlife Watching,Local Cuisine",Adventure
+704,35-44,"History,Beach,Nature,Adventure,Mountains","52,80,46,20",7.3,3,"Historical Sites,Local Cuisine",Budget
+705,65+,"Adventure,Mountains,Photography","18,92,55,12,61,54,62,21",4.3,2,"Eco Tours,Swimming,Historical Sites,Cultural Tours,Museums",Luxury
+706,18-24,"Photography,Food",17,5.9,5,"Wildlife Watching,Cycling,Volunteering,Cultural Tours,Local Cuisine",Family
+707,18-24,"Relaxation,Mountains,Food,Wildlife,Culture","99,75,66,69,27,24,65,85",7.6,5,"Cultural Tours,Local Cuisine,Swimming,Museums",Solo
+708,45-54,"Nature,Beach,Wildlife,Culture,Relaxation","73,35,67,24,42,82,15,53,49",7.2,2,"Hiking,Cycling",Eco-conscious
+709,65+,"Wildlife,Photography,Food,Adventure","90,50,87,69,71,20",6.2,4,"Cultural Tours,Surfing,Historical Sites",Luxury
+710,45-54,"History,Relaxation,Wildlife",84,4.3,1,"Museums,Surfing,Eco Tours,Wildlife Watching,Cycling",Adventure
+711,18-24,"Culture,Wildlife,Beach,Nature","77,46,53,58,52,75,60,44,4,61",9.8,1,"Volunteering,Eco Tours,Local Cuisine,Surfing,Historical Sites",Eco-conscious
+712,65+,"Relaxation,Wildlife,Food,Culture","43,72,94,30,18,7,31,38",5.9,4,"Surfing,Hiking,Eco Tours",Cultural
+713,55-64,"History,Nature,Wildlife,Relaxation,Food","22,58,86,13,72,12,19,47,21,29",5.4,5,"Cycling,Wildlife Watching,Historical Sites,Volunteering,Cultural Tours",Solo
+714,65+,"History,Nature,Relaxation,Mountains,Wildlife",16,7.3,3,"Hiking,Historical Sites,Wildlife Watching,Local Cuisine,Volunteering",Solo
+715,18-24,"Nature,Wildlife,Relaxation,Culture",,5.1,3,"Cultural Tours,Kayaking,Eco Tours",Adventure
+716,18-24,"Nature,History,Food,Relaxation","14,59,28,61,68,10,26,53,25",4.8,5,"Swimming,Historical Sites",Family
+717,35-44,"History,Wildlife,Mountains","73,48",4.4,5,"Kayaking,Wildlife Watching,Surfing,Cycling",Budget
+718,35-44,"Photography,Nature,Food","26,20,32,22",5.6,2,"Kayaking,Cultural Tours,Hiking,Historical Sites,Surfing",Family
+719,65+,"Food,Photography,Relaxation,Mountains","69,45",6.7,4,"Local Cuisine,Cultural Tours",Adventure
+720,25-34,"Mountains,Wildlife,Beach,Nature,Photography","32,72,71,1,39,24,20",7.0,2,"Historical Sites,Eco Tours,Kayaking",Solo
+721,55-64,"Food,Culture","52,15,8,80,84",7.1,3,"Wildlife Watching,Volunteering,Historical Sites,Cycling,Cultural Tours",Luxury
+722,25-34,"Mountains,Wildlife",89,7.9,3,"Wildlife Watching,Historical Sites,Cultural Tours",Luxury
+723,65+,"Beach,Adventure,Relaxation,History","38,18",5.4,2,"Eco Tours,Swimming",Family
+724,55-64,"Culture,Relaxation,Adventure,Wildlife,Beach","85,57,98,34,24,22,39,7",7.8,3,"Kayaking,Eco Tours",Family
+725,35-44,"Food,History","40,7,32,9,64,85",5.3,4,"Surfing,Historical Sites,Cultural Tours,Wildlife Watching",Solo
+726,35-44,"Culture,Wildlife,Mountains,Photography",83,8.3,2,"Hiking,Cultural Tours,Kayaking,Eco Tours,Surfing",Eco-conscious
+727,65+,"Beach,Culture,Wildlife,Relaxation","5,79,24",6.3,3,"Volunteering,Kayaking,Wildlife Watching,Historical Sites,Cycling",Adventure
+728,55-64,"Food,Beach,Wildlife,Relaxation,History","51,25,69,100,62,37",4.8,2,"Swimming,Historical Sites",Luxury
+729,45-54,"Relaxation,Food","89,5,11,77,58,92",5.1,2,"Eco Tours,Wildlife Watching,Cycling,Volunteering,Kayaking",Cultural
+730,55-64,"History,Photography",45,8.7,2,"Wildlife Watching,Surfing,Local Cuisine,Cycling",Budget
+731,35-44,"Food,Beach,Photography,Relaxation",4,4.6,1,"Historical Sites,Surfing",Adventure
+732,35-44,"Photography,Adventure","42,15,34",4.9,3,"Cycling,Museums",Adventure
+733,35-44,"Mountains,Culture,Wildlife,Relaxation","13,91,17,11",8.6,2,"Eco Tours,Hiking,Wildlife Watching,Swimming",Cultural
+734,25-34,"Adventure,Photography,Relaxation,Food,Culture","27,28",8.4,1,"Wildlife Watching,Cultural Tours,Swimming,Volunteering,Museums",Eco-conscious
+735,65+,"Wildlife,Culture,Adventure,Relaxation,Food",,5.5,5,"Local Cuisine,Cycling,Eco Tours,Wildlife Watching,Hiking",Solo
+736,25-34,"Relaxation,Adventure,Food,Beach,Wildlife","80,91,15,3,25",3.6,4,"Volunteering,Museums",Solo
+737,18-24,"Culture,Nature","37,59,4,84,12,33,77,94,92,23",4.4,3,"Volunteering,Kayaking",Family
+738,18-24,"Culture,Relaxation","89,38,31,12,48,94",6.6,1,"Cultural Tours,Surfing,Volunteering,Local Cuisine",Adventure
+739,65+,"Mountains,Relaxation,Photography,Food,History","12,9,52,32,46,42,47,89,24",4.2,2,"Cycling,Surfing,Cultural Tours",Luxury
+740,25-34,"History,Nature,Food,Photography","75,17,61,16,62,43,25,6",4.6,3,"Volunteering,Cultural Tours,Cycling",Luxury
+741,55-64,"History,Culture,Mountains","28,53,59,6,4,16,88,9,74",3.2,4,"Volunteering,Wildlife Watching",Adventure
+742,55-64,"Food,History,Photography","15,14,80,44",4.1,4,"Historical Sites,Wildlife Watching,Cycling,Eco Tours,Hiking",Solo
+743,55-64,"Nature,Culture,Mountains,Beach",91,3.3,5,"Eco Tours,Cycling,Surfing,Cultural Tours,Hiking",Budget
+744,55-64,"Nature,History,Mountains,Adventure,Relaxation","60,81,51,6,25,27,80,10,100",6.6,3,"Museums,Wildlife Watching",Budget
+745,35-44,"History,Culture",,5.8,1,"Swimming,Historical Sites,Volunteering,Surfing",Cultural
+746,55-64,"Relaxation,Beach","15,17,83,97,10,91,77",8.0,1,"Cultural Tours,Museums,Eco Tours",Luxury
+747,55-64,"Beach,Adventure,Food,History","32,42,67,84,94",6.1,2,"Kayaking,Museums",Luxury
+748,55-64,"Food,Adventure,Relaxation,Mountains","18,9,66,20,82,45,44,49,39,25",7.8,1,"Cultural Tours,Volunteering,Cycling",Luxury
+749,25-34,"Food,Photography","20,11",4.6,4,"Kayaking,Cultural Tours,Local Cuisine,Swimming",Cultural
+750,65+,"History,Wildlife","39,64,73,77",4.6,5,"Hiking,Wildlife Watching",Cultural
+751,55-64,"Food,Nature,Wildlife,Adventure,History","15,22,32,71,35,31,11,6,9",7.4,1,"Historical Sites,Museums,Local Cuisine,Hiking",Family
+752,25-34,"Beach,Wildlife,Food","14,33,69,46,90,27,10",7.6,5,"Swimming,Hiking,Eco Tours,Historical Sites",Luxury
+753,18-24,"Beach,Food,Adventure,History,Wildlife","67,86,21,19,50,31",4.5,3,"Historical Sites,Hiking",Luxury
+754,55-64,"Food,Culture",68,3.3,4,"Surfing,Historical Sites,Hiking,Cycling",Adventure
+755,35-44,"Adventure,Relaxation,Wildlife","27,65,1,32,59,12",6.8,2,"Cycling,Local Cuisine,Kayaking,Surfing,Volunteering",Family
+756,45-54,"Mountains,Culture","64,94,36,99,48,42",3.8,3,"Historical Sites,Local Cuisine",Cultural
+757,65+,"Mountains,Culture,Beach,Photography","28,61,18,4,63,70,1,95,8",8.5,3,"Cycling,Swimming,Historical Sites,Kayaking",Budget
+758,35-44,"Photography,Mountains",66,6.1,3,"Local Cuisine,Museums,Kayaking,Cycling",Adventure
+759,25-34,"Beach,Culture,Food,History,Mountains","72,1,17,58,66,76,46",4.9,1,"Museums,Cycling,Local Cuisine,Eco Tours",Cultural
+760,55-64,"Culture,Wildlife,Beach","89,48",4.9,3,"Kayaking,Cycling,Swimming,Historical Sites",Family
+761,25-34,"Beach,Culture,Wildlife,Nature",27,5.1,5,"Swimming,Volunteering,Wildlife Watching",Adventure
+762,45-54,"Relaxation,History,Culture,Nature","4,12,100,36,32,20,58,82,18,21",5.6,4,"Wildlife Watching,Volunteering,Hiking",Cultural
+763,65+,"Food,Relaxation","14,49,78,90,1,19,95",6.5,1,"Historical Sites,Volunteering",Luxury
+764,45-54,"Relaxation,Adventure,History,Wildlife,Food","89,11,52,49,68",6.5,2,"Surfing,Swimming,Local Cuisine,Eco Tours",Adventure
+765,18-24,"Culture,Food","71,86,77,65,18,1,91",3.5,2,"Wildlife Watching,Cultural Tours",Solo
+766,65+,"Wildlife,History,Adventure","19,69,75,59,23,21",5.3,5,"Volunteering,Swimming,Eco Tours,Local Cuisine,Museums",Luxury
+767,25-34,"Relaxation,Wildlife,Mountains,Photography","45,67,59,39,63",6.9,2,"Local Cuisine,Cycling,Volunteering,Surfing,Historical Sites",Solo
+768,35-44,"History,Culture,Mountains,Wildlife,Nature","74,26,24",6.2,2,"Surfing,Eco Tours",Budget
+769,35-44,"Relaxation,Wildlife,Mountains,Adventure,History","31,55,69,21",8.3,4,"Eco Tours,Local Cuisine,Museums,Kayaking,Cycling",Eco-conscious
+770,25-34,"Photography,Relaxation",,4.4,3,"Local Cuisine,Cycling,Swimming,Historical Sites",Solo
+771,55-64,"Relaxation,Nature,Adventure,Culture","39,53,83,49,12,35,11,77",7.7,5,"Historical Sites,Cultural Tours,Eco Tours",Solo
+772,35-44,"Food,History,Nature,Relaxation","80,14,34,83,52,23,18,42,75,79",7.8,4,"Eco Tours,Museums,Historical Sites,Cultural Tours",Budget
+773,18-24,"Beach,Culture,Wildlife,History","48,68,95,7",4.0,3,"Hiking,Local Cuisine,Wildlife Watching,Eco Tours",Adventure
+774,55-64,"Relaxation,Culture,Photography,Food,Beach","5,3,39,14,25",5.8,3,"Cultural Tours,Hiking,Museums,Surfing",Family
+775,55-64,"Wildlife,Photography,History","90,96",3.2,4,"Hiking,Cycling,Volunteering,Local Cuisine",Solo
+776,18-24,"Photography,Relaxation,History,Culture,Adventure","35,56,6,1,85,99,87,77",4.4,1,"Hiking,Local Cuisine",Adventure
+777,45-54,"Relaxation,Photography,Mountains","71,3,44,62,25,33,97,78",4.0,3,"Hiking,Eco Tours,Cycling,Cultural Tours",Family
+778,55-64,"Mountains,Wildlife,Photography,Adventure,Beach","60,22",5.8,5,"Museums,Eco Tours",Adventure
+779,45-54,"Beach,Wildlife,History,Culture","11,47,32,97,96",8.2,2,"Local Cuisine,Wildlife Watching,Surfing",Cultural
+780,25-34,"Adventure,Nature,History,Wildlife,Food","7,41,68,22,43,59",8.2,4,"Surfing,Cycling,Local Cuisine",Budget
+781,35-44,"Relaxation,Mountains,Beach,Adventure","22,78,52",6.0,1,"Cultural Tours,Hiking,Volunteering,Historical Sites",Family
+782,65+,"Nature,Photography,Culture,History","57,43",5.5,4,"Kayaking,Surfing,Swimming,Cultural Tours,Wildlife Watching",Cultural
+783,25-34,"Relaxation,Beach","52,13,11,37,9,71,55,59,78",6.3,4,"Cycling,Wildlife Watching,Cultural Tours,Hiking,Historical Sites",Luxury
+784,55-64,"History,Culture,Photography","36,45,43,37,92,77,63,14,96",5.9,3,"Wildlife Watching,Local Cuisine,Cultural Tours,Hiking",Luxury
+785,35-44,"Relaxation,Food,Wildlife","79,49,76,57",4.3,3,"Local Cuisine,Cultural Tours,Surfing,Eco Tours",Luxury
+786,45-54,"Beach,Wildlife,Mountains","61,94,81",7.0,5,"Historical Sites,Swimming,Surfing",Cultural
+787,65+,"Mountains,Relaxation,Culture,Photography,Adventure",,4.9,3,"Local Cuisine,Cycling",Budget
+788,45-54,"Beach,History,Wildlife,Nature,Relaxation","26,1,96,44",8.7,5,"Historical Sites,Volunteering,Local Cuisine,Museums,Surfing",Budget
+789,55-64,"History,Wildlife,Nature,Adventure","86,56",7.0,3,"Cultural Tours,Eco Tours,Local Cuisine",Cultural
+790,35-44,"Photography,History,Mountains,Culture,Food","13,47,43",7.3,2,"Museums,Volunteering,Cultural Tours",Solo
+791,35-44,"History,Food,Adventure,Mountains,Nature","32,27,48,54,47,95,20,62,93",3.0,4,"Cultural Tours,Surfing,Kayaking",Budget
+792,55-64,"Relaxation,Mountains,Nature",45,7.7,5,"Wildlife Watching,Cycling",Family
+793,25-34,"Wildlife,Culture,Beach",11,6.4,3,"Surfing,Wildlife Watching",Family
+794,55-64,"Wildlife,Beach,Adventure,Relaxation","73,28,72,27,69,5",3.3,3,"Volunteering,Wildlife Watching,Local Cuisine,Swimming,Hiking",Budget
+795,25-34,"Culture,History,Nature,Relaxation,Mountains","29,91,8,65,30,17,37,9",6.9,2,"Kayaking,Historical Sites",Adventure
+796,55-64,"Relaxation,Adventure","80,24,79,65,1,39,89,75,86,95",7.4,2,"Hiking,Eco Tours",Luxury
+797,65+,"Wildlife,Beach,Nature,History,Photography","98,75,19,60,16,15,73,8",4.0,2,"Wildlife Watching,Historical Sites,Kayaking",Cultural
+798,45-54,"History,Nature","49,81",4.0,1,"Wildlife Watching,Swimming",Budget
+799,55-64,"Photography,Food,Wildlife,Culture,Beach",60,4.1,4,"Local Cuisine,Kayaking,Swimming,Cultural Tours,Cycling",Family
+800,55-64,"Wildlife,Food",22,9.1,4,"Hiking,Volunteering,Swimming,Museums",Eco-conscious
+801,25-34,"Beach,History,Mountains,Culture,Relaxation","65,83",4.4,4,"Hiking,Volunteering,Cultural Tours",Family
+802,45-54,"Beach,Photography,Nature,Adventure",,6.5,3,"Historical Sites,Hiking,Local Cuisine,Eco Tours",Family
+803,55-64,"Nature,History","77,53,46,97",4.5,5,"Hiking,Eco Tours",Adventure
+804,25-34,"History,Photography,Food,Culture","90,3,92,32,29,52,36,57,25",8.4,4,"Historical Sites,Wildlife Watching",Solo
+805,35-44,"Adventure,Nature","37,62,78",5.5,3,"Hiking,Historical Sites,Surfing,Cultural Tours",Budget
+806,25-34,"Food,Mountains,Adventure","3,27,12,31,28,24,35,34",7.3,1,"Historical Sites,Surfing,Wildlife Watching,Cycling",Adventure
+807,25-34,"Beach,Mountains","26,76,93,75,38,20",6.4,2,"Museums,Wildlife Watching",Adventure
+808,65+,"History,Photography","67,56,64,93,10,95,2,15",7.7,2,"Volunteering,Museums,Eco Tours,Historical Sites,Cycling",Cultural
+809,18-24,"Beach,Relaxation,Mountains,Culture,History","93,15",3.6,4,"Surfing,Hiking,Wildlife Watching,Kayaking,Volunteering",Adventure
+810,65+,"Photography,Adventure,Mountains,Food","31,85,18,73",4.1,4,"Museums,Cycling,Historical Sites",Cultural
+811,18-24,"History,Nature,Wildlife,Photography",,6.6,5,"Hiking,Local Cuisine",Budget
+812,35-44,"Photography,Nature,History","32,1,59,92,70,31",8.2,2,"Volunteering,Cycling",Solo
+813,18-24,"Mountains,Adventure,Food,Beach","1,18,65,44,83,35,93,64,10",9.2,3,"Kayaking,Local Cuisine,Volunteering,Cycling",Eco-conscious
+814,35-44,"Relaxation,Photography","12,50,18,68,27,26,31,28",8.0,1,"Local Cuisine,Cycling,Wildlife Watching,Volunteering",Luxury
+815,45-54,"Mountains,Wildlife,Relaxation","34,83,94,7,60,31,68,6,98",4.4,4,"Eco Tours,Kayaking,Cycling,Surfing",Luxury
+816,65+,"Relaxation,Culture,Food","80,57,93,14,89,29,90",7.9,2,"Wildlife Watching,Historical Sites",Family
+817,35-44,"Beach,Culture,Mountains","47,91,2,57,1",8.7,1,"Local Cuisine,Historical Sites,Surfing,Hiking",Eco-conscious
+818,18-24,"Adventure,Photography,Wildlife",11,4.6,1,"Swimming,Kayaking,Museums",Solo
+819,18-24,"Nature,Culture,History,Beach","65,95,36,1,97,35,11,17,87",4.5,2,"Swimming,Local Cuisine",Solo
+820,55-64,"Wildlife,Mountains,Culture,Beach,Relaxation","25,82,47,32,72",5.1,5,"Cycling,Cultural Tours",Solo
+821,65+,"Relaxation,Beach,Food,History",,5.0,1,"Historical Sites,Wildlife Watching,Surfing",Solo
+822,18-24,"Relaxation,Beach","44,64,55,8,42,52,7,53",4.3,3,"Museums,Historical Sites",Budget
+823,45-54,"Nature,Relaxation,Mountains","57,63,83,64,90,13,25,94",5.4,1,"Surfing,Cultural Tours",Family
+824,18-24,"Relaxation,Adventure,Wildlife,History,Nature","48,86,11,49,28",6.0,5,"Museums,Volunteering,Wildlife Watching,Cycling",Budget
+825,18-24,"Wildlife,Culture,Nature","97,92,94,1,99,74",6.8,5,"Volunteering,Cultural Tours,Hiking,Eco Tours",Solo
+826,18-24,"Photography,Culture,Beach,Nature,History","47,32,33,90,77,100",3.6,3,"Cycling,Historical Sites,Kayaking,Swimming,Surfing",Budget
+827,45-54,"Food,Beach,Mountains,Relaxation","84,72",6.7,1,"Eco Tours,Volunteering,Cycling",Adventure
+828,65+,"Culture,Nature,Wildlife","3,80,88,28,4,26,68,62,10",6.3,5,"Swimming,Eco Tours,Surfing,Kayaking",Cultural
+829,18-24,"Nature,History,Adventure",3,6.9,3,"Surfing,Swimming,Local Cuisine",Luxury
+830,18-24,"Adventure,History,Culture,Beach","86,57,48,19,67",9.6,3,"Museums,Local Cuisine,Surfing",Eco-conscious
+831,55-64,"Nature,History,Culture,Photography","74,56,98,67,19,78,44",7.6,2,"Swimming,Cycling,Museums,Kayaking,Volunteering",Cultural
+832,45-54,"Mountains,Photography,Wildlife,Nature","79,64,74,81,83,14,15,7,33",6.0,4,"Museums,Eco Tours,Swimming,Kayaking,Surfing",Luxury
+833,55-64,"Adventure,Wildlife,Food,Beach,History","68,100,3,69,89",6.8,1,"Wildlife Watching,Cycling,Historical Sites,Cultural Tours",Adventure
+834,45-54,"Adventure,Wildlife,Mountains,Beach",,6.7,3,"Historical Sites,Cycling,Kayaking",Luxury
+835,35-44,"Nature,Wildlife,History,Beach,Adventure",13,5.2,2,"Museums,Eco Tours",Family
+836,55-64,"Food,Mountains","47,96,9,78,48,41,70,17,46,100",7.4,4,"Local Cuisine,Kayaking,Cultural Tours,Swimming",Budget
+837,25-34,"Culture,Nature","33,41,100,92,9,67,63,17",5.2,1,"Volunteering,Historical Sites,Wildlife Watching,Local Cuisine",Family
+838,65+,"Relaxation,Photography,Beach,Wildlife","100,18",3.9,4,"Kayaking,Surfing",Adventure
+839,18-24,"Nature,Culture,Adventure,Beach,Mountains",,9.8,1,"Museums,Cycling,Local Cuisine,Surfing,Hiking",Eco-conscious
+840,18-24,"Nature,Adventure,Wildlife","16,77,41,5",4.5,3,"Museums,Kayaking,Local Cuisine,Volunteering,Eco Tours",Adventure
+841,18-24,"Photography,Adventure,History,Nature,Food",,8.9,1,"Swimming,Local Cuisine,Eco Tours",Eco-conscious
+842,18-24,"Wildlife,History",,8.7,2,"Eco Tours,Historical Sites,Swimming",Budget
+843,55-64,"Mountains,Photography","29,86,53,54,37",7.8,4,"Hiking,Swimming,Kayaking",Eco-conscious
+844,18-24,"Relaxation,Mountains,History,Adventure,Wildlife","4,81,84,8,94,19,2",5.2,5,"Hiking,Kayaking,Cycling,Volunteering",Luxury
+845,35-44,"Mountains,History,Relaxation,Beach,Wildlife","71,61,24,92",4.7,1,"Local Cuisine,Swimming,Wildlife Watching,Historical Sites,Museums",Cultural
+846,18-24,"Wildlife,Nature,Mountains",,7.9,1,"Surfing,Cycling,Hiking,Volunteering,Cultural Tours",Luxury
+847,25-34,"Beach,Culture","8,9,34,69,6,18,30",6.4,4,"Wildlife Watching,Local Cuisine,Cultural Tours,Eco Tours,Swimming",Adventure
+848,55-64,"History,Beach,Photography,Food","85,6,31,67,4,1,17,16,35,18",7.9,1,"Wildlife Watching,Surfing,Local Cuisine,Swimming,Hiking",Eco-conscious
+849,55-64,"Relaxation,Food,Culture","69,28,32,23,39,36,55",3.3,5,"Cultural Tours,Local Cuisine",Solo
+850,35-44,"Food,Beach,Photography","26,37,38,5,51,8,40",3.2,4,"Historical Sites,Cultural Tours,Museums,Volunteering,Hiking",Adventure
+851,65+,"Beach,Relaxation","77,64,37,26,98,48,67",5.3,2,"Museums,Cultural Tours,Cycling,Kayaking,Hiking",Budget
+852,35-44,"Photography,Culture,Mountains,Nature,Wildlife","79,15,11,23",7.3,1,"Local Cuisine,Kayaking,Museums,Cultural Tours",Adventure
+853,65+,"Relaxation,Culture",41,5.1,3,"Swimming,Eco Tours,Wildlife Watching,Cultural Tours,Museums",Solo
+854,45-54,"Culture,Food","93,33,38,52,10,78",8.6,1,"Wildlife Watching,Local Cuisine",Cultural
+855,65+,"Photography,Beach,Adventure,Relaxation",88,5.8,4,"Cycling,Cultural Tours",Family
+856,65+,"Relaxation,Photography,Mountains,Beach","72,42,98,9,59,65,13",7.1,4,"Swimming,Historical Sites",Adventure
+857,65+,"Culture,Adventure","71,17,74,18,91,33",4.8,1,"Hiking,Wildlife Watching",Luxury
+858,55-64,"Nature,Culture","49,100,58,88,92,30,73,54",6.6,3,"Cultural Tours,Cycling",Adventure
+859,35-44,"Beach,History,Food",33,3.8,4,"Surfing,Cycling",Solo
+860,45-54,"Food,History,Mountains,Culture,Adventure","9,78,18,47,62,10,11,84,1",8.5,2,"Surfing,Historical Sites,Wildlife Watching,Eco Tours",Eco-conscious
+861,45-54,"Food,Culture,History","8,72,92,63,5,49,11",8.5,3,"Museums,Wildlife Watching,Historical Sites,Cultural Tours",Solo
+862,45-54,"Mountains,Photography,Food,History,Relaxation","89,5,25,76,59,72,8,93,98,62",3.7,1,"Volunteering,Local Cuisine,Wildlife Watching,Cycling,Hiking",Budget
+863,35-44,"Culture,Nature,Wildlife,Relaxation,Mountains","77,38,47,43,88,95,6",7.7,3,"Cultural Tours,Eco Tours,Local Cuisine,Historical Sites,Kayaking",Cultural
+864,65+,"Adventure,Beach,Nature,History",67,8.4,1,"Eco Tours,Wildlife Watching,Cycling,Museums",Eco-conscious
+865,35-44,"Beach,Culture",,8.0,5,"Wildlife Watching,Museums,Swimming",Solo
+866,35-44,"Nature,Culture","79,35,90,83,67,93,87",8.9,5,"Swimming,Wildlife Watching,Historical Sites,Volunteering",Eco-conscious
+867,25-34,"Nature,Wildlife","82,49,98",3.0,3,"Cultural Tours,Kayaking,Wildlife Watching,Cycling",Adventure
+868,25-34,"Adventure,Photography,Beach","85,42,94,12,76,45,29,68",4.6,3,"Historical Sites,Local Cuisine,Volunteering,Cycling,Kayaking",Budget
+869,65+,"Mountains,Nature",,6.6,5,"Cultural Tours,Surfing",Budget
+870,55-64,"Adventure,Wildlife,Relaxation,Photography,Food","20,59",6.0,4,"Swimming,Cycling",Adventure
+871,18-24,"Food,Beach,Relaxation,Nature","31,41,46,85,51,75,98,61,94",7.9,3,"Eco Tours,Volunteering,Hiking,Swimming,Cultural Tours",Cultural
+872,45-54,"Photography,History,Mountains,Nature,Culture",,3.9,5,"Swimming,Local Cuisine,Cultural Tours,Eco Tours",Cultural
+873,25-34,"Adventure,Relaxation,Beach,Wildlife,Food","46,40,62,95,9,68,41,67,20",5.8,5,"Hiking,Local Cuisine,Kayaking,Wildlife Watching",Luxury
+874,65+,"Adventure,Culture,Relaxation","46,5,98,42,77,47,20,55,99,87",4.9,3,"Cultural Tours,Cycling,Volunteering,Swimming",Cultural
+875,45-54,"Relaxation,Culture,Adventure","95,100,90,63,14,99,84,71,42",7.1,4,"Wildlife Watching,Local Cuisine,Eco Tours,Volunteering,Kayaking",Luxury
+876,45-54,"Beach,Food","79,3,70,46,12,35,60,32",8.2,5,"Museums,Hiking",Eco-conscious
+877,25-34,"Wildlife,History,Culture,Beach","25,98,47,8,59,11",8.6,5,"Local Cuisine,Surfing",Cultural
+878,25-34,"Relaxation,History,Food,Beach,Adventure","28,50,76,86,73,13,27",4.7,5,"Volunteering,Cycling,Cultural Tours,Local Cuisine",Luxury
+879,45-54,"Food,Adventure,Relaxation,Nature,Mountains","76,39,37,10,31,83,72,51,53",7.3,5,"Kayaking,Volunteering,Museums",Eco-conscious
+880,18-24,"Adventure,Food,Wildlife","66,13,55,65,69,29",8.5,2,"Surfing,Swimming",Cultural
+881,55-64,"Mountains,Adventure,Relaxation","77,59,56,80,87,67,12,13,55,53",8.7,2,"Museums,Hiking,Local Cuisine,Wildlife Watching",Budget
+882,55-64,"Wildlife,Nature,Beach,Culture,Adventure","90,1,12,70,77,84,42,3,87",8.5,2,"Surfing,Eco Tours",Eco-conscious
+883,18-24,"Mountains,Nature","97,10,67,27",7.6,2,"Historical Sites,Swimming",Adventure
+884,55-64,"Food,Wildlife,Mountains,Relaxation,Nature","15,16,10,44,76,20,78,36,93,95",7.5,5,"Kayaking,Eco Tours,Historical Sites,Museums",Budget
+885,18-24,"History,Wildlife",,8.3,5,"Cultural Tours,Museums,Historical Sites",Eco-conscious
+886,35-44,"Nature,Adventure,History,Relaxation","34,42,43,5,15,88,89",6.9,1,"Historical Sites,Museums,Swimming,Local Cuisine",Cultural
+887,35-44,"Culture,Nature,Beach","54,52,25,51,26,59,14,48,15,98",8.4,2,"Hiking,Local Cuisine,Cycling,Museums",Eco-conscious
+888,25-34,"History,Nature,Mountains","97,74,45,10,77,32",5.2,5,"Cultural Tours,Kayaking,Volunteering,Local Cuisine,Swimming",Family
+889,55-64,"Wildlife,Beach,Mountains","49,4,7,39",6.5,5,"Volunteering,Hiking",Solo
+890,18-24,"Culture,Photography,History","37,60",4.3,1,"Volunteering,Swimming,Historical Sites,Cycling,Local Cuisine",Family
+891,18-24,"Photography,Beach,Adventure,History","94,54,5,99,98,89,64",3.2,5,"Kayaking,Swimming,Cycling,Volunteering",Solo
+892,18-24,"History,Wildlife,Mountains,Adventure,Relaxation",42,8.0,2,"Surfing,Swimming,Hiking",Budget
+893,18-24,"Beach,Nature","77,55,68,8,69,28,78,49,38,11",7.9,5,"Historical Sites,Cycling,Kayaking",Eco-conscious
+894,45-54,"Beach,Photography,History,Adventure,Food","42,59,15",7.3,4,"Hiking,Cycling,Eco Tours,Kayaking,Swimming",Cultural
+895,45-54,"Relaxation,Adventure,Photography,Beach,Mountains","28,42",7.3,5,"Hiking,Local Cuisine,Historical Sites,Wildlife Watching",Family
+896,18-24,"History,Mountains,Photography,Wildlife,Adventure","97,18,75,27,94",8.2,3,"Surfing,Eco Tours,Volunteering,Cycling",Solo
+897,35-44,"Mountains,Nature","18,72,15,37,29,6,94",6.1,2,"Eco Tours,Hiking,Historical Sites,Local Cuisine",Cultural
+898,45-54,"History,Mountains,Photography,Beach,Nature","20,64,21,92,94,73,65",4.3,3,"Hiking,Surfing,Kayaking",Luxury
+899,55-64,"Relaxation,Mountains","23,96,10,34,65,69,79,21,70",8.7,2,"Cultural Tours,Eco Tours,Surfing,Hiking,Volunteering",Solo
+900,45-54,"Culture,Beach,Mountains","59,41,96,4,90,23,81,91,68",8.2,1,"Museums,Surfing,Wildlife Watching,Volunteering",Cultural
+901,65+,"Wildlife,Food,Beach",34,7.0,3,"Volunteering,Hiking",Adventure
+902,55-64,"Relaxation,Food,Nature,Adventure,Mountains","62,13,72,53,85,50,88,90,54",6.6,3,"Historical Sites,Cultural Tours,Kayaking",Cultural
+903,25-34,"History,Nature","67,72,48,58",4.6,2,"Kayaking,Local Cuisine,Surfing,Museums,Wildlife Watching",Adventure
+904,65+,"History,Mountains,Culture,Photography,Relaxation","47,34,25,11,19,5,61",4.4,4,"Hiking,Cycling,Cultural Tours,Swimming",Solo
+905,65+,"Food,History,Wildlife","85,69,30,65,92,78,54",7.2,1,"Eco Tours,Kayaking",Family
+906,35-44,"Culture,Nature,History","9,97,49,83,44,87,71,33,61,60",6.9,2,"Cultural Tours,Museums",Luxury
+907,55-64,"Wildlife,Mountains","52,55,12,73,97,91,4,75",4.9,5,"Wildlife Watching,Cycling,Historical Sites",Family
+908,25-34,"Beach,Adventure,Relaxation,History,Culture",89,3.2,2,"Surfing,Hiking",Cultural
+909,45-54,"Wildlife,Photography,Food,Beach","6,70,87,72,79,54",8.0,1,"Kayaking,Wildlife Watching,Historical Sites,Museums,Local Cuisine",Family
+910,18-24,"Wildlife,Adventure,Culture","7,40,88,86,22,97,48",7.2,4,"Eco Tours,Local Cuisine,Surfing,Swimming",Luxury
+911,25-34,"Culture,Photography,Beach","14,74,4",8.7,1,"Surfing,Hiking,Museums,Swimming,Volunteering",Eco-conscious
+912,25-34,"Photography,Nature,History,Food","9,53,3,48,96",6.4,2,"Surfing,Kayaking,Volunteering,Museums",Solo
+913,25-34,"Beach,Wildlife,Culture,History","34,25,52,84,7,22,92,10",6.5,4,"Eco Tours,Kayaking,Museums",Adventure
+914,25-34,"Food,Wildlife,History,Nature,Culture","97,71,62,49,79,51,57,54",5.4,2,"Kayaking,Historical Sites",Adventure
+915,55-64,"Photography,Food,History,Nature,Wildlife","72,27,77,86,16,39,28",3.6,4,"Volunteering,Local Cuisine,Surfing,Museums,Eco Tours",Cultural
+916,45-54,"Mountains,Photography,Nature,Beach","95,15,36,35,97,9",6.9,2,"Cycling,Cultural Tours,Hiking,Eco Tours,Museums",Solo
+917,25-34,"Beach,Food,History,Nature","76,78,84,89,4,60",3.8,1,"Swimming,Local Cuisine,Historical Sites",Budget
+918,55-64,"Wildlife,Culture","12,3,4,10,38,16,43",8.8,3,"Volunteering,Historical Sites",Solo
+919,18-24,"Wildlife,Culture,Nature","81,33",4.7,2,"Cycling,Hiking,Volunteering,Museums",Luxury
+920,55-64,"Beach,Mountains,Culture,Adventure,Relaxation","65,21,51,55,26,13,69,17,31",8.1,5,"Kayaking,Surfing,Eco Tours",Adventure
+921,25-34,"Photography,Beach","13,5,17",6.7,3,"Hiking,Wildlife Watching,Volunteering,Museums,Historical Sites",Budget
+922,65+,"Relaxation,Beach",56,4.3,2,"Eco Tours,Swimming,Surfing",Family
+923,65+,"Nature,Relaxation,Mountains,History,Food","2,21,50,81,56,95",4.6,4,"Swimming,Cultural Tours",Solo
+924,45-54,"Nature,Culture",,7.2,5,"Kayaking,Local Cuisine",Luxury
+925,35-44,"Photography,Adventure","95,11",8.1,3,"Local Cuisine,Hiking,Kayaking,Museums,Eco Tours",Budget
+926,25-34,"Adventure,Culture","90,32,14,9,78,48",6.8,1,"Museums,Wildlife Watching,Volunteering,Surfing,Eco Tours",Budget
+927,25-34,"Mountains,Adventure,History,Food","8,50,90,33,5,78",5.5,1,"Museums,Eco Tours",Adventure
+928,55-64,"Mountains,Relaxation,Adventure,Wildlife,Photography","88,55",6.5,1,"Hiking,Local Cuisine",Luxury
+929,45-54,"Nature,History",51,4.3,3,"Wildlife Watching,Swimming,Kayaking",Adventure
+930,45-54,"Relaxation,Culture,Mountains","6,37,95,44,7,19",4.6,1,"Swimming,Local Cuisine,Volunteering",Adventure
+931,35-44,"Beach,Food",80,6.4,2,"Wildlife Watching,Surfing,Museums,Historical Sites",Cultural
+932,55-64,"History,Adventure,Mountains,Nature,Relaxation","81,26,9",3.7,1,"Swimming,Surfing,Kayaking",Budget
+933,35-44,"Adventure,Relaxation,History,Beach,Mountains",34,7.2,3,"Cycling,Eco Tours,Kayaking",Eco-conscious
+934,45-54,"Food,History,Relaxation","85,79,81,83",6.0,4,"Eco Tours,Swimming",Cultural
+935,25-34,"Photography,History,Beach","3,70,37,4,34",7.7,2,"Kayaking,Cultural Tours,Museums,Cycling,Eco Tours",Adventure
+936,65+,"Photography,History,Wildlife,Nature","32,82,90,93,1,80,13",7.4,1,"Historical Sites,Museums",Budget
+937,35-44,"Wildlife,Photography,Nature,Food","74,42,5,18",6.4,3,"Wildlife Watching,Surfing",Budget
+938,45-54,"Adventure,Relaxation,Mountains,Beach,Photography",,4.7,3,"Hiking,Museums,Cultural Tours",Adventure
+939,55-64,"Relaxation,Mountains,Photography,Nature,Culture","62,1,25,98,76,95,2",4.7,2,"Local Cuisine,Historical Sites,Surfing,Kayaking",Family
+940,18-24,"Food,Photography,Wildlife,Relaxation,Culture","50,48,10,7,11,47,6,44",4.2,4,"Hiking,Local Cuisine,Cultural Tours",Adventure
+941,45-54,"Nature,Wildlife,History","76,97,15,17,71,29",5.8,4,"Swimming,Volunteering,Historical Sites",Adventure
+942,65+,"Beach,Culture,Photography,Wildlife","31,14,51,77,43,3,8,65",8.9,5,"Local Cuisine,Cultural Tours,Wildlife Watching,Historical Sites",Adventure
+943,55-64,"Photography,Beach","7,40,89,90,5,14,55,65,54",6.4,1,"Volunteering,Cultural Tours,Historical Sites,Swimming",Cultural
+944,35-44,"Photography,History,Adventure","7,73,70,36,50,12,58",3.8,1,"Historical Sites,Volunteering,Wildlife Watching,Cycling,Kayaking",Cultural
+945,35-44,"History,Mountains,Relaxation,Wildlife","43,98,71,87",7.7,1,"Swimming,Museums,Hiking,Surfing",Family
+946,65+,"Relaxation,Photography,Mountains","93,83,71,37",4.7,5,"Volunteering,Museums,Cultural Tours,Surfing",Solo
+947,55-64,"Food,Adventure,Mountains,Photography,History","60,40,82,23,45,71,86",6.6,4,"Volunteering,Cycling",Adventure
+948,45-54,"Culture,History",11,4.9,4,"Kayaking,Eco Tours,Museums,Cycling",Luxury
+949,35-44,"Relaxation,Photography,Adventure,Culture,Nature","36,12,68,89",8.8,2,"Kayaking,Cultural Tours,Swimming,Local Cuisine",Cultural
+950,18-24,"Nature,Beach,Wildlife,Culture","45,60,51,34,93,8,20,98",6.7,5,"Museums,Eco Tours,Local Cuisine",Luxury
+951,25-34,"Adventure,Beach,Photography,Mountains,Wildlife",,7.1,4,"Volunteering,Cultural Tours",Solo
+952,35-44,"Adventure,History,Beach",,5.7,3,"Hiking,Cycling,Surfing,Wildlife Watching,Volunteering",Luxury
+953,25-34,"Wildlife,Relaxation","4,27,57,83,44",4.3,5,"Cultural Tours,Kayaking,Local Cuisine,Wildlife Watching,Eco Tours",Cultural
+954,55-64,"Mountains,Wildlife,History,Food","90,72,23,100",5.0,4,"Surfing,Local Cuisine",Family
+955,35-44,"History,Adventure,Photography,Nature,Wildlife","20,71,95,24,64,55,59,90,28,85",4.0,1,"Cycling,Cultural Tours",Family
+956,18-24,"Nature,Culture,Mountains,History","90,24,100",8.9,4,"Cycling,Cultural Tours,Historical Sites,Wildlife Watching",Cultural
+957,35-44,"Wildlife,Nature,Food,Adventure,Relaxation","83,34,9,48,1,2",6.3,4,"Hiking,Museums",Cultural
+958,18-24,"Wildlife,History,Nature,Adventure","28,58,46,80,95",3.3,1,"Eco Tours,Historical Sites,Volunteering,Kayaking,Cultural Tours",Budget
+959,35-44,"Mountains,Photography,Culture,Beach,Adventure","65,86,30",10.0,4,"Cycling,Historical Sites",Eco-conscious
+960,35-44,"Wildlife,Relaxation",,5.7,5,"Museums,Cultural Tours,Swimming",Adventure
+961,35-44,"Nature,Culture",19,7.7,3,"Hiking,Volunteering,Surfing",Luxury
+962,18-24,"Relaxation,Culture,Beach,History,Photography","41,80,38,75",3.3,2,"Volunteering,Local Cuisine,Cycling",Adventure
+963,18-24,"Mountains,History,Photography","34,75,48,68,74",9.8,3,"Surfing,Local Cuisine,Museums,Cycling",Eco-conscious
+964,25-34,"Mountains,History","22,6,48,64,36,3,59",7.7,4,"Cultural Tours,Volunteering,Cycling,Surfing",Family
+965,35-44,"Mountains,Adventure","57,91,62,34,38,20,59",6.4,4,"Local Cuisine,Wildlife Watching,Eco Tours,Historical Sites",Adventure
+966,65+,"Adventure,Wildlife,Nature","95,65,81,30,33,13,62,72",6.1,5,"Hiking,Cycling,Swimming,Wildlife Watching,Kayaking",Luxury
+967,25-34,"Relaxation,Nature,Food,History","45,78,14,73,16,39,19",4.5,3,"Eco Tours,Wildlife Watching",Family
+968,65+,"Adventure,Beach,Mountains,Wildlife,Food","14,59,60,67,10,9,79,11,18",3.5,3,"Cycling,Historical Sites,Volunteering",Solo
+969,25-34,"History,Photography","76,57,66,28,75",5.1,3,"Local Cuisine,Historical Sites",Family
+970,35-44,"Relaxation,Mountains","26,85,41,34",3.1,1,"Cycling,Museums,Swimming",Cultural
+971,35-44,"Culture,Nature,Adventure,History,Mountains","72,88,19,47,43,36",5.4,5,"Museums,Historical Sites,Cultural Tours,Wildlife Watching",Luxury
+972,18-24,"Beach,Relaxation,History","53,11,4,93,96,38,76",8.6,2,"Museums,Local Cuisine,Volunteering,Wildlife Watching",Adventure
+973,55-64,"Beach,Photography,Wildlife,Relaxation,Nature",,7.5,4,"Hiking,Wildlife Watching",Eco-conscious
+974,25-34,"Nature,Culture,Beach",73,9.6,2,"Eco Tours,Swimming,Historical Sites",Eco-conscious
+975,45-54,"Beach,Mountains,Nature,Food","47,82,95,4,50,46,73",5.0,1,"Kayaking,Hiking,Cycling,Wildlife Watching",Solo
+976,65+,"Mountains,Relaxation","5,87,74,52,92",8.6,2,"Wildlife Watching,Eco Tours,Volunteering,Hiking,Kayaking",Cultural
+977,45-54,"Adventure,Mountains","52,75,30",4.8,4,"Swimming,Eco Tours,Local Cuisine",Luxury
+978,65+,"Adventure,Relaxation","63,76",5.6,5,"Historical Sites,Volunteering,Surfing",Family
+979,65+,"Culture,Relaxation,Beach,Mountains","58,78,19,55,57",4.7,4,"Cycling,Volunteering,Hiking,Surfing,Kayaking",Adventure
+980,25-34,"Wildlife,Mountains","68,22,78,63,93,34,40",5.7,2,"Museums,Eco Tours,Surfing,Volunteering,Cultural Tours",Family
+981,35-44,"Beach,Wildlife","47,18,32,7,25,84,27,15,53,13",7.1,1,"Hiking,Local Cuisine,Historical Sites",Eco-conscious
+982,35-44,"Photography,Adventure,History,Culture","65,57,68,32,51,98,46,53,11",9.4,1,"Hiking,Cycling,Surfing,Swimming",Eco-conscious
+983,55-64,"Culture,Photography,Nature,Food","63,40,74,92,72,4,45,49,58,55",7.6,1,"Cultural Tours,Local Cuisine",Cultural
+984,25-34,"Nature,Wildlife,Relaxation,Food","46,9,87,30",7.1,1,"Historical Sites,Hiking",Budget
+985,45-54,"Culture,Mountains,Photography,Adventure,Relaxation",,7.7,4,"Cultural Tours,Volunteering,Kayaking",Family
+986,65+,"Beach,Mountains,Nature,Photography,Food","25,71,68,20,96,36,23,54",4.3,4,"Hiking,Cultural Tours,Surfing,Historical Sites,Kayaking",Luxury
+987,25-34,"Beach,Adventure,History,Photography,Wildlife","13,22,19,76,86,69,33,39,31,82",7.7,3,"Historical Sites,Cycling,Museums",Family
+988,35-44,"Adventure,History,Relaxation,Beach,Wildlife","82,33,32,55,26",6.6,3,"Eco Tours,Local Cuisine,Swimming",Cultural
+989,45-54,"Nature,History,Photography,Adventure,Mountains","100,31",7.3,3,"Historical Sites,Hiking,Cycling",Adventure
+990,55-64,"History,Adventure,Beach,Mountains,Relaxation",85,6.1,4,"Eco Tours,Kayaking,Cycling",Cultural
+991,65+,"Nature,Beach,Mountains,Relaxation,Culture","73,19",3.5,4,"Historical Sites,Cultural Tours,Kayaking,Wildlife Watching,Museums",Budget
+992,18-24,"Food,Adventure,Nature","41,47,33,10",7.5,3,"Wildlife Watching,Cultural Tours",Eco-conscious
+993,25-34,"History,Mountains","82,95,4,64,72,80,19,96,31,56",4.8,4,"Swimming,Museums",Cultural
+994,65+,"Relaxation,Culture,History","50,13,65,68,95,71",3.8,1,"Surfing,Kayaking,Eco Tours,Wildlife Watching",Budget
+995,25-34,"Food,Adventure","71,18,95,2",7.8,2,"Historical Sites,Local Cuisine",Family
+996,65+,"History,Nature","7,5,58,32",5.4,1,"Museums,Cycling,Wildlife Watching,Cultural Tours",Family
+997,35-44,"Food,Nature,Beach,Culture","18,4,38",6.1,3,"Local Cuisine,Kayaking",Family
+998,18-24,"Wildlife,Food,Relaxation,Photography,Beach","90,20,71,45,21,33,80,85,9,40",7.9,1,"Wildlife Watching,Local Cuisine,Eco Tours,Historical Sites,Surfing",Family
+999,55-64,"History,Wildlife,Food,Relaxation","26,76,87,6,28,7,95",4.2,5,"Volunteering,Hiking",Family
+1000,35-44,"Culture,Beach,Relaxation,Adventure","10,72,35,57,76,6,19",9.7,4,"Hiking,Museums",Eco-conscious

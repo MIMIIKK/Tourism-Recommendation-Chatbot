@@ -1,0 +1,101 @@
+destination_id,name,country,region,climate,landscape_type,popular_activities,accommodation_types,peak_season,off_peak_season
+1,Destination 1,Finland,Region 3 in Finland,Continental,Island,"Hiking,Historical Sites,Kayaking,Cycling,Local Cuisine,Surfing,Eco Tours","Hostel,Hotel,Eco-lodge",Summer,Winter
+2,Destination 2,Costa Rica,Region 5 in Costa Rica,Arid,Desert,"Historical Sites,Museums,Hiking,Cultural Tours,Local Cuisine,Cycling,Eco Tours","Hostel,Eco-lodge",Winter,Summer
+3,Destination 3,Japan,Region 2 in Japan,Tropical,Mountain,"Volunteering,Cultural Tours,Cycling,Hiking,Swimming,Wildlife Watching,Surfing,Kayaking","Eco-lodge,Camping,Hostel,Resort",Spring,Spring
+4,Destination 4,France,Region 1 in France,Mediterranean,Island,"Cycling,Volunteering,Swimming,Kayaking,Eco Tours","Hotel,Hostel,Eco-lodge",Summer,Spring
+5,Destination 5,Finland,Region 4 in Finland,Mediterranean,Island,"Wildlife Watching,Kayaking,Hiking,Swimming","Apartment,Hotel,Hostel,Eco-lodge",Spring,Spring
+6,Destination 6,France,Region 1 in France,Mediterranean,Island,"Kayaking,Eco Tours,Swimming,Local Cuisine,Volunteering,Cycling,Hiking","Eco-lodge,Hostel,Hotel",Summer,Summer
+7,Destination 7,Thailand,Region 4 in Thailand,Arid,Forest,"Wildlife Watching,Museums,Cycling,Eco Tours,Swimming,Volunteering,Local Cuisine","Eco-lodge,Hostel,Resort",Winter,Spring
+8,Destination 8,Canada,Region 3 in Canada,Continental,Beach,"Volunteering,Historical Sites,Wildlife Watching","Camping,Hostel",Winter,Winter
+9,Destination 9,Japan,Region 1 in Japan,Polar,Coastal,"Hiking,Cycling,Kayaking,Eco Tours,Swimming","Hostel,Camping",Fall,Summer
+10,Destination 10,Spain,Region 1 in Spain,Arid,City,"Wildlife Watching,Cycling,Surfing,Local Cuisine,Cultural Tours,Museums,Historical Sites","Hotel,Camping,Hostel",Winter,Summer
+11,Destination 11,Costa Rica,Region 3 in Costa Rica,Continental,Beach,"Historical Sites,Local Cuisine,Eco Tours,Surfing,Cycling,Museums","Resort,Hostel,Camping",Spring,Fall
+12,Destination 12,New Zealand,Region 5 in New Zealand,Continental,Countryside,"Volunteering,Surfing,Museums,Cultural Tours,Local Cuisine","Apartment,Eco-lodge,Hostel,Hotel",Year-round,Fall
+13,Destination 13,Indonesia,Region 2 in Indonesia,Continental,Countryside,"Historical Sites,Local Cuisine,Cycling,Eco Tours,Cultural Tours","Hotel,Apartment,Hostel,Eco-lodge",Fall,Winter
+14,Destination 14,France,Region 1 in France,Continental,Beach,"Hiking,Historical Sites,Cultural Tours","Camping,Resort,Hotel",Fall,Fall
+15,Destination 15,Canada,Region 2 in Canada,Tropical,Forest,"Volunteering,Cultural Tours,Swimming,Surfing,Local Cuisine,Cycling","Eco-lodge,Hotel,Camping",Summer,Winter
+16,Destination 16,Spain,Region 4 in Spain,Mediterranean,Forest,"Kayaking,Historical Sites,Hiking,Wildlife Watching,Surfing,Swimming","Resort,Eco-lodge,Hostel",Fall,Summer
+17,Destination 17,Costa Rica,Region 3 in Costa Rica,Tropical,Desert,"Kayaking,Cultural Tours,Eco Tours,Local Cuisine","Resort,Hostel",Fall,Summer
+18,Destination 18,Spain,Region 2 in Spain,Continental,Coastal,"Kayaking,Cultural Tours,Wildlife Watching","Camping,Hotel",Fall,Summer
+19,Destination 19,New Zealand,Region 1 in New Zealand,Arid,Lake,"Historical Sites,Swimming,Volunteering,Cultural Tours","Eco-lodge,Resort,Hostel,Hotel",Summer,Summer
+20,Destination 20,Thailand,Region 2 in Thailand,Continental,Coastal,"Cultural Tours,Wildlife Watching,Eco Tours","Resort,Apartment,Hostel",Year-round,Winter
+21,Destination 21,Costa Rica,Region 5 in Costa Rica,Polar,City,"Volunteering,Cultural Tours,Cycling,Wildlife Watching,Kayaking,Surfing","Camping,Resort",Spring,Winter
+22,Destination 22,Costa Rica,Region 1 in Costa Rica,Polar,Beach,"Cultural Tours,Eco Tours,Historical Sites,Museums,Local Cuisine,Cycling,Volunteering","Resort,Hostel,Camping",Winter,Summer
+23,Destination 23,Japan,Region 1 in Japan,Polar,Mountain,"Local Cuisine,Hiking,Swimming","Resort,Hostel,Hotel",Year-round,Winter
+24,Destination 24,Iceland,Region 4 in Iceland,Tropical,Beach,"Local Cuisine,Volunteering,Museums,Swimming,Cycling,Surfing","Resort,Apartment",Summer,Spring
+25,Destination 25,Indonesia,Region 1 in Indonesia,Tropical,Desert,"Cycling,Swimming,Local Cuisine,Volunteering,Historical Sites,Kayaking","Hostel,Eco-lodge,Camping",Winter,Spring
+26,Destination 26,Sweden,Region 1 in Sweden,Polar,River,"Volunteering,Museums,Cultural Tours","Hotel,Resort,Apartment,Eco-lodge",Winter,Winter
+27,Destination 27,Japan,Region 5 in Japan,Mediterranean,Forest,"Local Cuisine,Historical Sites,Volunteering,Kayaking,Swimming,Cycling,Hiking,Cultural Tours","Eco-lodge,Hostel,Apartment,Hotel",Fall,Fall
+28,Destination 28,France,Region 4 in France,Continental,River,"Volunteering,Local Cuisine,Swimming","Camping,Hostel,Apartment",Fall,Summer
+29,Destination 29,Finland,Region 2 in Finland,Continental,River,"Eco Tours,Kayaking,Swimming,Surfing,Museums,Local Cuisine,Volunteering","Apartment,Hostel",Winter,Summer
+30,Destination 30,France,Region 5 in France,Mediterranean,Lake,"Historical Sites,Volunteering,Eco Tours","Apartment,Hotel",Winter,Fall
+31,Destination 31,Portugal,Region 2 in Portugal,Mediterranean,Island,"Kayaking,Eco Tours,Local Cuisine,Hiking,Volunteering,Swimming,Surfing","Camping,Apartment,Resort",Summer,Spring
+32,Destination 32,Portugal,Region 2 in Portugal,Polar,Island,"Wildlife Watching,Local Cuisine,Surfing,Hiking,Historical Sites","Apartment,Camping,Hostel",Winter,Fall
+33,Destination 33,Norway,Region 5 in Norway,Tropical,Lake,"Kayaking,Volunteering,Wildlife Watching,Museums,Swimming,Cultural Tours","Resort,Hotel",Year-round,Winter
+34,Destination 34,Finland,Region 2 in Finland,Mediterranean,Mountain,"Cycling,Historical Sites,Hiking,Surfing,Cultural Tours,Swimming","Camping,Hotel",Year-round,Fall
+35,Destination 35,New Zealand,Region 1 in New Zealand,Mediterranean,Countryside,"Eco Tours,Kayaking,Cultural Tours","Resort,Apartment",Winter,Fall
+36,Destination 36,Indonesia,Region 1 in Indonesia,Polar,Forest,"Swimming,Local Cuisine,Volunteering,Eco Tours","Eco-lodge,Apartment,Hostel,Camping",Year-round,Fall
+37,Destination 37,Costa Rica,Region 3 in Costa Rica,Polar,Lake,"Historical Sites,Wildlife Watching,Volunteering,Swimming,Eco Tours,Museums","Apartment,Hostel,Camping,Eco-lodge",Year-round,Spring
+38,Destination 38,Spain,Region 3 in Spain,Continental,Coastal,"Cultural Tours,Museums,Historical Sites","Hotel,Apartment",Spring,Summer
+39,Destination 39,Thailand,Region 1 in Thailand,Polar,Desert,"Swimming,Kayaking,Surfing,Museums,Historical Sites","Camping,Eco-lodge",Summer,Winter
+40,Destination 40,Italy,Region 4 in Italy,Tropical,City,"Volunteering,Local Cuisine,Cycling","Apartment,Hotel,Camping",Winter,Winter
+41,Destination 41,Japan,Region 1 in Japan,Mediterranean,Beach,"Wildlife Watching,Cultural Tours,Swimming,Hiking,Kayaking,Surfing,Local Cuisine","Hostel,Apartment",Year-round,Fall
+42,Destination 42,New Zealand,Region 1 in New Zealand,Continental,Beach,"Surfing,Swimming,Museums,Historical Sites,Hiking","Hotel,Resort,Camping,Apartment",Summer,Winter
+43,Destination 43,Costa Rica,Region 1 in Costa Rica,Mediterranean,River,"Local Cuisine,Wildlife Watching,Swimming,Cultural Tours,Volunteering,Kayaking,Cycling","Resort,Eco-lodge",Winter,Summer
+44,Destination 44,France,Region 1 in France,Arid,River,"Surfing,Cycling,Hiking,Volunteering,Historical Sites,Swimming,Eco Tours,Cultural Tours","Hostel,Camping",Summer,Spring
+45,Destination 45,Iceland,Region 1 in Iceland,Tropical,Mountain,"Eco Tours,Volunteering,Local Cuisine,Hiking,Kayaking,Cultural Tours","Camping,Apartment",Summer,Winter
+46,Destination 46,Sweden,Region 3 in Sweden,Mediterranean,Desert,"Cycling,Swimming,Eco Tours,Historical Sites,Surfing,Cultural Tours,Kayaking,Hiking","Hostel,Camping",Fall,Spring
+47,Destination 47,France,Region 5 in France,Polar,Beach,"Surfing,Volunteering,Cycling","Eco-lodge,Hostel,Apartment",Spring,Summer
+48,Destination 48,New Zealand,Region 3 in New Zealand,Arid,Coastal,"Surfing,Volunteering,Historical Sites","Camping,Resort,Hostel,Eco-lodge",Spring,Spring
+49,Destination 49,Indonesia,Region 3 in Indonesia,Mediterranean,Mountain,"Kayaking,Eco Tours,Cultural Tours,Hiking,Local Cuisine","Apartment,Camping",Winter,Spring
+50,Destination 50,Indonesia,Region 5 in Indonesia,Arid,Countryside,"Hiking,Eco Tours,Surfing","Hostel,Eco-lodge,Apartment,Resort",Year-round,Spring
+51,Destination 51,Italy,Region 5 in Italy,Arid,Coastal,"Cycling,Museums,Wildlife Watching,Local Cuisine,Volunteering","Camping,Apartment,Hotel",Fall,Summer
+52,Destination 52,Iceland,Region 3 in Iceland,Tropical,Forest,"Surfing,Volunteering,Swimming,Local Cuisine,Cycling","Hostel,Resort,Apartment,Eco-lodge",Fall,Winter
+53,Destination 53,Canada,Region 3 in Canada,Polar,Island,"Wildlife Watching,Local Cuisine,Volunteering","Camping,Eco-lodge,Apartment,Resort",Winter,Spring
+54,Destination 54,Finland,Region 4 in Finland,Continental,Countryside,"Wildlife Watching,Local Cuisine,Museums,Cultural Tours,Volunteering,Eco Tours","Resort,Hotel",Winter,Summer
+55,Destination 55,New Zealand,Region 4 in New Zealand,Tropical,Desert,"Cycling,Historical Sites,Kayaking,Eco Tours,Museums,Wildlife Watching,Swimming","Camping,Resort,Eco-lodge,Hotel",Winter,Winter
+56,Destination 56,Thailand,Region 1 in Thailand,Arid,Mountain,"Surfing,Museums,Local Cuisine,Cultural Tours,Historical Sites","Eco-lodge,Resort,Apartment",Summer,Fall
+57,Destination 57,Canada,Region 4 in Canada,Tropical,Island,"Local Cuisine,Swimming,Volunteering","Camping,Eco-lodge",Fall,Spring
+58,Destination 58,Norway,Region 2 in Norway,Polar,River,"Cultural Tours,Historical Sites,Cycling,Volunteering,Museums,Surfing,Wildlife Watching,Local Cuisine","Eco-lodge,Resort,Hotel",Fall,Summer
+59,Destination 59,Thailand,Region 5 in Thailand,Tropical,Island,"Swimming,Historical Sites,Eco Tours,Cycling","Apartment,Hotel,Camping",Spring,Fall
+60,Destination 60,Sweden,Region 5 in Sweden,Polar,Beach,"Wildlife Watching,Local Cuisine,Eco Tours,Swimming,Historical Sites,Museums","Hostel,Camping,Eco-lodge,Hotel",Winter,Summer
+61,Destination 61,Costa Rica,Region 1 in Costa Rica,Tropical,Lake,"Cycling,Surfing,Swimming","Camping,Apartment",Winter,Fall
+62,Destination 62,Portugal,Region 5 in Portugal,Mediterranean,Desert,"Museums,Volunteering,Cultural Tours,Eco Tours,Surfing,Historical Sites","Hostel,Resort,Eco-lodge",Spring,Fall
+63,Destination 63,Iceland,Region 5 in Iceland,Arid,Forest,"Surfing,Eco Tours,Swimming,Kayaking","Apartment,Eco-lodge,Camping,Hotel",Spring,Winter
+64,Destination 64,Spain,Region 4 in Spain,Mediterranean,Desert,"Surfing,Kayaking,Local Cuisine,Museums","Hostel,Resort,Apartment",Winter,Spring
+65,Destination 65,Costa Rica,Region 4 in Costa Rica,Polar,River,"Hiking,Kayaking,Historical Sites,Wildlife Watching","Hostel,Eco-lodge,Apartment",Year-round,Summer
+66,Destination 66,Norway,Region 3 in Norway,Continental,Mountain,"Wildlife Watching,Swimming,Museums,Historical Sites,Hiking,Cultural Tours,Volunteering","Camping,Hostel",Fall,Summer
+67,Destination 67,Spain,Region 3 in Spain,Polar,Mountain,"Surfing,Kayaking,Museums,Swimming","Apartment,Resort,Camping,Hotel",Fall,Summer
+68,Destination 68,Portugal,Region 4 in Portugal,Continental,Countryside,"Eco Tours,Historical Sites,Surfing,Cultural Tours,Hiking,Local Cuisine","Apartment,Eco-lodge",Spring,Summer
+69,Destination 69,Italy,Region 4 in Italy,Mediterranean,Countryside,"Museums,Surfing,Historical Sites,Volunteering,Hiking,Local Cuisine,Swimming,Cultural Tours","Camping,Hotel",Winter,Winter
+70,Destination 70,Portugal,Region 5 in Portugal,Continental,Beach,"Kayaking,Local Cuisine,Cycling","Resort,Hostel",Winter,Winter
+71,Destination 71,Thailand,Region 1 in Thailand,Polar,Mountain,"Museums,Cultural Tours,Cycling,Eco Tours,Surfing,Volunteering","Hostel,Eco-lodge,Resort",Fall,Fall
+72,Destination 72,Indonesia,Region 1 in Indonesia,Arid,Mountain,"Cultural Tours,Hiking,Cycling,Local Cuisine,Historical Sites,Wildlife Watching","Resort,Apartment,Eco-lodge",Year-round,Winter
+73,Destination 73,Indonesia,Region 5 in Indonesia,Continental,River,"Eco Tours,Hiking,Kayaking,Swimming,Cultural Tours,Museums","Camping,Apartment,Hostel,Hotel",Fall,Fall
+74,Destination 74,Greece,Region 1 in Greece,Continental,Forest,"Eco Tours,Historical Sites,Cycling,Cultural Tours,Surfing","Apartment,Resort,Camping",Spring,Summer
+75,Destination 75,Finland,Region 2 in Finland,Mediterranean,River,"Hiking,Kayaking,Surfing,Cycling,Historical Sites","Apartment,Camping",Winter,Fall
+76,Destination 76,Indonesia,Region 5 in Indonesia,Arid,Countryside,"Museums,Wildlife Watching,Kayaking,Eco Tours,Swimming,Historical Sites,Hiking,Local Cuisine","Eco-lodge,Hotel,Apartment",Winter,Spring
+77,Destination 77,Indonesia,Region 2 in Indonesia,Tropical,Coastal,"Swimming,Eco Tours,Historical Sites,Museums,Volunteering,Wildlife Watching,Hiking","Hotel,Eco-lodge",Year-round,Fall
+78,Destination 78,Costa Rica,Region 3 in Costa Rica,Continental,Coastal,"Kayaking,Swimming,Historical Sites","Apartment,Hotel,Resort,Camping",Summer,Summer
+79,Destination 79,Thailand,Region 1 in Thailand,Continental,River,"Surfing,Cultural Tours,Swimming,Cycling","Apartment,Resort,Eco-lodge,Camping",Winter,Winter
+80,Destination 80,Italy,Region 4 in Italy,Mediterranean,Island,"Museums,Eco Tours,Cultural Tours,Kayaking,Volunteering,Cycling,Swimming,Historical Sites","Resort,Apartment,Hostel,Camping",Fall,Spring
+81,Destination 81,Indonesia,Region 5 in Indonesia,Tropical,Coastal,"Surfing,Swimming,Local Cuisine,Hiking,Museums,Cycling","Eco-lodge,Hostel",Year-round,Fall
+82,Destination 82,Greece,Region 2 in Greece,Continental,Beach,"Volunteering,Historical Sites,Swimming,Wildlife Watching,Kayaking,Cultural Tours,Eco Tours,Local Cuisine","Hotel,Resort,Apartment,Eco-lodge",Year-round,Spring
+83,Destination 83,France,Region 5 in France,Tropical,Countryside,"Cycling,Historical Sites,Museums,Surfing","Resort,Hotel,Apartment,Eco-lodge",Winter,Summer
+84,Destination 84,Finland,Region 5 in Finland,Arid,Coastal,"Cycling,Hiking,Historical Sites,Kayaking,Wildlife Watching,Swimming","Camping,Apartment",Fall,Spring
+85,Destination 85,Thailand,Region 2 in Thailand,Polar,River,"Volunteering,Historical Sites,Kayaking,Local Cuisine,Surfing,Wildlife Watching,Cycling","Resort,Hostel,Apartment",Winter,Winter
+86,Destination 86,Thailand,Region 3 in Thailand,Polar,City,"Cycling,Volunteering,Historical Sites,Kayaking,Wildlife Watching,Cultural Tours,Swimming,Surfing","Resort,Apartment,Eco-lodge",Fall,Winter
+87,Destination 87,Thailand,Region 1 in Thailand,Polar,Desert,"Historical Sites,Hiking,Swimming,Wildlife Watching,Local Cuisine","Camping,Eco-lodge,Hotel",Winter,Spring
+88,Destination 88,Thailand,Region 4 in Thailand,Polar,Lake,"Volunteering,Museums,Wildlife Watching,Hiking,Eco Tours","Resort,Eco-lodge,Hostel",Year-round,Spring
+89,Destination 89,Spain,Region 2 in Spain,Polar,Lake,"Kayaking,Historical Sites,Cycling,Hiking,Eco Tours,Cultural Tours","Camping,Apartment,Hostel",Winter,Fall
+90,Destination 90,Iceland,Region 4 in Iceland,Continental,Forest,"Local Cuisine,Volunteering,Swimming,Cultural Tours,Historical Sites,Eco Tours,Surfing","Apartment,Hotel",Fall,Spring
+91,Destination 91,France,Region 4 in France,Polar,Desert,"Historical Sites,Volunteering,Eco Tours,Surfing,Cycling,Cultural Tours,Hiking,Kayaking","Camping,Hostel,Hotel",Summer,Spring
+92,Destination 92,France,Region 3 in France,Tropical,Coastal,"Swimming,Volunteering,Cultural Tours,Wildlife Watching","Resort,Eco-lodge,Hotel",Winter,Winter
+93,Destination 93,France,Region 3 in France,Continental,Mountain,"Museums,Swimming,Eco Tours,Cycling,Local Cuisine,Surfing","Resort,Camping,Hostel,Hotel",Spring,Spring
+94,Destination 94,Canada,Region 2 in Canada,Continental,Forest,"Kayaking,Eco Tours,Surfing,Wildlife Watching,Museums","Hostel,Eco-lodge,Hotel",Fall,Winter
+95,Destination 95,Japan,Region 2 in Japan,Polar,City,"Local Cuisine,Kayaking,Eco Tours,Volunteering,Cycling,Cultural Tours,Wildlife Watching,Hiking","Hotel,Eco-lodge,Hostel,Camping",Summer,Spring
+96,Destination 96,Japan,Region 3 in Japan,Arid,Island,"Historical Sites,Cultural Tours,Museums","Hostel,Eco-lodge,Hotel",Year-round,Fall
+97,Destination 97,Norway,Region 1 in Norway,Polar,River,"Swimming,Cycling,Cultural Tours","Resort,Apartment,Hotel",Spring,Summer
+98,Destination 98,France,Region 4 in France,Mediterranean,Countryside,"Historical Sites,Local Cuisine,Museums,Wildlife Watching,Kayaking","Resort,Hostel,Apartment,Eco-lodge",Summer,Spring
+99,Destination 99,Italy,Region 4 in Italy,Polar,Desert,"Volunteering,Wildlife Watching,Surfing,Hiking,Swimming","Eco-lodge,Hostel,Camping,Apartment",Spring,Spring
+100,Destination 100,Costa Rica,Region 4 in Costa Rica,Arid,Forest,"Wildlife Watching,Museums,Local Cuisine,Hiking,Kayaking","Hotel,Camping",Spring,Summer

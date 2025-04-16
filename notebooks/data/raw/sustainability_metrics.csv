@@ -1,0 +1,101 @@
+destination_id,carbon_footprint_score,water_consumption_score,waste_management_score,biodiversity_impact_score,local_economy_support_score,conservation_initiatives,eco_certifications,sustainable_transportation_options,overall_sustainability_score
+1,7.3,6.2,7.8,6.7,6.0,1 active conservation projects,"Green Globe,Green Key",,6.87
+2,6.2,8.5,7.4,5.0,7.8,0 active conservation projects,"EarthCheck,LEED","Public Transit,Electric Vehicles,Bike Sharing,Walking Paths",6.89
+3,7.6,6.0,6.2,5.7,7.0,2 active conservation projects,"Blue Flag,Green Globe","Walking Paths,Electric Vehicles",6.51
+4,10.0,7.9,9.3,9.6,8.6,4 active conservation projects,"LEED,Blue Flag,EarthCheck","Bike Sharing,Public Transit,Walking Paths,Electric Vehicles",9.16
+5,9.3,7.1,7.9,9.0,9.5,3 active conservation projects,"EarthCheck,Blue Flag","Bike Sharing,Walking Paths",8.54
+6,3.8,4.0,4.4,5.0,2.5,5 active conservation projects,Green Globe,"Electric Vehicles,Public Transit",4.0
+7,4.8,4.6,5.6,5.7,2.7,0 active conservation projects,Blue Flag,"Electric Vehicles,Bike Sharing,Public Transit,Walking Paths",4.78
+8,7.6,9.6,9.1,8.0,10.0,5 active conservation projects,"Green Key,LEED","Bike Sharing,Walking Paths,Electric Vehicles,Public Transit",8.71
+9,7.5,4.9,5.2,8.1,5.6,1 active conservation projects,"Green Key,Blue Flag",Walking Paths,6.37
+10,9.1,6.8,9.3,9.9,9.2,0 active conservation projects,"Blue Flag,EarthCheck","Public Transit,Bike Sharing,Walking Paths,Electric Vehicles",8.86
+11,2.3,4.5,2.6,5.5,5.6,1 active conservation projects,Green Globe,Public Transit,3.95
+12,7.1,6.9,3.5,6.8,6.4,1 active conservation projects,"Green Globe,EarthCheck","Electric Vehicles,Public Transit,Walking Paths,Bike Sharing",6.17
+13,9.5,10.0,9.4,7.0,10.0,2 active conservation projects,"Green Key,Green Globe,LEED","Bike Sharing,Public Transit,Electric Vehicles",9.17
+14,5.4,4.4,3.6,4.6,5.7,1 active conservation projects,LEED,"Bike Sharing,Public Transit",4.7
+15,8.5,9.9,7.6,9.0,8.8,1 active conservation projects,"Blue Flag,EarthCheck","Public Transit,Bike Sharing,Electric Vehicles,Walking Paths",8.75
+16,4.6,3.2,1.9,3.8,5.3,3 active conservation projects,Green Key,"Bike Sharing,Walking Paths,Electric Vehicles",3.7
+17,7.3,8.4,6.9,6.1,9.4,1 active conservation projects,"Green Globe,Green Key","Public Transit,Walking Paths,Electric Vehicles,Bike Sharing",7.51
+18,4.0,5.6,3.2,4.6,5.1,2 active conservation projects,Green Key,"Walking Paths,Bike Sharing",4.43
+19,7.1,6.5,7.3,6.6,8.6,2 active conservation projects,"Green Key,Blue Flag",Walking Paths,7.15
+20,9.4,9.1,7.5,8.1,8.1,1 active conservation projects,"LEED,Green Globe",Electric Vehicles,8.48
+21,5.3,2.5,2.0,3.0,2.4,4 active conservation projects,LEED,"Electric Vehicles,Bike Sharing,Public Transit",3.18
+22,10.0,7.9,6.9,7.7,8.5,1 active conservation projects,"Green Globe,LEED","Electric Vehicles,Walking Paths,Bike Sharing",8.25
+23,9.6,10.0,10.0,9.8,8.0,4 active conservation projects,"EarthCheck,LEED,Blue Flag","Public Transit,Walking Paths,Electric Vehicles,Bike Sharing",9.55
+24,10.0,8.7,6.8,10.0,8.0,0 active conservation projects,"Blue Flag,Green Globe",Walking Paths,8.8
+25,3.8,2.4,2.6,5.0,1.5,2 active conservation projects,EarthCheck,"Public Transit,Electric Vehicles",3.17
+26,7.4,6.6,6.8,7.0,5.9,0 active conservation projects,"LEED,Green Key","Public Transit,Electric Vehicles",6.82
+27,2.8,3.8,5.0,4.1,4.9,2 active conservation projects,Blue Flag,"Electric Vehicles,Public Transit",4.02
+28,1.9,3.3,2.1,4.9,5.7,3 active conservation projects,Green Key,"Walking Paths,Electric Vehicles,Bike Sharing,Public Transit",3.41
+29,2.0,3.0,4.6,1.5,1.8,2 active conservation projects,None,Public Transit,2.58
+30,5.2,8.0,4.8,7.9,7.2,1 active conservation projects,"Blue Flag,LEED","Walking Paths,Electric Vehicles,Public Transit",6.53
+31,5.9,6.1,6.6,8.5,8.1,5 active conservation projects,"Green Key,EarthCheck",Public Transit,6.93
+32,8.8,9.4,7.7,10.0,10.0,4 active conservation projects,"Green Globe,LEED,Blue Flag",Electric Vehicles,9.12
+33,5.9,6.3,8.7,7.8,5.8,4 active conservation projects,"Blue Flag,LEED",,6.92
+34,3.5,3.7,3.2,3.8,2.9,3 active conservation projects,Green Key,Bike Sharing,3.44
+35,7.3,7.1,4.1,4.9,6.4,1 active conservation projects,LEED,"Bike Sharing,Electric Vehicles",5.99
+36,3.7,4.4,2.2,4.6,3.9,5 active conservation projects,Green Globe,"Bike Sharing,Electric Vehicles,Walking Paths",3.76
+37,4.6,6.1,4.6,4.5,3.3,4 active conservation projects,LEED,"Public Transit,Walking Paths,Electric Vehicles",4.7
+38,10.0,7.8,7.2,7.5,9.6,3 active conservation projects,"Blue Flag,LEED","Public Transit,Bike Sharing,Electric Vehicles,Walking Paths",8.44
+39,8.7,10.0,9.1,9.8,8.9,1 active conservation projects,"LEED,Green Globe,Blue Flag",Public Transit,9.28
+40,7.2,7.9,6.6,7.4,7.2,5 active conservation projects,"LEED,EarthCheck",Walking Paths,7.24
+41,7.8,7.8,10.0,9.5,9.6,3 active conservation projects,"EarthCheck,Green Key",,8.85
+42,4.7,3.5,2.4,5.7,3.7,5 active conservation projects,EarthCheck,,4.05
+43,9.7,9.5,8.6,9.2,7.9,4 active conservation projects,"LEED,Blue Flag,EarthCheck","Bike Sharing,Walking Paths",9.08
+44,7.4,6.4,7.8,7.8,5.9,5 active conservation projects,"EarthCheck,Green Key","Public Transit,Bike Sharing",7.15
+45,2.0,3.8,4.8,3.6,4.0,2 active conservation projects,Green Key,"Public Transit,Walking Paths,Bike Sharing",3.53
+46,2.8,4.9,2.3,3.0,4.8,4 active conservation projects,LEED,"Electric Vehicles,Walking Paths",3.45
+47,6.1,5.8,7.8,5.4,8.9,3 active conservation projects,"Green Globe,LEED",Walking Paths,6.65
+48,3.3,3.4,1.8,5.2,4.7,1 active conservation projects,Green Globe,"Walking Paths,Electric Vehicles,Public Transit",3.62
+49,6.6,8.1,6.2,6.3,6.6,3 active conservation projects,"LEED,EarthCheck","Electric Vehicles,Walking Paths,Bike Sharing",6.76
+50,6.2,3.4,5.4,3.6,3.6,3 active conservation projects,Green Globe,"Bike Sharing,Electric Vehicles",4.58
+51,4.5,4.0,6.9,4.7,4.9,3 active conservation projects,LEED,"Walking Paths,Public Transit,Bike Sharing,Electric Vehicles",4.98
+52,10.0,8.4,10.0,10.0,10.0,3 active conservation projects,"Green Globe,EarthCheck,Blue Flag","Electric Vehicles,Public Transit,Walking Paths,Bike Sharing",9.67
+53,6.4,7.1,8.0,9.0,9.5,3 active conservation projects,"Green Globe,Blue Flag",Electric Vehicles,7.86
+54,6.3,3.3,7.0,6.3,6.1,4 active conservation projects,Blue Flag,,5.81
+55,3.4,1.9,4.7,4.9,4.1,0 active conservation projects,Green Globe,"Public Transit,Electric Vehicles",3.77
+56,2.1,5.1,3.9,3.1,3.7,4 active conservation projects,Blue Flag,,3.5
+57,2.5,4.4,2.4,2.2,4.7,3 active conservation projects,LEED,Electric Vehicles,3.12
+58,6.3,7.6,6.1,8.1,7.7,0 active conservation projects,"Green Key,LEED",,7.11
+59,4.2,4.7,2.2,4.1,4.7,0 active conservation projects,Green Globe,"Electric Vehicles,Public Transit,Walking Paths",3.98
+60,4.6,6.0,5.1,5.4,5.7,5 active conservation projects,Green Globe,"Electric Vehicles,Bike Sharing",5.3
+61,8.6,9.2,8.6,9.0,9.6,0 active conservation projects,"Green Key,LEED","Public Transit,Walking Paths,Bike Sharing",8.97
+62,4.3,2.1,4.5,4.7,4.3,3 active conservation projects,Green Key,"Public Transit,Bike Sharing,Electric Vehicles",4.01
+63,4.7,7.3,7.3,8.3,5.2,5 active conservation projects,"Blue Flag,Green Globe","Electric Vehicles,Bike Sharing,Public Transit,Walking Paths",6.55
+64,5.8,3.3,5.1,5.7,4.8,3 active conservation projects,Green Key,,5.0
+65,3.0,6.2,5.2,3.4,5.2,1 active conservation projects,EarthCheck,"Public Transit,Walking Paths,Bike Sharing,Electric Vehicles",4.49
+66,4.3,2.3,3.8,1.9,4.3,4 active conservation projects,LEED,"Bike Sharing,Walking Paths,Public Transit,Electric Vehicles",3.33
+67,4.1,6.4,3.8,4.0,4.8,3 active conservation projects,Blue Flag,"Walking Paths,Bike Sharing,Public Transit,Electric Vehicles",4.58
+68,6.5,7.1,8.4,7.2,6.4,0 active conservation projects,"Green Key,Green Globe","Walking Paths,Public Transit,Electric Vehicles,Bike Sharing",7.11
+69,3.3,1.9,2.3,3.9,2.5,1 active conservation projects,None,"Public Transit,Bike Sharing,Walking Paths,Electric Vehicles",2.81
+70,3.1,4.2,6.3,5.3,3.9,5 active conservation projects,Green Key,Public Transit,4.53
+71,6.8,7.9,6.3,8.5,7.0,1 active conservation projects,"Green Key,EarthCheck","Public Transit,Electric Vehicles,Bike Sharing",7.29
+72,6.5,6.0,7.4,7.9,8.4,3 active conservation projects,"Blue Flag,LEED","Electric Vehicles,Bike Sharing,Public Transit,Walking Paths",7.12
+73,10.0,8.3,10.0,10.0,7.4,5 active conservation projects,"LEED,Green Key,EarthCheck",,9.28
+74,5.7,5.1,4.3,5.0,5.6,4 active conservation projects,Green Key,"Electric Vehicles,Public Transit,Bike Sharing",5.16
+75,10.0,10.0,7.9,9.6,10.0,2 active conservation projects,"EarthCheck,Green Globe,Blue Flag",,9.49
+76,10.0,8.0,10.0,10.0,7.9,1 active conservation projects,"Blue Flag,Green Globe,EarthCheck","Walking Paths,Electric Vehicles",9.29
+77,2.4,3.7,3.1,4.9,4.3,2 active conservation projects,Green Globe,Public Transit,3.59
+78,5.9,6.3,7.4,8.4,8.2,0 active conservation projects,"EarthCheck,Green Globe","Walking Paths,Electric Vehicles",7.13
+79,8.0,8.3,8.7,8.6,7.9,5 active conservation projects,"EarthCheck,Green Globe","Walking Paths,Electric Vehicles",8.29
+80,3.7,5.0,6.6,6.6,3.7,1 active conservation projects,Blue Flag,"Electric Vehicles,Walking Paths",5.15
+81,7.8,5.5,7.8,5.8,7.6,4 active conservation projects,"LEED,Green Key","Bike Sharing,Electric Vehicles,Public Transit,Walking Paths",6.92
+82,2.8,6.0,6.0,4.5,4.7,1 active conservation projects,EarthCheck,"Public Transit,Bike Sharing,Walking Paths,Electric Vehicles",4.72
+83,2.2,5.6,5.7,3.0,3.1,5 active conservation projects,Green Globe,Bike Sharing,3.87
+84,2.2,1.6,4.1,3.8,5.0,4 active conservation projects,Green Key,Bike Sharing,3.22
+85,4.0,4.9,5.6,7.0,4.8,0 active conservation projects,Green Globe,,5.21
+86,7.8,9.0,10.0,7.3,8.3,0 active conservation projects,"Green Globe,LEED","Bike Sharing,Electric Vehicles",8.45
+87,3.6,3.2,4.8,2.5,2.4,3 active conservation projects,LEED,"Walking Paths,Bike Sharing,Electric Vehicles",3.34
+88,3.9,4.8,4.4,3.2,5.4,3 active conservation projects,Green Key,Public Transit,4.27
+89,10.0,8.1,8.8,9.7,9.6,4 active conservation projects,"EarthCheck,LEED,Green Key","Public Transit,Bike Sharing,Walking Paths",9.26
+90,9.2,5.8,6.4,8.7,6.6,1 active conservation projects,"Blue Flag,EarthCheck","Public Transit,Electric Vehicles",7.46
+91,5.6,8.8,5.8,5.8,7.6,2 active conservation projects,"EarthCheck,Green Key",,6.61
+92,5.0,3.8,4.4,6.0,7.1,0 active conservation projects,Blue Flag,,5.16
+93,1.0,3.2,3.6,2.1,3.8,4 active conservation projects,None,Electric Vehicles,2.6
+94,6.4,9.6,5.8,9.4,8.1,0 active conservation projects,"LEED,Green Globe","Electric Vehicles,Bike Sharing,Walking Paths,Public Transit",7.78
+95,4.5,4.1,6.9,4.4,4.6,0 active conservation projects,Blue Flag,Public Transit,4.89
+96,3.0,3.6,2.8,6.3,6.4,4 active conservation projects,Green Globe,"Electric Vehicles,Bike Sharing,Walking Paths,Public Transit",4.25
+97,10.0,10.0,7.0,6.8,7.4,0 active conservation projects,"Green Key,Blue Flag","Walking Paths,Public Transit",8.35
+98,10.0,10.0,10.0,10.0,10.0,4 active conservation projects,"EarthCheck,LEED,Green Key","Public Transit,Electric Vehicles,Walking Paths,Bike Sharing",10.0
+99,3.4,4.5,4.2,1.9,5.0,1 active conservation projects,LEED,"Bike Sharing,Walking Paths,Electric Vehicles",3.71
+100,9.2,6.6,9.1,6.6,7.5,5 active conservation projects,"EarthCheck,LEED",,7.9
